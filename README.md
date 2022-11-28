@@ -22,10 +22,10 @@
 
 ## 28.11.2022
 - Morning routine DONE
-- Study 1 hour+
-- Chest&back workout
-- Read a boo
-- Groceries
-- No music day
-- Ironing
-- Congratulate granddad
+- Study 1 hour+ DONE
+- Chest&back workout HALF DONE
+- Read a book DONE
+- Groceries DONE
+- No music day DONE
+- Ironing DONE
+- Congratulate granddad DONE
