@@ -19,3 +19,13 @@
 - Wash head DONE
 - Change a blanket cover DONE
 - + Laundry DONE
+
+## 28.11.2022
+- Morning routine DONE
+- Study 1 hour+
+- Chest&back workout
+- Read a boo
+- Groceries
+- No music day
+- Ironing
+- Congratulate granddad
