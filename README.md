@@ -29,3 +29,12 @@
 - No music day DONE
 - Ironing DONE
 - Congratulate granddad DONE
+
+## 29.11.2022
+- Chest workout from yesterday
+- Read a book
+- Study 1+ hour:
+- + 30 mins JavaScript
+- + 30+ mins basic theory
+- Stretching
+- Think on a New Year's gifts
