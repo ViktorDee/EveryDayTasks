@@ -31,10 +31,10 @@
 - Congratulate granddad DONE
 
 ## 29.11.2022
-- Chest workout from yesterday
-- Read a book
-- Study 1+ hour:
-- + 30 mins JavaScript
+- Chest workout from yesterday DOME
+- Read a book DONE
+- Study 1+ hour: HALF DONE
+- + 30 mins JavaScript DONE
 - + 30+ mins basic theory
-- Stretching
-- Think on a New Year's gifts
+- Stretching DONE
+- Think on a New Year's gifts DONE
