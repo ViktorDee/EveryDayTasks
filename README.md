@@ -38,3 +38,11 @@
 - + 30+ mins basic theory
 - Stretching DONE
 - Think on a New Year's gifts DONE
+
+## 30.11.2022
+- Legs workout
+- Class with Sofia
+- Study 1+ hour
+- Checklist and a site testing
+- Read a book
+- Figure out a class with Roma
