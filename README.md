@@ -40,9 +40,9 @@
 - Think on a New Year's gifts DONE
 
 ## 30.11.2022
-- Legs workout
-- Class with Sofia
-- Study 1+ hour
-- Checklist and a site testing
-- Read a book
-- Figure out a class with Roma
+- Legs workout TOMORROW
+- Class with Sofia CANCELLED
+- Study 1+ hour DONE
+- Checklist and a site testing DONE
+- Read a book DONE
+- Figure out a class with Roma DONE
