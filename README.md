@@ -48,7 +48,7 @@
 - Figure out a class with Roma DONE
 
 ## 01.12.2022
-- Legs workout
-- Read a book
-- Groceries: cheese, tomatoes, maybe chips, maybe nemoloko
-- Study 1+ hour
+- Legs workout DONE
+- Read a book DONE
+- Groceries: cheese, tomatoes, maybe chips, maybe nemoloko DONE
+- Study 1+ hour DONE
