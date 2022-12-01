@@ -46,3 +46,9 @@
 - Checklist and a site testing DONE
 - Read a book DONE
 - Figure out a class with Roma DONE
+
+## 01.12.2022
+- Legs workout
+- Read a book
+- Groceries: cheese, tomatoes, maybe chips, maybe nemoloko
+- Study 1+ hour
