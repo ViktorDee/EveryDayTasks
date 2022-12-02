@@ -61,3 +61,4 @@
 - Ironing
 - Class with Tina
 - Read a book
+- Groceries
