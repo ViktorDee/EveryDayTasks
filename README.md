@@ -52,3 +52,12 @@
 - Read a book DONE
 - Groceries: cheese, tomatoes, maybe chips, maybe nemoloko DONE
 - Study 1+ hour DONE
+
+## 02.12.2022
+- Arms & Shoulders workout
+- Study 1+ hour
+- Watch the webinar
+- Laundry
+- Ironing
+- Class with Tina
+- Read a book
