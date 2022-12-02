@@ -54,11 +54,11 @@
 - Study 1+ hour DONE
 
 ## 02.12.2022
-- Arms & Shoulders workout
-- Study 1+ hour
-- Watch the webinar
-- Laundry
-- Ironing
-- Class with Tina
-- Read a book
-- Groceries
+- Arms & Shoulders workout DONE
+- Study 1+ hour DONE
+- Watch the webinar DONE
+- Laundry DONE
+- Ironing NOT DRY YET
+- Class with Tina DONE
+- Read a book DONE
+- Groceries DONE
