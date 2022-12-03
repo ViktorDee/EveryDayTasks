@@ -64,12 +64,12 @@
 - Groceries DONE
 
 ## 03.12.2022
-- Ironing
-- Vacuum cleaning
-- Time with Lisa
-- Read a book
-- Groceries
-- Study 30+ mins
-- Clean the sink
+- Ironing DONE
+- Vacuum cleaning DONE
+- Time with Lisa DONE
+- Read a book DONE
+- Groceries DONE
+- Study 30+ mins NOT DONE - TOMORROW
+- Clean the sink DONE
 - Clean the mirror in the bathroom DONE
 - Wash head DONE
