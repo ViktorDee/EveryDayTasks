@@ -81,3 +81,4 @@
 - Groceries
 - Abs
 - Recycling
+- Read a book
