@@ -73,3 +73,11 @@
 - Clean the sink DONE
 - Clean the mirror in the bathroom DONE
 - Wash head DONE
+
+## 04.12.2022
+- Walk to Pasha and spend time together
+- Gift for Ilya
+- Study 1+ hour
+- Groceries
+- Abs
+- Recycling
