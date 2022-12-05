@@ -84,8 +84,8 @@
 - Read a book **DONE**
 
 ## 05.12.2022
-- Chest & back workout
-- Appointment with the Rostelecom guy
-- Interview
-- Read a book
-- Study 1+ hour
+- Chest & back workout **DONE**
+- Appointment with the Rostelecom guy **DONE**
+- Interview **DONE**
+- Read a book **DONE**
+- Study 1+ hour **DONE**
