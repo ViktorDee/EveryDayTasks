@@ -82,3 +82,10 @@
 - Abs **DONE**
 - Recycling **DONE**
 - Read a book **DONE**
+
+## 05.12.2022
+- Chest & back workout
+- Appointment with the Rostelecom guy
+- Interview
+- Read a book
+- Study 1+ hour
