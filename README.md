@@ -91,10 +91,10 @@
 - Study 1+ hour **DONE**
 
 ## 06.12.2022
-- Ask Pasha about Ilya's gift
-- Clean the balcony
-- Read a book
-- Study +1 hour
-- Ozon
-- Stretching
-- Find info about computer glasses
+- Ask Pasha about Ilya's gift **DONE**
+- Clean the balcony **DONE**
+- Read a book **DONE**
+- Study +1 hour **DONE**
+- Ozon **TOMORROW**
+- Stretching **DONE**
+- Find info about computer glasses **DONE**
