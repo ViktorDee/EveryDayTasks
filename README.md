@@ -100,10 +100,10 @@
 - Find info about computer glasses **DONE**
 
 ## 07.12.2022
-- Legs workout
-- Read a book
-- Ozon
-- Study 1+ hour
-- Materials for a class
-- Class with Sofia
-- Have a 20-30 minutes nap
+- Legs workout **DONE**
+- Read a book **DONE** 
+- Ozon **DONE**
+- Study 1+ hour **DONE**
+- Materials for a class **DONE**
+- Class with Sofia **CANCELLED**
+- Have a 20-30 minutes nap **DONE**
