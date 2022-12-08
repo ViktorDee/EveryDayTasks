@@ -109,9 +109,9 @@
 - Have a 20-30 minutes nap **DONE**
 
 ## 08.12.2022
-- Cook garnish and chicken
-- Work tests for 1 hour
-- Read a book
-- A call with Pasha
+- Cook garnish and chicken **DONE**
+- Work tests for 1 hour **DONE**
+- Read a book **DONE**
+- A call with Pasha **DONE**
 - Meditation 10 mins
-- Laundry
+- Laundry **DONE**
