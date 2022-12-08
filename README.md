@@ -107,3 +107,11 @@
 - Materials for a class **DONE**
 - Class with Sofia **CANCELLED**
 - Have a 20-30 minutes nap **DONE**
+
+## 08.12.2022
+- Cook garnish and chicken
+- Work tests for 1 hour
+- Read a book
+- A call with Pasha
+- Meditation 10 mins
+- Laundry
