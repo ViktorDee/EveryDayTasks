@@ -118,11 +118,11 @@
 
 ## 09.12.2022
 - Read a book
-- Class with Tina
-- Groceries
-- Meditation 10 mins
-- Arms&shoulders workout
-- Abs (a little)
-- Ironing
-- Tests 30-60 mins
-- Watch a webinar
+- Class with Tina **DONE**
+- Groceries **DONE**
+- Meditation 10 mins **DONE**
+- Arms&shoulders workout **DONE**
+- Abs (a little) **DONE**
+- Ironing **DONE**
+- Tests 30-60 mins **DONE**
+- Watch a webinar **DONE**
