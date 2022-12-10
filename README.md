@@ -128,10 +128,11 @@
 - Watch a webinar **DONE**
 
 ## 10.12.2022
-- Read a book
-- Meditation 10 mins
-- Buy coconut oil
-- Chill with Pasha
-- laundry
-- Works tests 30-60 mins
-- Throw away trash
+- Read a book **NOT NEEDED**
+- Meditation 10 mins **NOT NEEDED**
+- Buy coconut oil **DONE**
+- Chill with Pasha **DONE**
+- laundry **DONE**
+- Works tests 30-60 mins **DONE**
+- Throw away trash **DONE**
+- + Laudry **DONE**
