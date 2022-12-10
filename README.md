@@ -117,7 +117,7 @@
 - Laundry **DONE**
 
 ## 09.12.2022
-- Read a book
+- Read a book **NOT DONE**
 - Class with Tina **DONE**
 - Groceries **DONE**
 - Meditation 10 mins **DONE**
@@ -126,3 +126,12 @@
 - Ironing **DONE**
 - Tests 30-60 mins **DONE**
 - Watch a webinar **DONE**
+
+## 10.12.2022
+- Read a book
+- Meditation 10 mins
+- Buy coconut oil
+- Chill with Pasha
+- laundry
+- Works tests 30-60 mins
+- Throw away trash
