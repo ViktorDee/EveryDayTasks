@@ -136,3 +136,14 @@
 - Works tests 30-60 mins **DONE**
 - Throw away trash **DONE**
 - + Laudry **DONE**
+
+## 11.12.2022
+- Read a book
+- Meditation 10 mins
+- Recycling maybe
+- Class with Roma
+- Class with Sofia
+- Shave neck
+- Groceries
+- Work tests 30-60 mins
+- Watch about test cases
