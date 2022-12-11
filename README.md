@@ -138,12 +138,14 @@
 - + Laudry **DONE**
 
 ## 11.12.2022
-- Read a book
-- Meditation 10 mins
-- Recycling maybe
-- Class with Roma
-- Class with Sofia
-- Shave neck
-- Groceries
+- Read a book **DONE**
+- Meditation 10 mins **DONE**
+- Recycling maybe **IRRELEVANT**
+- Class with Roma **DONE**
+- Class with Sofia **CANCELLED**
+- Shave neck **DONE**
+- Groceries **DONE**
 - Work tests 30-60 mins
-- Watch about test cases
+- Watch about test cases **DONE**
+- Vacuum cleaning **ADDED & DONE**
+- Change bedsheets **ADDED & DONE**
