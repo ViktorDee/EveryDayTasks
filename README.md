@@ -151,8 +151,8 @@
 - Change bedsheets **ADDED & DONE**
 
 ## 12.12.2022
-- Read a book
-- Meditation 10 mins
-- Chest & back workout
-- Work tests 30-60 mins
-- Wash head
+- Read a book **DONE**
+- Meditation 10 mins **DONE**
+- Chest & back workout **CHEST DONE**
+- Work tests 30-60 mins **DONE**
+- Wash head **DONE**
