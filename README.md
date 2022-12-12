@@ -145,7 +145,14 @@
 - Class with Sofia **CANCELLED**
 - Shave neck **DONE**
 - Groceries **DONE**
-- Work tests 30-60 mins
+- Work tests 30-60 mins **DONE**
 - Watch about test cases **DONE**
 - Vacuum cleaning **ADDED & DONE**
 - Change bedsheets **ADDED & DONE**
+
+## 12.12.2022
+- Read a book
+- Meditation 10 mins
+- Chest & back workout
+- Work tests 30-60 mins
+- Wash head
