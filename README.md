@@ -156,3 +156,11 @@
 - Chest & back workout **CHEST DONE**
 - Work tests 30-60 mins **DONE**
 - Wash head **DONE**
+
+## 13.12.2022
+- Read a book
+- Back workout
+- Order groceries
+- Work tests 30-60 mins
+- Study java
+- Throw trash
