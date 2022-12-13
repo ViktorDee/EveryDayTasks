@@ -158,9 +158,9 @@
 - Wash head **DONE**
 
 ## 13.12.2022
-- Read a book
-- Back workout
-- Order groceries
-- Work tests 30-60 mins
-- Study java
-- Throw trash
+- Read a book **DONE**
+- Back workout **DONE**
+- Order groceries **FAILED. WENT TO THE STORE**
+- Work tests 30-60 mins **DONE**
+- Study java **DONE**
+- Throw trash **DONE**
