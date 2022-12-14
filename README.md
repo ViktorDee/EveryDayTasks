@@ -164,3 +164,12 @@
 - Work tests 30-60 mins **DONE**
 - Study java **DONE**
 - Throw trash **DONE**
+
+## 14.12.2022
+- Read a book
+- Legs workout
+- Blood test
+- Work tests 30-60 mins
+- Study java
+- Call a grandma
+- Class with Sofia (?)
