@@ -166,10 +166,10 @@
 - Throw trash **DONE**
 
 ## 14.12.2022
-- Read a book
-- Legs workout
-- Blood test
-- Work tests 30-60 mins
-- Study java
-- Call a grandma
-- Class with Sofia (?)
+- Read a book **DONE**
+- Legs workout **DONE**
+- Blood test **DONE**
+- Work tests 30-60 mins **FAILED**
+- Study java **DONE**
+- Call a grandma **FAILED**
+- Class with Sofia **DONE**
