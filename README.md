@@ -173,3 +173,12 @@
 - Study java **DONE**
 - Call a grandma **FAILED**
 - Class with Sofia **DONE**
+
+## 15.12.2022
+- Read a book **DONE**
+- Laundry **DONE**
+- Ironing **DONE**
+- Study Java **DONE**
+- Work tests 30-60 mins **HALF DONE**
+- Call a grandma **DONE**
+- Groceries **DONE**
