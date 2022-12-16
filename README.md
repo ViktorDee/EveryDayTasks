@@ -185,9 +185,9 @@
 
 ## 16.12.2022
 - Read a book
-- Ironing
-- Arms and shoulders workout
-- Class with Tina
-- A 20-30 mins nap
-- Study Java
-- Work tests 30-60 mins
+- Ironing **DONE**
+- Arms and shoulders workout **DONE**
+- Class with Tina **CANCELLED**
+- A 20-30 mins nap **DONE**
+- Study Java **DONE**
+- Work tests 30-60 mins **DONE**
