@@ -182,3 +182,12 @@
 - Work tests 30-60 mins **HALF DONE**
 - Call a grandma **DONE**
 - Groceries **DONE**
+
+## 16.12.2022
+- Read a book
+- Ironing
+- Arms and shoulders workout
+- Class with Tina
+- A 20-30 mins nap
+- Study Java
+- Work tests 30-60 mins
