@@ -191,3 +191,11 @@
 - A 20-30 mins nap **DONE**
 - Study Java **DONE**
 - Work tests 30-60 mins **DONE**
+
+## 17.12.2022
+- Recycling
+- Read a book
+- Time with Ilya
+- Work tests 30-60 mins
+- Study Java
+- Groceries
