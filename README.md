@@ -199,3 +199,15 @@
 - Work tests 30-60 mins **DONE**
 - Study Java **DONE**
 - Groceries **DONE**
+
+## 18.12.2022
+- Read a book
+- Time with dad
+- Recycling: glass
+- Shave neck
+- Vacuum cleaning
+- Change bedsheets
+- Dust wiping
+- Abs workout
+- A class with Roman (not sure)
+- Throw trash
