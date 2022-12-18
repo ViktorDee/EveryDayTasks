@@ -202,12 +202,12 @@
 
 ## 18.12.2022
 - Read a book
-- Time with dad
-- Recycling: glass
-- Shave neck
-- Vacuum cleaning
-- Change bedsheets
-- Dust wiping
-- Abs workout
-- A class with Roman (not sure)
-- Throw trash
+- Time with dad **DONE**
+- Recycling: glass **DONE**
+- Shave neck **DONE**
+- Vacuum cleaning **DONE**
+- Change bedsheets **DONE**
+- Dust wiping **DONE**
+- Abs workout **TOMORROW**
+- A class with Roman (not sure) **MOVED**
+- Throw trash **DONE**
