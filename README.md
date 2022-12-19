@@ -213,10 +213,10 @@
 - Throw trash **DONE**
 
 ## 19.12.2022
-- Meditation 10 mins
-- Groceries
-- Study Java
-- Chest and back workout
-- Work tests 30 mins
-- Ozon
-- Wash head
+- Meditation 10 mins **DONE**
+- Groceries **DONE**
+- Study Java **DONE**
+- Chest and back workout **DONE**
+- Work tests 30 mins **DONE**
+- Ozon **DONE**
+- Wash head **DONE**
