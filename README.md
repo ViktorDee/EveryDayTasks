@@ -211,3 +211,12 @@
 - Abs workout **TOMORROW**
 - A class with Roman (not sure) **MOVED**
 - Throw trash **DONE**
+
+## 19.12.2022
+- Meditation 10 mins
+- Groceries
+- Study Java
+- Chest and back workout
+- Work tests 30 mins
+- Ozon
+- Wash head
