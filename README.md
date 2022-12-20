@@ -222,9 +222,9 @@
 - Wash head **DONE**
 
 ## 20.12.2022
-- Read a book
-- Study Java
-- Work tests
-- Ironing
-- Class with Roman
-- Meditation 10 mins
+- Read a book **TOMORROW**
+- Study Java **DONE**
+- Work tests **DONE**
+- Ironing **DONE**
+- Class with Roman **DONE**
+- Meditation 10 mins **TOMORROW**
