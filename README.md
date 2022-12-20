@@ -220,3 +220,11 @@
 - Work tests 30 mins **DONE**
 - Ozon **DONE**
 - Wash head **DONE**
+
+## 20.12.2022
+- Read a book
+- Study Java
+- Work tests
+- Ironing
+- Class with Roman
+- Meditation 10 mins
