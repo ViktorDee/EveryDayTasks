@@ -228,3 +228,11 @@
 - Ironing **DONE**
 - Class with Roman **DONE**
 - Meditation 10 mins **TOMORROW**
+
+## 21.22.2022
+- Read a book
+- Meditation 10 mins
+- Work tests 30-60 mins
+- Study Java
+- Legs workout
+- Groceries
