@@ -238,10 +238,10 @@
 - Groceries **DONE**
 
 ## 22.12.2022
-- Read a book
-- Wash head
-- Study Java
-- Work tests 30-60 mins
-- Cold shower
-- Pull-ups outside
-- Have a walk
+- Read a book **DONE**
+- Wash head **DONE**
+- Study Java **DONE**
+- Work tests 30-60 mins **OVERDONE**
+- Cold shower **DONE**
+- Pull-ups outside **DONE. 17**
+- Have a walk **DONE**
