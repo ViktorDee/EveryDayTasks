@@ -229,10 +229,19 @@
 - Class with Roman **DONE**
 - Meditation 10 mins **TOMORROW**
 
-## 21.22.2022
+## 21.12.2022
 - Read a book **DONE**
 - Meditation 10 mins **DONE**
 - Work tests 30-60 mins **DONE**
 - Study Java **DONE**
 - Legs workout **DONE**
 - Groceries **DONE**
+
+## 22.12.2022
+- Read a book
+- Wash head
+- Study Java
+- Work tests 30-60 mins
+- Cold shower
+- Pull-ups outside
+- Have a walk
