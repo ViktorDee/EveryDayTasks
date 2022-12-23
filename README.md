@@ -247,11 +247,11 @@
 - Have a walk **DONE**
 
 ## 23.12.2022
-- Read a book
-- Class with Tine
-- Study Java
-- Work tests 30-60 mins
-- Arms & shoulders workout
-- Groceries
-- Have a walk
-- Stretching
+- Read a book **DONE**
+- Class with Tina **DONE**
+- Study Java **DONE**
+- Work tests 30-60 mins **DONE**
+- Arms & shoulders workout **DONE**
+- Groceries **DONE**
+- Have a walk **DONE**
+- Stretching **DONE**
