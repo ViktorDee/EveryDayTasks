@@ -255,3 +255,10 @@
 - Groceries **DONE**
 - Have a walk **DONE**
 - Stretching **DONE**
+
+## 24.12.2022
+- Read a book
+- Study Java
+- Work tests 30 mins
+- Ozon
+- Have a walk
