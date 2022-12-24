@@ -258,7 +258,8 @@
 
 ## 24.12.2022
 - Read a book
-- Study Java
-- Work tests 30 mins
+- Study Java **DONE**
+- Work tests 30 mins **DONE**
 - Ozon
 - Have a walk
+- A call with Lisa **DONE**
