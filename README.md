@@ -257,9 +257,9 @@
 - Stretching **DONE**
 
 ## 24.12.2022
-- Read a book
+- Read a book **DONE**
 - Study Java **DONE**
 - Work tests 30 mins **DONE**
-- Ozon
-- Have a walk
+- Ozon **DONE**
+- Have a walk **DONE**
 - A call with Lisa **DONE**
