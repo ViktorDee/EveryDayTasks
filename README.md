@@ -263,3 +263,13 @@
 - Ozon **DONE**
 - Have a walk **DONE**
 - A call with Lisa **DONE**
+
+## 25.12.2022
+- Read a book
+- Study Java
+- Vacuum cleaning
+- Laundry
+- Groceries
+- Work tests ~30 mins
+- A class with Roman
+- Clean both sinks
