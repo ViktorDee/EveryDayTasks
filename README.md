@@ -265,11 +265,11 @@
 - A call with Lisa **DONE**
 
 ## 25.12.2022
-- Read a book
-- Study Java
-- Vacuum cleaning
-- Laundry
-- Groceries
-- Work tests ~30 mins
-- A class with Roman
-- Clean both sinks
+- Read a book **DONE**
+- Study Java **DONE**
+- Vacuum cleaning **DONE**
+- Laundry **DONE**
+- Groceries **DONE**
+- Work tests ~30 mins **DONE**
+- A class with Roman **MOVED**
+- Clean both sinks **DONE**
