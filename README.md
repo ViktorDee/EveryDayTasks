@@ -273,3 +273,12 @@
 - Work tests ~30 mins **DONE**
 - A class with Roman **MOVED**
 - Clean both sinks **DONE**
+
+## 26.12.2022
+- Read a book
+- Study
+- Work tests 30 mins
+- Chest and back workout
+- Wash head
+- Clean the mirror
+- Cut hair on the back of my head
