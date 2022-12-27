@@ -284,11 +284,11 @@
 - Cut hair on the back of my head **DONE**
 
 ## 27.12.2022
-- Have a walk
-- Draw and cut lil cocks out of paper
-- Go buy a nice meal outside
-- Check the price of baht on the site
-- Study Java
-- Work tests at least 20 mins
-- Read a book
-- Groceries
+- Have a walk **DONE**
+- Draw and cut lil cocks out of paper **DONE**
+- Go buy a nice meal outside **DONE**
+- Check the price of baht on the site **DONE**
+- Study Java **DONE**
+- Work tests at least 20 mins **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
