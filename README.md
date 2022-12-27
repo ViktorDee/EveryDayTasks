@@ -282,3 +282,13 @@
 - Wash head **DONE**
 - Clean the mirror **DONE**
 - Cut hair on the back of my head **DONE**
+
+## 27.12.2022
+- Have a walk
+- Draw and cut lil cocks out of paper
+- Go buy a nice meal outside
+- Check the price of baht on the site
+- Study Java
+- Work tests at least 20 mins
+- Read a book
+- Groceries
