@@ -294,10 +294,10 @@
 - Groceries **DONE**
 
 ## 28.12.2022
-- Meditate 10 mins
-- Cook chicken
-- Legs workout
-- Nap for 30 mins
-- Work tests
-- Study Java
-- Throw trash
+- Meditate 10 mins **NOT DONE**
+- Cook chicken **DONE**
+- Legs workout **DONE**
+- Nap for 30 mins **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Throw trash **DONE**
