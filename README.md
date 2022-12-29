@@ -301,3 +301,10 @@
 - Work tests **DONE**
 - Study Java **DONE**
 - Throw trash **DONE**
+
+## 29.12.2022
+- Meditate 10 mins
+- Time with Lisa
+- Groceries
+- Study
+- Work tests
