@@ -303,8 +303,8 @@
 - Throw trash **DONE**
 
 ## 29.12.2022
-- Meditate 10 mins
-- Time with Lisa
-- Groceries
-- Study
-- Work tests
+- Meditate 10 mins **DONE**
+- Time with Lisa **DONE**
+- Groceries **DONE**
+- Study 
+- Work tests **DONE**
