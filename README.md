@@ -310,12 +310,12 @@
 - Work tests **DONE**
 
 ## 30.12.2022
-- Read a book
-- Work tests
-- Vacuum cleaning
-- Laundry
-- Message dad
-- Call grandparents
-- Change bedsheets
-- Groceries
-- A class with Tina
+- Read a book **DONE**
+- Work tests **DONE**
+- Vacuum cleaning **DONE**
+- Laundry **DONE**
+- Message dad **DONE**
+- Call grandparents **DONE**
+- Change bedsheets **DONE**
+- Groceries 
+- A class with Tina **DONE**
