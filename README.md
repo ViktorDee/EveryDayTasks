@@ -308,3 +308,14 @@
 - Groceries **DONE**
 - Study 
 - Work tests **DONE**
+
+## 30.12.2022
+- Read a book
+- Work tests
+- Vacuum cleaning
+- Laundry
+- Message dad
+- Call grandparents
+- Change bedsheets
+- Groceries
+- A class with Tina
