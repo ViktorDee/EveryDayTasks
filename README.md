@@ -317,5 +317,14 @@
 - Message dad **DONE**
 - Call grandparents **DONE**
 - Change bedsheets **DONE**
-- Groceries 
+- Groceries **TOMORROW**
 - A class with Tina **DONE**
+
+## 31.12.2022
+- Groceries
+- Give the gift to Lisa
+- Time with Ilya
+- Celebrate the New Year
+- Watch JoJo
+- Call my familly, cogratulate
+- Work tests
