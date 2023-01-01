@@ -1,3 +1,10 @@
+- Gifts exchange
+- Read a book
+- Work tests
+- Cook turkey
+- Time wilth Ilya and Pasha
+## 01.01.2023
+
 # TO DO LIST
 
 ## 26.11.2022
@@ -321,10 +328,10 @@
 - A class with Tina **DONE**
 
 ## 31.12.2022
-- Groceries
-- Give the gift to Lisa
-- Time with Ilya
-- Celebrate the New Year
-- Watch JoJo
-- Call my familly, cogratulate
-- Work tests
+- Groceries **DONE**
+- Give the gift to Lisa **DONE**
+- Time with Ilya **DONE**
+- Celebrate the New Year **DONE**
+- Watch JoJo **DONE**
+- Call my familly, cogratulate **DONE**
+- Work tests **DONE**
