@@ -1,8 +1,18 @@
-- Gifts exchange
 - Read a book
+- Wash head
+- Groceries
 - Work tests
-- Cook turkey
-- Time wilth Ilya and Pasha
+- Eating routine
+- To bed before 00:00
+- Congratulate mom
+- Laundry
+# 02.01.2023
+
+- Gifts exchange **DONE**
+- Read a book **NOT DONE**
+- Work tests **DONE**
+- Cook turkey **NOT DONE**
+- Time wilth Ilya and Pasha **DONE**
 ## 01.01.2023
 
 # TO DO LIST
