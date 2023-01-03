@@ -1,9 +1,9 @@
-- Read a book
-- Back and chest workout
-- Work tests
-- Study Java
-- Groceries
-- No-f day
+- Read a book **DONE**
+- Back and chest workout **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Groceries **DONE**
+- No-f day **DONE**
 
 ## 03.01.2023
 
