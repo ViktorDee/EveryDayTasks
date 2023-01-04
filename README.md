@@ -1,10 +1,18 @@
+- Legs workout
+- Read a book
+- Meditation 10 mins
+- Understand Java homework
+- Work tests
+- Study Java
+- Laundry
+## 04.01.2023
+
 - Read a book **DONE**
 - Back and chest workout **DONE**
 - Work tests **DONE**
 - Study Java **DONE**
 - Groceries **DONE**
 - No-f day **DONE**
-
 ## 03.01.2023
 
 - Read a book **DONE**
