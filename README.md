@@ -1,10 +1,11 @@
-- Legs workout
-- Read a book
-- Meditation 10 mins
-- Understand Java homework
-- Work tests
-- Study Java
-- Laundry
+- Legs workout **DONE**
+- Read a book **DONE**
+- Meditation 10 mins **DONE**
+- Understand Java homework **PARTIALLY DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Laundry **DONE**
+- NF-day **DONE**
 ## 04.01.2023
 
 - Read a book **DONE**
@@ -12,7 +13,7 @@
 - Work tests **DONE**
 - Study Java **DONE**
 - Groceries **DONE**
-- No-f day **DONE**
+- NF-day **DONE**
 ## 03.01.2023
 
 - Read a book **DONE**
@@ -35,7 +36,6 @@
 # TO DO LIST
 
 ## 26.11.2022
-
 - Time with Tori **DONE**
 - Read a book 100% **WILL DO**
 - Groceries **DONE**
@@ -43,7 +43,6 @@
 - Commit and push this readme before going to sleep **DONE**
 
 ## 27.11.2022
-
 - A call with Sam **DONE**
 - Study **DONE**
 - Read a book **DONE**
