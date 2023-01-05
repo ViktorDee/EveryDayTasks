@@ -1,14 +1,14 @@
-- NF-day
-- Ironing
-- Groceries
-- Work tests
-- Study Java
-- Wash head
-- Tell Kris about the day off
-- Call grandparent and tell them you love them
-- Read a book
-- Meditation 10 mins
-- Shave face
+- NF-day **FAILED**
+- Ironing **DONE**
+- Groceries **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Wash head **DONE**
+- Tell Kris about the day off **DONE**
+- Call grandparent and tell them you love them **DONE**
+- Read a book **DONE**
+- Meditation 10 mins **DONE**
+- Shave face **DONE**
 ## 05.01.2023
 
 - Legs workout **DONE**
