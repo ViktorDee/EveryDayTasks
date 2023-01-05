@@ -37,7 +37,7 @@
 - To bed before 00:00 **DONE**
 - Congratulate mom **DONE**
 - Laundry **DONE**
-# 02.01.2023
+## 02.01.2023
 
 - Gifts exchange **DONE**
 - Read a book **NOT DONE**
