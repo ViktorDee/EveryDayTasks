@@ -1,9 +1,9 @@
-- Read a book
-- Meditation 10 mins
-- NF-day
-- Study Java
-- Work Tests
-- Class with Tina
+- Read a book **DONE**
+- Meditation 10 mins **DONE**
+- NF-day **DONE**
+- Study Java **DONE**
+- Work Tests **DONE**
+- Class with Tina **CANCELLED**
 ## 06.01.2023
 
 - NF-day **FAILED**
