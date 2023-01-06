@@ -1,3 +1,11 @@
+- Read a book
+- Meditation 10 mins
+- NF-day
+- Study Java
+- Work Tests
+- Class with Tina
+## 06.01.2023
+
 - NF-day **FAILED**
 - Ironing **DONE**
 - Groceries **DONE**
