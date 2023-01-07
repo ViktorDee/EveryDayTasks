@@ -1,11 +1,11 @@
-- Read a book
-- Meditation 10 mins
-- NF-day
-- Work tests
-- Study Java
-- Vaccul cleaning
-- Groceries
-- Throw out the trash
+- Read a book **DONE**
+- Meditation 10 mins **DONE**
+- NF-day **DOME**
+- Work tests **DONE**
+- Study Java **DONE**
+- Vaccum cleaning **TOMORROW**
+- Groceries **DONE**
+- Throw out the trash **DONE**
 ## 07.01.2023
 
 - Read a book **DONE**
