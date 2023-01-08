@@ -1,3 +1,10 @@
+- Vacuum cleaning
+- Wash head
+- Work tests
+- Pasha time
+- Just relax. Try not to worry too much
+## 08.01.2023
+
 - Read a book **DONE**
 - Meditation 10 mins **DONE**
 - NF-day **DOME**
