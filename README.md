@@ -1,8 +1,8 @@
-- Vacuum cleaning
-- Wash head
-- Work tests
-- Pasha time
-- Just relax. Try not to worry too much
+- Vacuum cleaning **DONE**
+- Wash head **TOMORROW**
+- Work tests **DONE**
+- Pasha time **CANCELLED**
+- Just relax. Try not to worry too much **SUCCESS**
 ## 08.01.2023
 
 - Read a book **DONE**
