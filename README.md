@@ -1,11 +1,11 @@
-- NF-day
-- Work tests
-- Study Java
-- Chest, back and shoulders workout
-- Change bedsheets
-- Groceries
-- Read a book
-- Meditation 10 mins
+- NF-day **DONE**
+- Work tests **DONE**
+- Study Java **TOO LITTLE**
+- Chest, back and shoulders workout **DONE**
+- Change bedsheets **DONE**
+- Groceries **DONE**
+- Read a book **CANCELLED**
+- Meditation 10 mins **DONE**
 ## 09.01.2023
 
 - Vacuum cleaning **DONE**
