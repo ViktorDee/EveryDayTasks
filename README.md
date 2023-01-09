@@ -1,3 +1,13 @@
+- NF-day
+- Work tests
+- Study Java
+- Chest, back and shoulders workout
+- Change bedsheets
+- Groceries
+- Read a book
+- Meditation 10 mins
+## 09.01.2023
+
 - Vacuum cleaning **DONE**
 - Wash head **TOMORROW**
 - Work tests **DONE**
