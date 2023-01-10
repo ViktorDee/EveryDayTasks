@@ -1,9 +1,9 @@
-- Read a book
-- Meditation 10 mins
-- Rest, relax
-- Work tests
-- Study
-- Laundry
+- Read a book **CANCELLED**
+- Meditation 10 mins **CANCELLED**
+- Rest, relax **DONE**
+- Work tests **DONE**
+- Study **DONE**
+- Laundry **DONE**
 ## 10.01.2023
 
 - NF-day **DONE**
