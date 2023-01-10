@@ -1,3 +1,11 @@
+- Read a book
+- Meditation 10 mins
+- Rest, relax
+- Work tests
+- Study
+- Laundry
+## 10.01.2023
+
 - NF-day **DONE**
 - Work tests **DONE**
 - Study Java **TOO LITTLE**
