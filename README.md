@@ -1,10 +1,10 @@
-- Read a book
-- Meditation 10 mins
-- Work tests
-- A nap
-- Groceries
-- NF-DAY
-- A call with Nika
+- Read a book **CANCELLED**
+- Meditation 10 mins **DONE**
+- Work tests **DONE**
+- A nap **DONE**
+- Groceries **DONE**
+- NF-DAY **DONE**
+- A call with Nika **DONE**
 ## 11.01.2023
 
 - NF-day
