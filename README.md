@@ -1,3 +1,13 @@
+- Read a book
+- Meditation 10 mins
+- Work tests
+- A nap
+- Groceries
+- NF-DAY
+- A call with Nika
+## 11.01.2023
+
+- NF-day
 - Read a book **CANCELLED**
 - Meditation 10 mins **CANCELLED**
 - Rest, relax **DONE**
