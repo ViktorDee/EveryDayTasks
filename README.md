@@ -1,11 +1,11 @@
-- Read a book
-- Meditation 10 mins
-- Study Java
-- Work tests
-- Legs workout
-- Lenta with Pasha
-- Laundry
-- Groceries
+- Read a book **DONE**
+- Meditation 10 mins **DONE**
+- Study Java **DONE**
+- Work tests **DONE**
+- Legs workout **DONE**
+- Lenta with Pasha **DONE**
+- Laundry **DONE**
+- Groceries **DONE**
 ## 12.01.2023
 
 - Read a book **CANCELLED**
