@@ -1,10 +1,10 @@
 - Read a book
-- Meditation
-- Arms and shoulders workout
-- Work tests
-- Ironing
-- Class with Tina
-- Study Java
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Work tests **DONE**
+- Ironing **DONE**
+- Class with Tina **DONE**
+- Study Java **DONE**
 ## 13.01.2023
 
 - Read a book **DONE**
