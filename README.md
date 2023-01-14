@@ -1,4 +1,12 @@
 - Read a book
+- Meditation
+- Study Java
+- Time with Tori
+- NF-day
+- Work tests
+## 14.01.2023
+
+- Read a book
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Work tests **DONE**
