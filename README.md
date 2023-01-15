@@ -1,13 +1,13 @@
-- Read a book
-- Meditation
+- Read a book **DONE**
+- Meditation **DONE**
 - Wash head **DONE**
 - Cut hair **DONE**
 - Vacuum cleaning
 - Laundry **DONE**
-- Dad time
-- Pasha Masha time
-- Work tests
-- Groceries
+- Dad time **DONE**
+- Pasha Masha time **DONE**
+- Work tests **DONE**
+- Groceries **DONE**
 # 15.01.2023
 
 - Read a book **NOT DONE**
