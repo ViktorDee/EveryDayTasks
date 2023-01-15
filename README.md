@@ -1,9 +1,24 @@
 - Read a book
 - Meditation
-- Study Java
-- Time with Tori
-- NF-day
+- Wash head **DONE**
+- Cut hair **DONE**
+- Vacuum cleaning
+- Laundry **DONE**
+- Dad time
+- Pasha Masha time
 - Work tests
+- Groceries
+# 15.01.2023
+
+- Read a book **NOT DONE**
+- Meditation **NOT DONE**
+- Study Java **DONE**
+- Time with Tori 
+- NF-day **DONE**
+- Work tests **DONE**
+- NF-day **DONE
+- Throw out the trash **DONE**
+- Cut nails **DONE**
 ## 14.01.2023
 
 - Read a book
