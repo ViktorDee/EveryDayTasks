@@ -1,3 +1,14 @@
+- Read a book
+- Meditation **DONE**
+- Vacuum cleaning
+- Ironing
+- Throw out the trash
+- Work tests
+- Study Java
+- Chest and back workout
+- NF-day
+## 16.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Wash head **DONE**
@@ -8,7 +19,7 @@
 - Pasha Masha time **DONE**
 - Work tests **DONE**
 - Groceries **DONE**
-# 15.01.2023
+## 15.01.2023
 
 - Read a book **NOT DONE**
 - Meditation **NOT DONE**
