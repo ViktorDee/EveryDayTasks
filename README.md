@@ -1,11 +1,12 @@
-- Read a book
+- Read a book **DONE**
 - Meditation **DONE**
-- Get the glasses
-- Study
-- Work tests
-- Abs a bit
-- Wash head
-- Order water filters
+- Get the glasses **DONE**
+- Study **DONE**
+- Work tests **DONE**
+- Abs a bit **DONE**
+- Wash head **TOMORROW**
+- Order water filters **DONE**
+- OZON **DONE**
 ## 17.01.2023
 
 - Read a book **DONE**
