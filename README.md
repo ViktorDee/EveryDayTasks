@@ -1,12 +1,22 @@
 - Read a book
 - Meditation **DONE**
-- Vacuum cleaning
-- Ironing
-- Throw out the trash
+- Get the glasses
+- Study
 - Work tests
-- Study Java
-- Chest and back workout
-- NF-day
+- Abs a bit
+- Wash head
+- Order water filters
+## 17.01.2023
+
+- Read a book **DONE**
+- Meditation **DONE**
+- Vacuum cleaning **DONE**
+- Ironing **DONE**
+- Throw out the trash **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Chest and back workout **DONE**
+- NF-day **DONE**
 ## 16.01.2023
 
 - Read a book **DONE**
