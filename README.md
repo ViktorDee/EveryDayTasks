@@ -1,10 +1,10 @@
-- Read a book
-- Meditation
-- Work tests
-- Study QA
-- Legs workout
-- Cook a garnish
-- Order water filters
+- Read a book **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study QA **DONE**
+- Legs workout **TOMORROW**
+- Cook a garnish **DONE**
+- Order water filters **DONE**
 ## 18.01.2023
 
 - Read a book **DONE**
