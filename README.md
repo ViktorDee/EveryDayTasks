@@ -1,3 +1,12 @@
+- Read a book
+- Meditation
+- Work tests
+- Study QA
+- Legs workout
+- Cook a garnish
+- Order water filters
+## 18.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Get the glasses **DONE**
