@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Legs workout
+- Work tests
+- Study Java: homework + homework fix
+- Throw out the trash
+## 19.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Work tests **DONE**
