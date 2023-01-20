@@ -1,3 +1,16 @@
+- Read a book
+- Meditation
+- Work tests
+- Study Java
+- Throw out the trash
+- Legs workout
+- Arms and shoulders workout
+- Ozon
+- NF day
+- Class with Tina
+- Groceries
+## 20.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Legs workout **FAILED LIKE A BITCH**
