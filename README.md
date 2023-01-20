@@ -1,14 +1,14 @@
-- Read a book
-- Meditation
-- Work tests
-- Study Java
-- Throw out the trash
-- Legs workout
-- Arms and shoulders workout
-- Ozon
-- NF day
-- Class with Tina
-- Groceries
+- Read a book **FAILED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Throw out the trash **DONE**
+- Legs workout **DONE**
+- Arms and shoulders workout **PARTIALLY**
+- Ozon **DONE**
+- NF day **DONE**
+- Class with Tina **DONE**
+- Groceries **DONE**
 ## 20.01.2023
 
 - Read a book **DONE**
