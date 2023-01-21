@@ -1,3 +1,14 @@
+- Read a book
+- Meditation
+- Study Java
+- Work tests
+- Call Lisa
+- Change bedsheets
+- Clean the mirror
+- Laundry
+- Wash head
+## 21.01.2023
+
 - Read a book **FAILED**
 - Meditation **DONE**
 - Work tests **DONE**
