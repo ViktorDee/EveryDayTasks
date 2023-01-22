@@ -1,11 +1,11 @@
-- Read a book
-- Meditation
-- Study Java
-- Work tests
-- Ironing
-- Vacuum cleaning
-- Time with Pasha
-- Cook food
+- Read a book **DONE**
+- Meditation **DONE**
+- Study Java **DONE**
+- Work tests **DONE**
+- Ironing **DONE**
+- Vacuum cleaning **DONE**
+- Time with Pasha **DONE**
+- Cook food **DONE**
 ## 22.01.2023
 
 - Read a book **DONE**
