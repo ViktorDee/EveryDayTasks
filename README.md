@@ -2,11 +2,21 @@
 - Meditation
 - Study Java
 - Work tests
-- Call Lisa
-- Change bedsheets
-- Clean the mirror
-- Laundry
-- Wash head
+- Ironing
+- Vacuum cleaning
+- Time with Pasha
+- Cook food
+## 22.01.2023
+
+- Read a book **DONE**
+- Meditation **DONE**
+- Study Java **DONE**
+- Work tests **DONE**
+- Call Lisa **DONE**
+- Change bedsheets **DONE**
+- Clean the mirror **DONE**
+- Laundry **DONE**
+- Wash head **DONE**
 ## 21.01.2023
 
 - Read a book **FAILED**
