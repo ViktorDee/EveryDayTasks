@@ -1,11 +1,11 @@
-- Read a book
-- Meditation
-- Work tests
-- Chest and back workout, +1 set of arms
-- Laundry
-- A nap
-- Throw out the trash
-- Wipe the dust (if have time)
+- Read a book **CANCELLED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Chest and back workout, +1 set of arms **DONE**
+- Laundry **DONE**
+- A nap **DONE**
+- Throw out the trash **DONE**
+- Wipe the dust (if have time) **DONE**
 ## 23.01.2023
 
 - Read a book **DONE**
