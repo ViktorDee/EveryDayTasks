@@ -1,3 +1,13 @@
+- Read a book
+- Meditation
+- Work tests
+- Chest and back workout, +1 set of arms
+- Laundry
+- A nap
+- Throw out the trash
+- Wipe the dust (if have time)
+## 23.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Study Java **DONE**
