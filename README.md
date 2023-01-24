@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Study Java
+- Ironing
+- Have a nap
+- Wash head
+## 24.01.2023
+
 - Read a book **CANCELLED**
 - Meditation **DONE**
 - Work tests **DONE**
