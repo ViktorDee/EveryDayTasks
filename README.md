@@ -1,9 +1,9 @@
-- Read a book
-- Meditation
-- Study Java
-- Ironing
-- Have a nap
-- Wash head
+- Read a book **DONE**
+- Meditation **DONE**
+- Study Java **DONE**
+- Ironing **DONE**
+- Have a nap **COULDN'T**
+- Wash head **DONE**
 ## 24.01.2023
 
 - Read a book **CANCELLED**
