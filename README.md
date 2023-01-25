@@ -1,3 +1,12 @@
+- Read a book
+- Meditation **DONE**
+- Groceries **DONE**
+- Throw out the trash **DONE**
+- A call with Nika
+- Legs workout
+- Abs workout
+## 25.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Study Java **DONE**
@@ -304,7 +313,7 @@
 - Study 30+ mins **NOT DONE - TOMORROW**
 - Clean the sink **DONE**
 - Clean the mirror in the bathroom **DONE**
-- Wash head DONE
+- Wash head **DONE**
 
 ## 04.12.2022
 - Walk to Pasha and spend time together **DONE**
