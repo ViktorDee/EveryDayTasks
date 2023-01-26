@@ -1,9 +1,9 @@
-- Read a book
-- Meditation
-- Work tests
-- Study Java
-- Legs workout (maybe)
-- Take a nap
+- Read a book **DONE**
+- Meditation **DONE TWICE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Legs workout (maybe) **DONE**
+- Take a nap **DONE**
 ## 26.01.2023
 
 - Read a book **CANCELLED**
