@@ -1,10 +1,18 @@
 - Read a book
+- Meditation
+- Work tests
+- Study Java
+- Legs workout (maybe)
+- Take a nap
+## 26.01.2023
+
+- Read a book **CANCELLED**
 - Meditation **DONE**
 - Groceries **DONE**
 - Throw out the trash **DONE**
-- A call with Nika
-- Legs workout
-- Abs workout
+- A call with Nika **DONE**
+- Legs workout **CANCELLED**
+- Abs workout **DONE**
 ## 25.01.2023
 
 - Read a book **DONE**
