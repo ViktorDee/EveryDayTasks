@@ -1,11 +1,11 @@
-- Read a book
-- Meditation
-- Work tests
-- Study Java
-- Wash head
-- Arms and shoulders workout
-- Class with Tina
-- Groceries
+- Read a book **CANCELLED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Wash head **DONE**
+- Arms and shoulders workout **DONE**
+- Class with Tina **POSTPONED**
+- Groceries **DONE**
 ## 27.01.2023
 
 - Read a book **DONE**
