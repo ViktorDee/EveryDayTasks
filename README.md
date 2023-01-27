@@ -1,3 +1,13 @@
+- Read a book
+- Meditation
+- Work tests
+- Study Java
+- Wash head
+- Arms and shoulders workout
+- Class with Tina
+- Groceries
+## 27.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE TWICE**
 - Work tests **DONE**
