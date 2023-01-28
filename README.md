@@ -1,3 +1,14 @@
+- Read a book
+- Meditation
+- A class with Tina
+- Vacuum cleaning
+- Change bedsheets **DONE**
+- Study Java
+- Work tests
+- Laundry
+- Face mask-peeling
+## 28.01.2023
+
 - Read a book **CANCELLED**
 - Meditation **DONE**
 - Work tests **DONE**
