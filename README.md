@@ -1,3 +1,12 @@
+- Read a book
+- Meditation
+- Study Java
+- Work tests
+- Feed Lucky
+- Groceries: cheese, tomatoes
+- Ironing
+## 29.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - A class with Tina **DONE**
