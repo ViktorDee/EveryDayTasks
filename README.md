@@ -1,10 +1,10 @@
-- Read a book
-- Meditation
-- Study Java
-- Work tests
-- Feed Lucky
-- Groceries: cheese, tomatoes
-- Ironing
+- Read a book **CANCELLED**
+- Meditation **DONE**
+- Study Java **TOMORROW**
+- Work tests **DONE**
+- Feed Lucky **DONE**
+- Groceries: cheese, tomatoes **TOMORROW**
+- Ironing **DONE**
 ## 29.01.2023
 
 - Read a book **DONE**
