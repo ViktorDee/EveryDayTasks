@@ -1,12 +1,12 @@
-- Read a boo
-- Meditation
-- Chest and back workout
-- Throw out the trash
-- Work tests
-- Study Java
-- Wash head
-- Shaving
-- Groceries
+- Read a book **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Throw out the trash **DONE**
+- Work tests **DONE**
+- Study Java **NOT DONE**
+- Wash head **DONE**
+- Shaving **DONE**
+- Groceries **DONE**
 ## 30.01.2023
 
 - Read a book **CANCELLED**
