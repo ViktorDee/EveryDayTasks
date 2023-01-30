@@ -1,5 +1,16 @@
+- Read a boo
+- Meditation
+- Chest and back workout
+- Throw out the trash
+- Work tests
+- Study Java
+- Wash head
+- Shaving
+- Groceries
+## 30.01.2023
+
 - Read a book **CANCELLED**
-- Meditation **DONE**
+- Meditation **DONE TWICE**
 - Study Java **TOMORROW**
 - Work tests **DONE**
 - Feed Lucky **DONE**
