@@ -1,9 +1,9 @@
-- Read a book
-- Meditation
-- Fix the tooth
-- Work tests
-- Study Java
-- Retinol
+- Read a book **CANCELLED**
+- Meditation **DONE**
+- Fix the tooth **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Retinol **DONE**
 ## 31.01.2023
 
 - Read a book **DONE**
