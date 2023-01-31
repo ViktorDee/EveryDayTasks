@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Fix the tooth
+- Work tests
+- Study Java
+- Retinol
+## 31.01.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Chest and back workout **DONE**
