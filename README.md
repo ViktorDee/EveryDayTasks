@@ -1,3 +1,13 @@
+- Meditation
+- Study Java
+- Groceries
+- Legs workout
+- Suggest Pasha to come
+- Retinol
+- Work tests
+- Order nuts
+## 01.02.2023
+
 - Read a book **CANCELLED**
 - Meditation **DONE**
 - Fix the tooth **DONE**
