@@ -1,11 +1,18 @@
+- Read a book
 - Meditation
 - Study Java
-- Groceries
-- Legs workout
-- Suggest Pasha to come
-- Retinol
 - Work tests
-- Order nuts
+- Cook chicken
+## 02.02.2023
+
+- Meditation **DONE**
+- Study Java **DONE**
+- Groceries **DONE**
+- Legs workout **DONE**
+- Suggest Pasha to come **DONE**
+- Retinol **DONE**
+- Work tests **DONE**
+- Order nuts **DONE**
 ## 01.02.2023
 
 - Read a book **CANCELLED**
