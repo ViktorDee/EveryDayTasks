@@ -1,10 +1,10 @@
-- Read a book
-- Meditation
-- Class with Tina
-- Throw out the trash
-- Arms and shoulders workout
-- Study Java
-- Work tests
+- Read a book **DONE**
+- Meditation **DONE**
+- Class with Tina **DONE**
+- Throw out the trash **DONE**
+- Arms and shoulders workout **DONE**
+- Study Java **DONE**
+- Work tests **DONE**
 ## 03.02.2023
 
 - Read a book **CANCELLED**
