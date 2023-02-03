@@ -1,8 +1,17 @@
 - Read a book
 - Meditation
+- Class with Tina
+- Throw out the trash
+- Arms and shoulders workout
 - Study Java
 - Work tests
-- Cook chicken
+## 03.02.2023
+
+- Read a book **CANCELLED**
+- Meditation **DONE**
+- Study Java **DONE**
+- Work tests **DONE**
+- Cook chicken **DONE**
 ## 02.02.2023
 
 - Meditation **DONE**
