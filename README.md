@@ -1,3 +1,12 @@
+- Read a book
+- Meditation
+- Study Java
+- Recycling
+- Trim face
+- Work tests
+- Do something for myself
+## 04.02.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Class with Tina **DONE**
