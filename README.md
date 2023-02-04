@@ -1,10 +1,10 @@
-- Read a book
-- Meditation
-- Study Java
-- Recycling
-- Trim face
-- Work tests
-- Do something for myself
+- Read a book **CANCELLED**
+- Meditation **DONE**
+- Study Java **CANCELLED**
+- Recycling **DONE**
+- Trim face **DONE**
+- Work tests **DONE**
+- Do something for myself **DONE**
 ## 04.02.2023
 
 - Read a book **DONE**
