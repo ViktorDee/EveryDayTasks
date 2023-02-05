@@ -1,4 +1,4 @@
-- Read a book **REPLACED WITH DIARY
+- Read a book **REPLACED WITH DIARY**
 - Meditation **DONE**
 - Work tests **DONE**
 - Study Java **DONE**
