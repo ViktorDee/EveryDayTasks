@@ -1,16 +1,18 @@
-- Read a book
-- Meditation
-- Work tests
-- Study Java
-- Vacuul cleaning
-- Clean the mirror
+- Read a book **REPLACED WITH DIARY
+- Meditation **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Vacuum cleaning **DONE**
+- Clean the mirror **DONE**
 - Laundry **DONE**
-- Cook
-- Retinol
-- Shave mustache
-- Order a pizza/go to the restaurant
+- Cook **DONE**
+- Retinol **DONE**
+- Shave mustache **DONE**
+- Order a pizza/go to the restaurant **FAILED**
 - Morning routine + cold shower **DONE**
-- Rinse nose
+- Rinse nose **DONE**
+- Ironing **DONE**
+- Groceries **DONE**
 ## 05.02.2023
 
 - Read a book **CANCELLED**
