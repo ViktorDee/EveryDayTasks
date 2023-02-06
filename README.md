@@ -1,10 +1,10 @@
-- Read a book
-- Work tests
-- Study Java
-- Meditation
-- Chest & back workout
-- Try PUBG
-- Nap, if needed
+- Read a book **CANCELLED**
+- Work tests **DONE**
+- Study Java **DONE**
+- Meditation **DONE**
+- Chest & back workout **DONE**
+- Try PUBG **DONE**
+- Nap, if needed **DONE**
 ## 06.02.2023
 
 - Read a book **REPLACED WITH DIARY**
