@@ -1,3 +1,12 @@
+- Read a book
+- Work tests
+- Study Java
+- Meditation
+- Chest & back workout
+- Try PUBG
+- Nap, if needed
+## 06.02.2023
+
 - Read a book **REPLACED WITH DIARY**
 - Meditation **DONE**
 - Work tests **DONE**
@@ -656,7 +665,7 @@
 - Meditate 10 mins **DONE**
 - Time with Lisa **DONE**
 - Groceries **DONE**
-- Study 
+- Study **DONE**
 - Work tests **DONE**
 
 ## 30.12.2022
