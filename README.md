@@ -1,3 +1,14 @@
+- Groceries
+- Read a book
+- Study Java
+- Work tests
+- Ozon
+- Wash head **DONE**
+- Meditation
+- Throw out the trash
+- Pick up generolon
+## 07.02.2023
+
 - Read a book **CANCELLED**
 - Work tests **DONE**
 - Study Java **DONE**
