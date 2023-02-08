@@ -1,3 +1,14 @@
+- Morning max push-ups
+- Legs workout
+- Abs workout
+- Work tests
+- Study Java
+- Read a book
+- Meditation
+- Withdraw money
+- Order RAM
+## 08.02.2023
+
 - Groceries **DONE**
 - Read a book **DONE**
 - Study Java **DONE**
