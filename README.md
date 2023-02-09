@@ -1,3 +1,10 @@
+- Read a book
+- Meditation
+- Study Java
+- Work tests
+- Find a nice postcard for Sasha **DONE**
+## 09.02.2023
+
 - Morning max push-ups **DONE**
 - Legs workout **DONE**
 - Abs workout **DONE**
