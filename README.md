@@ -1,7 +1,7 @@
-- Read a book
-- Meditation
-- Study Java
-- Work tests
+- Read a book **DONE**
+- Meditation **DONE**
+- Study Java **FAILED**
+- Work tests **DONE**
 - Find a nice postcard for Sasha **DONE**
 ## 09.02.2023
 
