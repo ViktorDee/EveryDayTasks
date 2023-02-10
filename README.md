@@ -1,3 +1,13 @@
+- Time with Ilya
+- Work tests
+- Meditation
+- Study Java
+- Groceries
+- Class with Tina
+- Ozon
+- Maybe take a walk
+## 10.02.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Study Java **FAILED**
