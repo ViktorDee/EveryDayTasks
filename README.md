@@ -1,12 +1,13 @@
-- Read a book
-- Work tests
-- Study Java
-- Meditation
-- Wash head
-- Vacuum cleaning
-- Ozon
-- No Lisa day
-- No fap day
+- Read a book **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Groceries **DONE**
+- Meditation **DONE**
+- Wash head **DONE**
+- Vacuum cleaning **DONE**
+- Ozon **DONE**
+- No Lisa day **FAILED**
+- No fap day **DONE**
 ## 11.02.2023
 
 - Time with Ilya **DONE**
