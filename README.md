@@ -1,11 +1,22 @@
-- Time with Ilya
+- Read a book
 - Work tests
-- Meditation
 - Study Java
-- Groceries
-- Class with Tina
+- Meditation
+- Wash head
+- Vacuum cleaning
 - Ozon
-- Maybe take a walk
+- No Lisa day
+- No fap day
+## 11.02.2023
+
+- Time with Ilya **DONE**
+- Work tests **DONE**
+- Meditation **DONE**
+- Study Java **DONE**
+- Groceries **DONE**
+- Class with Tina **CANCELLED**
+- Ozon **TOMORROW**
+- Maybe take a walk **DONE**
 ## 10.02.2023
 
 - Read a book **DONE**
