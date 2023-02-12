@@ -1,3 +1,13 @@
+- Read a book
+- Meditation
+- Work tests
+- Study Java
+- Finish the postcard
+- Laundry
+- Ironing
+- Recycling
+## 12.02.2023
+
 - Read a book **DONE**
 - Work tests **DONE**
 - Study Java **DONE**
