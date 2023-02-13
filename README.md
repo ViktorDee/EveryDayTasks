@@ -1,12 +1,12 @@
-- Read a book
-- Meditation
-- Work tests
-- Study
-- Ironing
-- Go to Amsterdam
-- Shave wrists
-- Chest and back workout
-- Voice over
+- Read a book **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **FAILED**
+- Ironing **DONE**
+- Go to Amsterdam **CANCELLED**
+- Shave wrists **TOMORROW**
+- Chest and back workout **DONE**
+- Voice over **DONE**
 ## 13.02.2023
 
 - Read a book **FAILED**
