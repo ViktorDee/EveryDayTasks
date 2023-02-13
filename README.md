@@ -1,11 +1,22 @@
 - Read a book
 - Meditation
 - Work tests
-- Study Java
-- Finish the postcard
-- Laundry
+- Study
 - Ironing
-- Recycling
+- Go to Amsterdam
+- Shave wrists
+- Chest and back workout
+- Voice over
+## 13.02.2023
+
+- Read a book **FAILED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study Java **FAILED**
+- Finish the postcard **DONE**
+- Laundry **DONE**
+- Ironing **TOMORROW**
+- Recycling **FAILED**
 ## 12.02.2023
 
 - Read a book **DONE**
