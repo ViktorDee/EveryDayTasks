@@ -1,3 +1,13 @@
+- Meditation
+- Read a book
+- Study
+- Work tests
+- Shave wrists
+- Stretching
+- Voice over
+- One set of squats
+## 14.02.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Work tests **DONE**
