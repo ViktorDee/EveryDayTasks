@@ -1,9 +1,9 @@
-- Meditation
-- Work tests
-- Study Java
-- Groceries
-- Legs workout
-- Ironing
+- Meditation **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Groceries **DONE**
+- Legs workout **DONE**
+- Ironing **DONE**
 ## 15.02.2023
 
 - Meditation **DONE**
