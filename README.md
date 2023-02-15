@@ -1,11 +1,19 @@
 - Meditation
-- Read a book
-- Study
 - Work tests
-- Shave wrists
-- Stretching
-- Voice over
-- One set of squats
+- Study Java
+- Groceries
+- Legs workout
+- Ironing
+## 15.02.2023
+
+- Meditation **DONE**
+- Read a book **FAILED**
+- Study **DONE**
+- Work tests **DONE**
+- Shave wrists **DONE**
+- Stretching **DONE**
+- Voice over **DONE**
+- One set of squats **DONE**
 ## 14.02.2023
 
 - Read a book **DONE**
