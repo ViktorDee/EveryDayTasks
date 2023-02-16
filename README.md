@@ -1,9 +1,9 @@
-- Meditation
-- Pick up the delivery
-- Work tests
-- Study Java
-- Cook food
-- No phone after 22:30
+- Meditation **DONE**
+- Pick up the delivery **DONE**
+- Work tests **DONE**
+- Study Java **DONE**
+- Cook food **DONE**
+- No phone after 22:30 **DONE**
 ## 16.02.2023
 
 - Meditation **DONE**
