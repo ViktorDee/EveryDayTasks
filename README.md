@@ -1,3 +1,11 @@
+- Meditation
+- Read a book
+- Arms and shoulders workout
+- Study
+- Work tests
+- Class with Tina
+## 17.02.2023
+
 - Meditation **DONE**
 - Pick up the delivery **DONE**
 - Work tests **DONE**
