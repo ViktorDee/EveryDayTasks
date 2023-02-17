@@ -1,9 +1,9 @@
-- Meditation
-- Read a book
-- Arms and shoulders workout
-- Study
-- Work tests
-- Class with Tina
+- Meditation **DONE**
+- Read a book **FAILED**
+- Arms and shoulders workout **DONE**
+- Study **DONE**
+- Work tests **DONE**
+- Class with Tina **POSTPONED**
 ## 17.02.2023
 
 - Meditation **DONE**
