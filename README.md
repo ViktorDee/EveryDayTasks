@@ -1,11 +1,11 @@
-- Meditation
-- Read a book
-- Work tests
-- Study (if time)
-- Install RAM
-- Class with Tina
-- Time with Ilya
-- Groceries
+- Meditation **DONE**
+- Read a book **FAILED**
+- Work tests **DONE**
+- Study (if time) **FAILED**
+- Install RAM **DONE**
+- Class with Tina **DONE**
+- Time with Ilya **DONE**
+- Groceries **DONE**
 ## 18.02.2023
 
 - Meditation **DONE**
