@@ -1,3 +1,13 @@
+- Meditation
+- Read a book
+- Work tests
+- Study (if time)
+- Install RAM
+- Class with Tina
+- Time with Ilya
+- Groceries
+## 18.02.2023
+
 - Meditation **DONE**
 - Read a book **FAILED**
 - Arms and shoulders workout **DONE**
