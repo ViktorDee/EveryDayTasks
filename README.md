@@ -1,3 +1,15 @@
+- Read a book
+- Study
+- Meditation
+- Work tests
+- Cut nails
+- Vacuum cleaning
+- Wipe the dust
+- Wash head
+- Change bedsheets
+- Clean the mirror
+## 19.02.2023
+
 - Meditation **DONE**
 - Read a book **FAILED**
 - Work tests **DONE**
