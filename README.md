@@ -1,9 +1,9 @@
-- Read a book
-- Meditation
-- Work tests
-- Study
-- Groceries
-- Ironing
+- Read a book **FAILED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **DONE**
+- Groceries **DONE**
+- Ironing **TOMORROW**
 ## 20.02.2023
 
 - Read a book **DONE**
