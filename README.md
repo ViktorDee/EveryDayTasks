@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Work tests
+- Study
+- Groceries
+- Ironing
+## 20.02.2023
+
 - Read a book **DONE**
 - Study **FAILED**
 - Meditation **DONE**
