@@ -1,9 +1,10 @@
-- Read a book
-- Meditation
-- Work tests
-- Study
-- Foam bath
-- Shave neck
+- Read a book **FAILED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **FAILED**
+- Foam bath **TOMORROW**
+- Shave neck **TOMORROW**
+- Have a walk **DONE**
 ## 21.02.2023
 
 - Read a book **FAILED**
