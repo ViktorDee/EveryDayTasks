@@ -1,3 +1,13 @@
+- Read a book
+- Meditation
+- Work tests
+- Study
+- Throw out the trash
+- Legs workout
+- Shave neck
+- Wash head **DONE**
+## 22.02.2023
+
 - Read a book **FAILED**
 - Meditation **DONE**
 - Work tests **DONE**
