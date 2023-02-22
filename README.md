@@ -1,10 +1,10 @@
-- Read a book
-- Meditation
-- Work tests
-- Study
-- Throw out the trash
-- Legs workout
-- Shave neck
+- Read a book **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **FAILED**
+- Throw out the trash **DONE**
+- Legs workout **TOMORROW**
+- Shave neck **DONE**
 - Wash head **DONE**
 ## 22.02.2023
 
