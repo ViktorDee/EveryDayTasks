@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Work tests
+- Study
+- Legs workout
+- Groceries
+## 23.02.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Work tests **DONE**
