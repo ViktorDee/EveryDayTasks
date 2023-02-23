@@ -1,9 +1,9 @@
-- Read a book
-- Meditation
-- Work tests
-- Study
-- Legs workout
-- Groceries
+- Read a book **FAILED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **DONE**
+- Legs workout **DONE**
+- Groceries **DONE**
 ## 23.02.2023
 
 - Read a book **DONE**
