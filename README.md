@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Work tests
+- Study
+- Arms and shoulders workout
+- Class with Tina
+## 24.02.2023
+
 - Read a book **FAILED**
 - Meditation **DONE**
 - Work tests **DONE**
