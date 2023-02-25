@@ -1,3 +1,13 @@
+- Meditation
+- Work tests
+- Time with Masha
+- Get the photocamera
+- Wash head **DONE**
+- Morning routine **DONE**
+- Cold shower **DONE**
+- Recycling
+## 25.02.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Work tests **DONE**
