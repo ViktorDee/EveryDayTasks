@@ -1,7 +1,15 @@
-- Meditation
+- Morning routing **DONE**
+- Cold shower **DONE**
 - Work tests
-- Time with Masha
-- Get the photocamera
+- Meditation
+- Novokuznetsk
+- Vacuum cleaning
+## 26.02.2023
+
+- Meditation **DONE**
+- Work tests **DONE**
+- Time with Masha **DONE**
+- Get the photocamera **DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
 - Cold shower **DONE**
