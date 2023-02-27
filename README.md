@@ -1,9 +1,16 @@
-- Morning routing **DONE**
-- Cold shower **DONE**
 - Work tests
 - Meditation
-- Novokuznetsk
-- Vacuum cleaning
+- Chest and back workout
+- Meet grandparents
+- Meet mom
+## 27.02.2023
+
+- Morning routing **DONE**
+- Cold shower **DONE**
+- Work tests **HALF**
+- Meditation **DONE**
+- Novokuznetsk **DONE**
+- Vacuum cleaning **FAILED**
 ## 26.02.2023
 
 - Meditation **DONE**
