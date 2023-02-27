@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- Meet grandparents
-- Meet mom
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **TOMORROW**
+- Meet grandparents **DONE**
+- Meet mom **DONE**
 ## 27.02.2023
 
 - Morning routing **DONE**
