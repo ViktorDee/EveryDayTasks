@@ -1,3 +1,10 @@
+- Meditation
+- Work tests
+- Cold shower
+- Retinol
+- Chest and back workout
+## 28.02.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Chest and back workout **TOMORROW**
