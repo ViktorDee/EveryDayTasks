@@ -1,8 +1,8 @@
-- Meditation
-- Work tests
-- Cold shower
-- Retinol
-- Chest and back workout
+- Meditation **DONE**
+- Work tests **DONE**
+- Cold shower **FAILED: NO TIME**
+- Retinol **DONE**
+- Chest and back workout **DONE**
 ## 28.02.2023
 
 - Work tests **DONE**
