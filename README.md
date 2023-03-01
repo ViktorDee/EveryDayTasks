@@ -1,13 +1,13 @@
-- Meditation
-- Study
-- Vacuum cleaning
-- Shave face
+- Meditation **DONE**
+- Study **DONE**
+- Vacuum cleaning **DONE**
+- Shave face **FAILED**
 - Wash head **DONE**
 - Morning routine **DONE**
 - Cold Shower **DONE**
 - Glue the little door on the wall **DONE**
-- Legs & ABS workout
-- Tidy wires
+- Legs & ABS workout **DONE**
+- Tidy wires **DONE**
 ## 01.03.2023
 
 - Meditation **DONE**
