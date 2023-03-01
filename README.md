@@ -1,3 +1,15 @@
+- Meditation
+- Study
+- Vacuum cleaning
+- Shave face
+- Wash head **DONE**
+- Morning routine **DONE**
+- Cold Shower **DONE**
+- Glue the little door on the wall **DONE**
+- Legs & ABS workout
+- Tidy wires
+## 01.03.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Cold shower **FAILED: NO TIME**
