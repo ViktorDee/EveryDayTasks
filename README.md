@@ -1,12 +1,11 @@
-- Read a book
-- Clean laptop
+- Read a book **FAILED**
+- Clean laptop **DONE**
 - Morning routing **DONE**
 - Cold shower **DONE**
 - Shave face **DONE**
-- Work tests
-- Meditation
-- Nose & ears trim
-
+- Work tests **DONE**
+- Meditation **DONE**
+- Nose & ears trim **TOMORROW**
 ## 02.03.2023
 
 - Meditation **DONE**
