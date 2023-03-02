@@ -1,3 +1,14 @@
+- Read a book
+- Clean laptop
+- Morning routing **DONE**
+- Cold shower **DONE**
+- Shave face **DONE**
+- Work tests
+- Meditation
+- Nose & ears trim
+
+## 02.03.2023
+
 - Meditation **DONE**
 - Study **DONE**
 - Vacuum cleaning **DONE**
