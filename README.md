@@ -1,3 +1,13 @@
+- Read a book
+- Meditation
+- Morning routine **DONE**
+- Cold shower **DONE**
+- Study
+- Class with Tina
+- Arms and shoulders workout
+- Afternoon nap
+## 03.03.2023
+
 - Read a book **FAILED**
 - Clean laptop **DONE**
 - Morning routing **DONE**
