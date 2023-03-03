@@ -1,11 +1,11 @@
-- Read a book
-- Meditation
+- Read a book **DONE**
+- Meditation **DONE**
 - Morning routine **DONE**
 - Cold shower **DONE**
-- Study
-- Class with Tina
-- Arms and shoulders workout
-- Afternoon nap
+- Study **DONE**
+- Class with Tina **FAILED**
+- Arms and shoulders workout **DONE**
+- Afternoon nap **DONE**
 ## 03.03.2023
 
 - Read a book **FAILED**
