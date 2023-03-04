@@ -1,11 +1,11 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Study
-- Think of the activities with Nia
-- Short nap
-- Time with Pasha
-- Work tests
-- Change bedsheets
+- Study **DONE**
+- Think of the activities with Nika **DONE**
+- Short nap **FAILED**
+- Time with Pasha **DONE**
+- Work tests **DONE**
+- Change bedsheets **DONE**
 ## 04.03.2023
 
 - Read a book **DONE**
