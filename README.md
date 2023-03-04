@@ -1,3 +1,13 @@
+- Meditation
+- Wash head **DONE**
+- Study
+- Think of the activities with Nia
+- Short nap
+- Time with Pasha
+- Work tests
+- Change bedsheets
+## 04.03.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Morning routine **DONE**
