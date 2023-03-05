@@ -1,4 +1,15 @@
 - Meditation **DONE**
+- Time with Nika **DONE**
+- Time with Tori **DONE**
+- Groceries **DONE**
+- Change bedsheets **DONE**
+- Cold shower **DONE**
+- Morning routine **DONE**
+- Shave wrists **DONE**
+- Study **DONE a bit**
+## 05.03.2023
+
+- Meditation **DONE**
 - Wash head **DONE**
 - Study **DONE**
 - Think of the activities with Nika **DONE**
