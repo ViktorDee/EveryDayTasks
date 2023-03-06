@@ -1,10 +1,10 @@
-- Read a book
-- Meditation
-- Chest & back workout
-- Wash head
-- Study
-- Work tests
-- Shave
+- Read a book **FAILED**
+- Meditation **DONE**
+- Chest & back workout **HALF**
+- Wash head **DONE**
+- Study **DONE**
+- Work tests **DONE**
+- Shave **FAILED**
 ## 06.03.2023
 
 - Meditation **DONE**
