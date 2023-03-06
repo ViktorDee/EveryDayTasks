@@ -1,3 +1,12 @@
+- Read a book
+- Meditation
+- Chest & back workout
+- Wash head
+- Study
+- Work tests
+- Shave
+## 06.03.2023
+
 - Meditation **DONE**
 - Time with Nika **DONE**
 - Time with Tori **DONE**
