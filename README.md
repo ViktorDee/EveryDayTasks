@@ -1,13 +1,14 @@
-- Read a book
-- Meditation
-- Back workout
-- Study
-- Shave
-- Work tests
-- Gift for Masha
-- Ironing
-- Face peeling
-- Groceries
+- Read a book **DONE**
+- Trash out **DONE**
+- Meditation **DONE**
+- Back workout **DONE**
+- Study **A BIT DONE**
+- Shave **DONE**
+- Work tests **DONE**
+- Gift for Masha **DONE**
+- Ironing **DONE**
+- Face peeling **DONE**
+- Groceries **DONE**
 - Cold shower **DONE**
 ## 07.03.2023
 
