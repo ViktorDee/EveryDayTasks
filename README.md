@@ -1,3 +1,16 @@
+- Read a book
+- Meditation
+- Back workout
+- Study
+- Shave
+- Work tests
+- Gift for Masha
+- Ironing
+- Face peeling
+- Groceries
+- Cold shower **DONE**
+## 07.03.2023
+
 - Read a book **FAILED**
 - Meditation **DONE**
 - Chest & back workout **HALF**
