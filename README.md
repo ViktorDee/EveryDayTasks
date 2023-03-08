@@ -1,3 +1,12 @@
+- Cold shower **DONE**
+- Study
+- Legs workout
+- Nikita time
+- Meditation
+- Call dad
+- Read a book
+## 08.03.2023
+
 - Read a book **DONE**
 - Trash out **DONE**
 - Meditation **DONE**
