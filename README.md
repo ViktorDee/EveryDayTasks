@@ -1,10 +1,10 @@
 - Cold shower **DONE**
-- Study
-- Legs workout
-- Nikita time
-- Meditation
-- Call dad
-- Read a book
+- Study **FAILED**
+- Legs workout **DONE**
+- Nikita time **DONE**
+- Meditation **DONE**
+- Call dad **DONE**
+- Read a book **FAILED**
 ## 08.03.2023
 
 - Read a book **DONE**
