@@ -1,10 +1,11 @@
-- Gift for Masha
-- Study
-- Work tests
-- Read a book
+- Gift for Masha **DONE**
+- Groceries **DONE**
+- Study **FAILED**
+- Work tests **DONE**
+- Read a book **FAILED**
 - Cold shower **DONE**
-- Retinol
-- Meditation
+- Retinol **DONE**
+- Meditation **DONE**
 ## 09.03.2023
 
 - Cold shower **DONE**
