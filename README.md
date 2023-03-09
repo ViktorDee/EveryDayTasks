@@ -1,3 +1,12 @@
+- Gift for Masha
+- Study
+- Work tests
+- Read a book
+- Cold shower **DONE**
+- Retinol
+- Meditation
+## 09.03.2023
+
 - Cold shower **DONE**
 - Study **FAILED**
 - Legs workout **DONE**
