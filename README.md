@@ -1,11 +1,11 @@
-- Meditation
-- Work tests
-- Study Automation
-- Class with Tina
-- Arms & shoulders workout
-- Retinol
-- Read a book
-- ABS
+- Meditation **DONE**
+- Work tests **DONE**
+- Study Automation **FAILED**
+- Class with Tina **DONE**
+- Arms & shoulders workout **DONE**
+- Retinol **DONE**
+- Read a book **FAILED**
+- ABS **TOMORROW**
 ## 10.03.2023
 
 - Gift for Masha **DONE**
