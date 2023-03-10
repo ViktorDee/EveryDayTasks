@@ -1,3 +1,13 @@
+- Meditation
+- Work tests
+- Study Automation
+- Class with Tina
+- Arms & shoulders workout
+- Retinol
+- Read a book
+- ABS
+## 10.03.2023
+
 - Gift for Masha **DONE**
 - Groceries **DONE**
 - Study **FAILED**
