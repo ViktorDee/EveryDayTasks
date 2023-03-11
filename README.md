@@ -1,9 +1,9 @@
-- Read a book
-- Meditation
-- Work tests
-- Study
-- Bed before 22:30
-- Abs
+- Read a book **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **FAILED**
+- Bed before 22:30 **DONE**
+- Abs **DONE**
 ## 11.03.2023
 
 - Meditation **DONE**
