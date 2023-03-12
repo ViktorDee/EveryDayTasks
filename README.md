@@ -1,3 +1,13 @@
+- Meditation **DONE**
+- Fun with Pasha **DONE**
+- Recycling **DONE**
+- Cold shower **DONE**
+- Vacuum cleaning **DONE**
+- Laundry **DONE**
+- Mirror cleaning **DONE**
+- Work tests **DONE**
+## 12.03.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Work tests **DONE**
