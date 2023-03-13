@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Work tests
+- Groceries
+- Ironing
+- Study
+## 13.03.2023
+
 - Meditation **DONE**
 - Fun with Pasha **DONE**
 - Recycling **DONE**
