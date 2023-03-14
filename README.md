@@ -1,9 +1,10 @@
-- Read a book
-- Meditation
-- Work tests
-- Study
-- Legs workout
-- Groceries
+- Read a book **FAILED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **FAILED**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Cold shower **DONE**
 ## 14.03.2023
 
 - Read a book **FAILED**
