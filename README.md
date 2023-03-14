@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Work tests
+- Study
+- Legs workout
+- Groceries
+## 14.03.2023
+
 - Read a book **FAILED**
 - Meditation **DONE**
 - Work tests **DONE**
