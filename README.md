@@ -1,3 +1,11 @@
+- Read a book
+- Meditation
+- Work tests
+- Laundry
+- Study
+- Wash head
+## 15.03.2023
+
 - Read a book **FAILED**
 - Meditation **DONE**
 - Work tests **DONE**
