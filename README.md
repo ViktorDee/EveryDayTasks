@@ -1,9 +1,10 @@
-- Read a book
-- Meditation
-- Work tests
-- Laundry
-- Study
-- Wash head
+- Read a book **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Laundry **DONE**
+- Groceries **DONE**
+- Study **DONE**
+- Wash head **DONE**
 ## 15.03.2023
 
 - Read a book **FAILED**
