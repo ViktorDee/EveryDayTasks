@@ -1,9 +1,9 @@
-- Read a book
-- Study
-- Meditation
-- Grab stuff from Lisa
-- Work tests
-- Ironing
+- Read a book **DONE**
+- Study **DONE**
+- Meditation **DONE**
+- Grab stuff from Lisa **DONE**
+- Work tests **DONE**
+- Ironing **DONE**
 ## 16.03.2023
 
 - Read a book **DONE**
