@@ -1,3 +1,12 @@
+- Read a book
+- Meditation
+- Take a bath
+- Class with Tina
+- Study
+- Work tests
+- Groceries
+## 17.03.2023
+
 - Read a book **DONE**
 - Study **DONE**
 - Meditation **DONE**
