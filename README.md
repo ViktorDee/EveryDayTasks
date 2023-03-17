@@ -1,10 +1,12 @@
-- Read a book
-- Meditation
-- Take a bath
-- Class with Tina
-- Study
-- Work tests
-- Groceries
+- Read a book **DONE**
+- Meditation **DONE**
+- Take a bath **DONE**
+- Class with Tina **DONE**
+- Workout **DONE**
+- Study **DONE**
+- Work tests **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
 ## 17.03.2023
 
 - Read a book **DONE**
