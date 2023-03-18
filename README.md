@@ -1,10 +1,10 @@
-- Pash time
-- Meditation
-- Work tests
-- Study
-- Vacuum cleaning
-- Water plants
-- Change bedsheets
+- Pasha time **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **FAILED**
+- Vacuum cleaning **TOMORROW**
+- Water plants **DONE**
+- Change bedsheets **DONE**
 ## 18.03.2023
 
 - Read a book **DONE**
