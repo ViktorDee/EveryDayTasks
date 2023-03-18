@@ -1,3 +1,12 @@
+- Pash time
+- Meditation
+- Work tests
+- Study
+- Vacuum cleaning
+- Water plants
+- Change bedsheets
+## 18.03.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Take a bath **DONE**
