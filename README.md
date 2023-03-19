@@ -1,10 +1,10 @@
-- Read a book
-- Study
-- Meditation
-- Work tests
-- Vacuum cleaning
-- Cook
-- Groceries
+- Read a book **FAILED**
+- Study **DOnE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Vacuum cleaning **DONE**
+- Cook **DONE**
+- Groceries **DONE**
 - Cold shower **DONE**
 ## 19.03.2023
 
