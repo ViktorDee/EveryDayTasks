@@ -1,3 +1,13 @@
+- Read a book
+- Study
+- Meditation
+- Work tests
+- Vacuum cleaning
+- Cook
+- Groceries
+- Cold shower **DONE**
+## 19.03.2023
+
 - Pasha time **DONE**
 - Meditation **DONE**
 - Work tests **DONE**
