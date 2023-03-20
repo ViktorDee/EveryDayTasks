@@ -1,3 +1,11 @@
+- Meditation
+- Study
+- Workout
+- Order from ozon
+- Retinol
+- Work tests
+## 20.03.2023
+
 - Read a book **FAILED**
 - Study **DOnE**
 - Meditation **DONE**
