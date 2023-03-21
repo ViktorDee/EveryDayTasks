@@ -1,11 +1,11 @@
-- Read a book
-- Study
-- Work tests
-- Meditation
+- Read a book **FAILED**
+- Study **DONE**
+- Work tests **DONE**
+- Meditation **DONE**
 - Wash head **DONE**
 - Cold shower **DONE**
-- Ironing
-- Groceries
+- Ironing **DONE**
+- Groceries **DONE**
 ## 21.03.2023
 
 - Meditation **DONE**
