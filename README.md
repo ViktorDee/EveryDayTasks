@@ -1,9 +1,20 @@
+- Read a book
+- Study
+- Work tests
+- Meditation
+- Wash head **DONE**
+- Cold shower **DONE**
+- Ironing
+- Groceries
+## 21.03.2023
+
 - Meditation **DONE**
 - Study **DONE**
 - Workout **DONE**
 - Order from ozon **DONE**
 - Retinol **DONE**
 - Work tests **DONE**
+- Cold shower **DONE**
 ## 20.03.2023
 
 - Read a book **FAILED**
