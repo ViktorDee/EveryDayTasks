@@ -1,10 +1,11 @@
-- Meditation
-- Work tests
-- Study
-- Throw out the trash
-- Ozon
-- Cook garnish
-- Ironing
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **DONE**
+- Legs workout **DONE**
+- Throw out the trash **DONE**
+- Ozon **MISTAKEN**
+- Cook garnish **FAILED**
+- Ironing **DONE**
 ## 22.03.2023
 
 - Read a book **FAILED**
