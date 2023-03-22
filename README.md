@@ -1,3 +1,12 @@
+- Meditation
+- Work tests
+- Study
+- Throw out the trash
+- Ozon
+- Cook garnish
+- Ironing
+## 22.03.2023
+
 - Read a book **FAILED**
 - Study **DONE**
 - Work tests **DONE**
