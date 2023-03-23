@@ -1,3 +1,15 @@
+- Meditation
+- Work tests
+- Read a book
+- Study
+- Shave face
+- ABS workout
+- Cut nails
+- Groceries
+- Cold shower **DONE**
+- Wash head **DONE**
+## 23.03.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Study **DONE**
