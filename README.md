@@ -1,11 +1,11 @@
-- Meditation
-- Work tests
-- Read a book
-- Study
-- Shave face
-- ABS workout
-- Cut nails
-- Groceries
+- Meditation **DONE**
+- Work tests **DONE**
+- Read a book **FAILED**
+- Study **DONE**
+- Shave face **DONE**
+- ABS workout **DONE**
+- Cut nails **DONE**
+- Groceries **DONE**
 - Cold shower **DONE**
 - Wash head **DONE**
 ## 23.03.2023
