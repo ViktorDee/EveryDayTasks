@@ -1,3 +1,15 @@
+- Meditation
+- Study
+- Work tests
+- Cold shower **DONE**
+- Trim face **DONE**
+- Arms and shoulders workout
+- Class with Tina
+- Lenta with Pasha
+- Groceries
+- Shave wrists
+## 24.03.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Read a book **FAILED**
