@@ -1,13 +1,13 @@
-- Meditation
-- Study
-- Work tests
+- Meditation **DONE**
+- Study **DONE**
+- Work tests **DONE**
 - Cold shower **DONE**
 - Trim face **DONE**
-- Arms and shoulders workout
-- Class with Tina
-- Lenta with Pasha
-- Groceries
-- Shave wrists
+- Arms and shoulders workout **DONE**
+- Class with Tina **DONE**
+- Lenta with Pasha **DONE**
+- Groceries **DONE**
+- Shave wrists **DONE**
 ## 24.03.2023
 
 - Meditation **DONE**
