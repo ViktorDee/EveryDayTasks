@@ -1,3 +1,13 @@
+- Meditation
+- Time with Tori
+- Lots of cleaning
+- Work tests
+- Physical activity
+- Wash head **DONE**
+- Cold shower **DONE**
+- Ozon
+## 25.03.2023
+
 - Meditation **DONE**
 - Study **DONE**
 - Work tests **DONE**
