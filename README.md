@@ -1,8 +1,8 @@
-- Meditation
-- Work tests
-- Time with dad
+- Meditation **DONE**
+- Work tests **DONE**
+- Time with dad **DONE**
 - Cold shower **DONE**
-- Read a book
+- Read a book **DONE**
 ## 26.03.2023
 
 - Meditation **DONE**
