@@ -1,3 +1,10 @@
+- Meditation
+- Work tests
+- Time with dad
+- Cold shower **DONE**
+- Read a book
+## 26.03.2023
+
 - Meditation **DONE**
 - Time with Tori **DONE**
 - Lots of cleaning **DONE**
