@@ -1,11 +1,11 @@
-- Study
-- Meditation
+- Study **DONE**
+- Meditation **DONE**
 - Cold shower **DONE**
-- Ozon
-- Generolon
-- Chest and back workout
-- Physical activity
-- Groceries
+- Ozon **DONE**
+- Generolon **DONE**
+- Chest and back workout **DONE**
+- Physical activity **DONE**
+- Groceries **DONE**
 ## 27.03.2023
 
 - Meditation **DONE**
