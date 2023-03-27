@@ -1,3 +1,13 @@
+- Study
+- Meditation
+- Cold shower **DONE**
+- Ozon
+- Generolon
+- Chest and back workout
+- Physical activity
+- Groceries
+## 27.03.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Time with dad **DONE**
