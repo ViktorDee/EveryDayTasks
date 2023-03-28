@@ -1,3 +1,13 @@
+- Read a book
+- Study
+- Work tests
+- Meditation
+- Wash head
+- Cold shower
+- Physical activity
+- Find a moisturizer
+## 28.03.2023
+
 - Study **DONE**
 - Meditation **DONE**
 - Cold shower **DONE**
