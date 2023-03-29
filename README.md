@@ -1,3 +1,14 @@
+- Study
+- Work tests
+- Meditation
+- Legs workout
+- Cold shower
+- Less phone
+- Throw out the trash
+- Abs
+- No sweets
+## 29.03.2023
+
 - Read a book **DONE**
 - Study **DONE**
 - Work tests **DONE**
