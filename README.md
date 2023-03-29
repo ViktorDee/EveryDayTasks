@@ -1,12 +1,12 @@
-- Study
-- Work tests
-- Meditation
-- Legs workout
-- Cold shower
-- Less phone
-- Throw out the trash
-- Abs
-- No sweets
+- Study **DONE**
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Cold shower **DONE**
+- Less phone **DONE**
+- Throw out the trash **DONE**
+- Abs **DO MORE TOMORROW**
+- No sweets **DONE**
 ## 29.03.2023
 
 - Read a book **DONE**
