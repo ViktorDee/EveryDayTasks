@@ -1,3 +1,14 @@
+- Study
+- Work tests
+- Meditation
+- Read a boo
+- Groceries
+- Shave
+- Abs
+- Face peeling mask
+- Cold shower **DONE**
+## 30.03.2023
+
 - Study **DONE**
 - Work tests **DONE**
 - Meditation **DONE**
