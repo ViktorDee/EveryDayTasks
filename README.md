@@ -1,11 +1,11 @@
-- Study
-- Work tests
-- Meditation
-- Read a boo
-- Groceries
-- Shave
-- Abs
-- Face peeling mask
+- Study **DONE**
+- Work tests **DONE**
+- Meditation **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
+- Shave **DONE**
+- Abs **DONE**
+- Face peeling mask **DONE**
 - Cold shower **DONE**
 ## 30.03.2023
 
