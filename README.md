@@ -1,10 +1,10 @@
-- Read a book
-- Study
-- Work tests
-- Meditation
-- Arms and shoulders
-- Change bedsheets
-- Class with Tina
+- Read a book **DONE**
+- Study **DONE**
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders **DONE**
+- Change bedsheets **DONE**
+- Class with Tina **FAILED**
 ## 31.03.2023
 
 - Study **DONE**
