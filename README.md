@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Groceries
+- Recycling
+- Retinol
+- Read a book
+- Take a bath
+## 01.04.2023
+
 - Read a book **DONE**
 - Study **DONE**
 - Work tests **DONE**
