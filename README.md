@@ -1,12 +1,12 @@
-- Work tests
-- Read a book
-- Meditation
-- Groceries
-- Vacuum cleaning
-- Ironing
-- Retinol
+- Work tests **DONE**
+- Read a book **FAILED**
+- Meditation **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **DONE**
+- Ironing **DONE**
+- Retinol **BHA INSTEAD**
 - Cold shower **DONE**
-- Study
+- Study **DONE**
 ## 02.04.2023
 
 - Work tests **DONE**
