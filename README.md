@@ -1,10 +1,21 @@
 - Work tests
+- Read a book
 - Meditation
 - Groceries
-- Recycling
+- Vacuum cleaning
+- Ironing
 - Retinol
-- Read a book
-- Take a bath
+- Cold shower **DONE**
+- Study
+## 02.04.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Recycling **DONE**
+- Retinol **DONE**
+- Read a book **FAILED**
+- Take a bath **FAILED**
 ## 01.04.2023
 
 - Read a book **DONE**
