@@ -1,12 +1,12 @@
-- Read a book
-- Arms and back workout
-- Study
-- Work tests
-- Meditation
-- Cold shower
+- Read a book **FAILED**
+- Arms and back workout **DONE**
+- Study **DONE**
+- Work tests **DONE**
+- Meditation **DONE**
+- Cold shower **DONE**
 - Wash head **DONE**
-- Retinol
-- Groceries
+- Retinol **DONEE**
+- Groceries **FAILED**
 ## 03.04.2023
 
 - Work tests **DONE**
