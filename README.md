@@ -1,3 +1,14 @@
+- Read a book
+- Arms and back workout
+- Study
+- Work tests
+- Meditation
+- Cold shower
+- Wash head **DONE**
+- Retinol
+- Groceries
+## 03.04.2023
+
 - Work tests **DONE**
 - Read a book **FAILED**
 - Meditation **DONE**
