@@ -1,12 +1,12 @@
-- Read a book
-- Meditation
-- Study
-- Work tests
-- Nap
+- Read a book **DONE**
+- Meditation **DONE**
+- Study **DONE**
+- Work tests **DONE**
+- Nap **DONE**
 - Cold shower **DONE**
-- Gift for Masha
-- Groceries
-- Physical activity
+- Gift for Masha **DONE**
+- Groceries **DONE**
+- Physical activity **DONE**
 ## 04.04.2023
 
 - Read a book **FAILED**
