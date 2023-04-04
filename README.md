@@ -1,3 +1,14 @@
+- Read a book
+- Meditation
+- Study
+- Work tests
+- Nap
+- Cold shower **DONE**
+- Gift for Masha
+- Groceries
+- Physical activity
+## 04.04.2023
+
 - Read a book **FAILED**
 - Arms and back workout **DONE**
 - Study **DONE**
