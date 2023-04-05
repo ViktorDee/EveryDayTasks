@@ -1,3 +1,11 @@
+- Meditation
+- Study
+- Legs workout
+- Throw out the trash
+- Cold shower **DONE**
+- Work tests
+## 05.04.2023
+
 - Read a book **DONE**
 - Meditation **DONE**
 - Study **DONE**
