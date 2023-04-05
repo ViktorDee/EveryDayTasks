@@ -1,9 +1,9 @@
-- Meditation
-- Study
-- Legs workout
-- Throw out the trash
+- Meditation **DONE**
+- Study **FAILED**
+- Legs workout **DONE**
+- Throw out the trash **DONE**
 - Cold shower **DONE**
-- Work tests
+- Work tests **DONE**
 ## 05.04.2023
 
 - Read a book **DONE**
