@@ -1,11 +1,11 @@
-- Read a book
-- Study
-- Meditation
-- Work tests
-- Yandex delivery
-- Laundry
-- Shave
-- Bananas
+- Read a book **FAILED**
+- Study **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Yandex delivery **DONE**
+- Laundry **DONE**
+- Shave **DONE**
+- Bananas **DONE**
 ## 06.04.2023
 
 - Meditation **DONE**
