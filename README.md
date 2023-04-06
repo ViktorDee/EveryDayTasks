@@ -1,3 +1,13 @@
+- Read a book
+- Study
+- Meditation
+- Work tests
+- Yandex delivery
+- Laundry
+- Shave
+- Bananas
+## 06.04.2023
+
 - Meditation **DONE**
 - Study **FAILED**
 - Legs workout **DONE**
