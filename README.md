@@ -1,3 +1,12 @@
+- Read a book
+- Work tests
+- Study
+- Meditation
+- Class with Tina
+- Arms and shoulders workout
+- Cold shower **DONE**
+## 07.04.2023
+
 - Read a book **FAILED**
 - Study **DONE**
 - Meditation **DONE**
