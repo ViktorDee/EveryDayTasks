@@ -1,3 +1,12 @@
+- Work tests
+- Cold shower
+- Shave
+- Time with Pasha
+- Groceries
+- Meditation
+- Throw out the trash
+## 08.04.2023
+
 - Read a book **FAILED**
 - Work tests **DONE**
 - Study **DONE**
