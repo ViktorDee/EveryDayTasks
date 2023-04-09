@@ -1,10 +1,23 @@
-- Work tests
-- Cold shower
-- Shave
-- Time with Pasha
-- Groceries
-- Meditation
-- Throw out the trash
+- Work tests **DONE**
+- Meditation **DONE**
+- Read a book **DONE**
+- Laundry **DONE**
+- Take back tha laptop **DONE**
+- Vacuum cleaning **DONE**
+- Cleaning bathroom sink **DONE**
+- Cleaning bathroom mirror **DONE**
+- Shave **DONE**
+- Groceries **DONE**
+- Change bedsheets **DONE**
+## 09.04.2023
+
+- Work tests **DONE**
+- Cold shower **DONE**
+- Shave **FAILED**
+- Time with Pasha **DONE**
+- Groceries **FAILED**
+- Meditation **DONE**
+- Throw out the trash **DONE**
 ## 08.04.2023
 
 - Read a book **FAILED**
