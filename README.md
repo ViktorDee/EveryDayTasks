@@ -1,10 +1,10 @@
-- Read a book
-- Study
-- Meditation
-- Work tests
-- Chest and back workout
-- Order cashew
-- Physical activity
+- Read a book **DONE**
+- Study **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Chest and back workout **DONE**
+- Order cashew **DONE**
+- Physical activity **DONE**
 ## 10.04.2023
 
 - Work tests **DONE**
