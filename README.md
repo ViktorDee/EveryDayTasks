@@ -1,3 +1,12 @@
+- Read a book
+- Study
+- Work tests
+- Meditation
+- Ozon
+- Groceries
+- Abs workout
+## 11.04.2023
+
 - Read a book **DONE**
 - Study **DONE**
 - Meditation **DONE**
