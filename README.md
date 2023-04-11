@@ -1,10 +1,10 @@
-- Read a book
-- Study
-- Work tests
-- Meditation
-- Ozon
-- Groceries
-- Abs workout
+- Read a book **DONE**
+- Study **NOT ENOUGH**
+- Work tests **DONE**
+- Meditation **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Abs workout **DONE**
 ## 11.04.2023
 
 - Read a book **DONE**
