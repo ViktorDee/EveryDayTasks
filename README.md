@@ -1,3 +1,12 @@
+- Study
+- Work tests
+- Meditation
+- Legs workout & neck workout
+- Throw out the trash
+- Ironing
+- Postcard for Masha
+## 12.04.2023
+
 - Read a book **DONE**
 - Study **NOT ENOUGH**
 - Work tests **DONE**
