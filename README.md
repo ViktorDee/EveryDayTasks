@@ -1,10 +1,10 @@
-- Study
-- Work tests
-- Meditation
-- Legs workout & neck workout
-- Throw out the trash
-- Ironing
-- Postcard for Masha
+- Study **NOT ENOUGH**
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout & neck workout **DONE**
+- Throw out the trash **DONE**
+- Ironing **POSTPONED**
+- Postcard for Masha **DONE**
 ## 12.04.2023
 
 - Read a book **DONE**
