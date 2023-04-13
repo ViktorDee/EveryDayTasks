@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Time with Pasha and Masha
-- Ironing
-- Retinol
+- Work tests **DONE**
+- Meditation **DONE**
+- Time with Pasha and Masha **DONE**
+- Ironing **DONE**
+- Retinol **DONE**
 ## 13.04.2023
 
 - Study **NOT ENOUGH**
