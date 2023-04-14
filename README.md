@@ -1,10 +1,10 @@
-- Work tests
-- Study
-- Arms and shoulders workout
-- Meditation
-- Read a book
-- Class with Tina
-- Debit card
+- Work tests **DONE**
+- Study **DONE**
+- Arms and shoulders workout **DONE**
+- Meditation **DONE**
+- Read a book 
+- Class with Tina **DONE**
+- Debit card **DONE**
 ## 14.04.2023
 
 - Work tests **DONE**
