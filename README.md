@@ -1,3 +1,12 @@
+- Work tests
+- Study
+- Arms and shoulders workout
+- Meditation
+- Read a book
+- Class with Tina
+- Debit card
+## 14.04.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Time with Pasha and Masha **DONE**
