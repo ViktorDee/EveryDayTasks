@@ -2,7 +2,7 @@
 - Study **DONE**
 - Arms and shoulders workout **DONE**
 - Meditation **DONE**
-- Read a book 
+- Read a book **FAILED**
 - Class with Tina **DONE**
 - Debit card **DONE**
 ## 14.04.2023
