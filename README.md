@@ -1,13 +1,13 @@
-- Work tests
-- Meditation
-- Read a book
-- Study
-- Recycling
-- Ozon
-- Groceries
+- Work tests **DONE**
+- Meditation **DONE**
+- Read a book **FAILED**
+- Study **FAILED**
+- Recycling **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
 - Cold shower **DONE**
 - Wash head **DONE**
-- Physical activity
+- Physical activity **DONE**
 ## 15.04.2023
 
 - Work tests **DONE**
