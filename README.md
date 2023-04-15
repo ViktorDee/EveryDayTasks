@@ -1,3 +1,15 @@
+- Work tests
+- Meditation
+- Read a book
+- Study
+- Recycling
+- Ozon
+- Groceries
+- Cold shower **DONE**
+- Wash head **DONE**
+- Physical activity
+## 15.04.2023
+
 - Work tests **DONE**
 - Study **DONE**
 - Arms and shoulders workout **DONE**
