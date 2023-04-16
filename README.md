@@ -1,3 +1,13 @@
+- Read a book
+- Work tests
+- Meditation
+- Study
+- Give the gift to Masha
+- Throw out the trash
+- Vacuum cleaning
+- Clean the mirror
+## 16.04.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Read a book **FAILED**
