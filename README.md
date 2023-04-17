@@ -1,10 +1,10 @@
-- Read a book
-- Work tests
-- Meditation
-- Pasha time
-- Cold shower
-- Physical activity
-- Chest, neck and back workout
+- Read a book **FAILED**
+- Work tests **DONE**
+- Meditation **DONE**
+- Pasha time **DONE**
+- Cold shower **DONE**
+- Physical activity **DONE**
+- Chest, neck and back workout **DONE**
 ## 17.04.2023
 
 - Read a book **FAILED**
