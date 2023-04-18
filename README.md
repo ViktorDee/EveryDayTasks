@@ -1,3 +1,12 @@
+- Retinol
+- Work tests
+- Pasha time
+- Groceries
+- Meditation
+- Wash head **DONE**
+- Cold shower **DONE**
+## 18.04.2023
+
 - Read a book **FAILED**
 - Work tests **DONE**
 - Meditation **DONE**
