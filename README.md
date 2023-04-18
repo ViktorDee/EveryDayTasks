@@ -1,8 +1,8 @@
-- Retinol
-- Work tests
-- Pasha time
-- Groceries
-- Meditation
+- Retinol **DONE**
+- Work tests **DONE**
+- Pasha time **DONE**
+- Groceries **DONE**
+- Meditation **DONE**
 - Wash head **DONE**
 - Cold shower **DONE**
 ## 18.04.2023
