@@ -1,3 +1,12 @@
+- Meditation
+- Work tests
+- Study
+- Groceries
+- Ozon
+- Cut toenails
+- Legs workout
+## 19.04.2023
+
 - Retinol **DONE**
 - Work tests **DONE**
 - Pasha time **DONE**
