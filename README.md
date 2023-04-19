@@ -1,10 +1,10 @@
-- Meditation
-- Work tests
-- Study
-- Groceries
-- Ozon
-- Cut toenails
-- Legs workout
+- Meditation **DONE**
+- Work tests **DONE**
+- Study **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
+- Cut toenails **DONE**
+- Legs workout **DONE**
 ## 19.04.2023
 
 - Retinol **DONE**
