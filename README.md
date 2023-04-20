@@ -1,3 +1,11 @@
+- Meditation
+- Cleaning with Pasha and Masha
+- Work tests
+- Throw out the trash
+- Talk with Alina about plans
+- Cold shower **DONE**
+## 20.04.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Study **DONE**
