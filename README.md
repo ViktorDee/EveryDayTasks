@@ -1,8 +1,8 @@
-- Meditation
-- Cleaning with Pasha and Masha
-- Work tests
-- Throw out the trash
-- Talk with Alina about plans
+- Meditation **DONE**
+- Cleaning with Pasha and Masha **DONE**
+- Work tests **DONE**
+- Throw out the trash **FAILED**
+- Talk with Alina about plans **DIDN'T GO WELL**
 - Cold shower **DONE**
 ## 20.04.2023
 
