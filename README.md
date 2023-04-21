@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Class with Tina
-- Arms and shoulders workout
-- Neck workout
-- Ironing
-- Study
+- Work tests **DONE**
+- Meditation **DONE**
+- Class with Tina **DONE**
+- Arms and shoulders workout **DONE**
+- Neck workout **POSTPONED**
+- Ironing **DONE**
+- Study **TOO LITTLE**
 ## 21.04.2023
 
 - Meditation **DONE**
