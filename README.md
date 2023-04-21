@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Class with Tina
+- Arms and shoulders workout
+- Neck workout
+- Ironing
+- Study
+## 21.04.2023
+
 - Meditation **DONE**
 - Cleaning with Pasha and Masha **DONE**
 - Work tests **DONE**
