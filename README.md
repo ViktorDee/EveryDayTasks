@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Study
+- Testosterone blood test
+- Groceries
+- Change bedsheets
+- Shave face
+## 22.04.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Class with Tina **DONE**
