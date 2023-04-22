@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Study
-- Testosterone blood test
-- Groceries
-- Change bedsheets
-- Shave face
+- Work tests **DONE**
+- Meditation **DONE**
+- Study **DONE**
+- Testosterone blood test **DONE**
+- Groceries **DONE**
+- Change bedsheets **DONE**
+- Shave face **DONE**
 ## 22.04.2023
 
 - Work tests **DONE**
