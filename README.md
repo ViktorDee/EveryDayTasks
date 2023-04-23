@@ -1,3 +1,13 @@
+- Read a book
+- Meditation
+- Work tests
+- Study
+- Vacuum cleaning
+- Clean a bathroom mirror
+- Postcard for Pasha and Ilya and Tori
+- Neck workout
+## 23.04.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Study **DONE**
