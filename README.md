@@ -1,3 +1,13 @@
+- Meditation
+- Study
+- Work tests
+- Chest and back workout
+- Ironing
+- Laundry
+- Shave wrists
+- Wash head **DONE**
+## 24.04.2023
+
 - Read a book **FAILED**
 - Meditation **DONE**
 - Work tests **DONE**
