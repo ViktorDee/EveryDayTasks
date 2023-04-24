@@ -1,10 +1,10 @@
-- Meditation
-- Study
-- Work tests
-- Chest and back workout
-- Ironing
-- Laundry
-- Shave wrists
+- Meditation **DONE**
+- Study **FAILED**
+- Work tests **DONE**
+- Chest and back workout **DONE**
+- Ironing **DONE**
+- Laundry **DONE**
+- Shave wrists 
 - Wash head **DONE**
 ## 24.04.2023
 
