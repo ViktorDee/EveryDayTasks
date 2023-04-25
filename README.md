@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Ironing
-- Study
-- Stretching
-- Throw out the trash
+- Work tests **DONE**
+- Meditation **DONE**
+- Ironing **FAILED**
+- Study **FAILED**
+- Stretching **DONE**
+- Throw out the trash **DONE**
 ## 25.04.2023
 
 - Meditation **DONE**
