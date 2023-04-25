@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Ironing
+- Study
+- Stretching
+- Throw out the trash
+## 25.04.2023
+
 - Meditation **DONE**
 - Study **FAILED**
 - Work tests **DONE**
