@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Ironing
-- Study
-- Read a book
-- Legs workout
-- Neck workout
+- Work tests **DONE**
+- Meditation **DONE**
+- Ironing **DONE**
+- Study **FAILED**
+- Read a book **FAILED**
+- Legs workout **FAILED**
+- Neck workout **FAILED**
 ## 26.04.2023
 
 - Work tests **DONE**
