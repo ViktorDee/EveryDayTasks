@@ -1,9 +1,9 @@
-- Meditation
-- Work tests
-- Legs workout
-- Neck workout
-- Groceries
-- Nap
+- Meditation **DONE**
+- Work tests **DONE**
+- Legs workout **DONE**
+- Neck workout **FAILED**
+- Groceries **DONE**
+- Nap **FAILED**
 - Wash head **DONE**
 ## 27.04.2023
 
