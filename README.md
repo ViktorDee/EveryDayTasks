@@ -1,3 +1,12 @@
+- Meditation
+- Work tests
+- Legs workout
+- Neck workout
+- Groceries
+- Nap
+- Wash head **DONE**
+## 27.04.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Ironing **DONE**
