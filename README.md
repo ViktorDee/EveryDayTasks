@@ -1,11 +1,11 @@
-- Meditation
-- Work tests
-- Arms and shoulders workout
-- Neack workout
-- Groceries
-- Pasha & Sasha time
-- Read a book
-- Ozon
+- Meditation **DONE**
+- Work tests **DONE**
+- Arms and shoulders workout **DONE**
+- Neck workout **DONE**
+- Groceries **DONE**
+- Pasha & Sasha time **DONE**
+- Read a book **FAILED**
+- Ozon **DONE**
 ## 28.04.2023
 
 - Meditation **DONE**
