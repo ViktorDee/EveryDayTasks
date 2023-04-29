@@ -1,3 +1,12 @@
+- Read a book
+- Work tests
+- Meditation
+- Recycling
+- Groceries
+- Physical activity
+- Shave
+## 29.04.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Arms and shoulders workout **DONE**
