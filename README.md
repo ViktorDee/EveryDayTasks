@@ -1,10 +1,11 @@
-- Read a book
-- Work tests
-- Meditation
-- Recycling
-- Groceries
-- Physical activity
-- Shave
+- Read a book **FAILED**
+- Time with Sasha **DONE**
+- Work tests **DONE**
+- Meditation **DONE**
+- Recycling **DONE**
+- Groceries **DONE**
+- Physical activity **DONE**
+- Shave **DONE**
 ## 29.04.2023
 
 - Meditation **DONE**
