@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Groceries
+- Laundry
+- Clean the mirror
+- Ozon
+- Nap
+- Physical activity
+- Call grandparents
+## 30.04.2023
+
 - Read a book **FAILED**
 - Time with Sasha **DONE**
 - Work tests **DONE**
