@@ -1,12 +1,12 @@
-- Work tests
-- Meditation
-- Groceries
-- Laundry
-- Clean the mirror
-- Ozon
-- Nap
-- Physical activity
-- Call grandparents
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Clean the mirror **DONE**
+- Ozon **DONE**
+- Nap **DONE**
+- Physical activity **DONE**
+- Call grandparents **FAILED**
 ## 30.04.2023
 
 - Read a book **FAILED**
