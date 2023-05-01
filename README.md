@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Chest and back workout
+- Read a book
+- Take a bath
+- Peeling
+- Call grandparents
+- Visit Tori (not sure)
+## 01.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
