@@ -1,11 +1,22 @@
-- Work tests
 - Meditation
-- Chest and back workout
-- Read a book
+- Work tests
+- Physical activity: traps, abs, legs
 - Take a bath
-- Peeling
-- Call grandparents
-- Visit Tori (not sure)
+- Read a book
+- Change bedsheets
+- Vacuum cleaning
+- Throw out the trash
+- Groceries
+## 02.05.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Read a book **FAILED**
+- Take a bath  **FAILED**
+- Peeling **FAILED**
+- Call grandparents **DONE**
+- Visit Tori (not sure) **FAILED**
 ## 01.05.2023
 
 - Work tests **DONE**
