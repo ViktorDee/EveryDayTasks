@@ -1,12 +1,13 @@
-- Meditation
-- Work tests
-- Physical activity: traps, abs, legs
-- Take a bath
-- Read a book
-- Change bedsheets
-- Vacuum cleaning
-- Throw out the trash
-- Groceries
+- Peeling **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
+- Physical activity: traps, abs, legs **DONE**
+- Take a bath **DONE**
+- Read a book **DONE**
+- Change bedsheets **DONE**
+- Vacuum cleaning **DOnE**
+- Throw out the trash **TOMORROW**
+- Groceries **DONE**
 ## 02.05.2023
 
 - Work tests **DONE**
