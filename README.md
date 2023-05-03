@@ -1,3 +1,13 @@
+- Meditation
+- Work tests
+- Legs workout
+- Neck workout
+- Throw out the trash
+- Groceries
+- Wash head
+- Ironing
+## 03.05.2023
+
 - Peeling **DONE**
 - Meditation **DONE**
 - Work tests **DONE**
