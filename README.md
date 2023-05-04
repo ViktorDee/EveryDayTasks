@@ -1,10 +1,18 @@
+- Work tests
+- Meditation
+- Clean windows
+- Laundry
+- Shoulder exercises
+- Physical activity: traps, legs
+## 04.05.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Legs workout **DONE**
 - Neck workout **DONE**
 - Throw out the trash **DONE**
 - Groceries **DONE**
-- Wash head **DOnE**
+- Wash head **DONE**
 - Ironing **DONE**
 ## 03.05.2023
 
