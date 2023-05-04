@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Clean windows
-- Laundry
-- Shoulder exercises
-- Physical activity: traps, legs
+- Work tests **DONE**
+- Meditation **DONE**
+- Clean windows **DONE**
+- Laundry **DONE**
+- Shoulder exercises **DONE**
+- Physical activity: traps, legs **FAILED**
 ## 04.05.2023
 
 - Meditation **DONE**
