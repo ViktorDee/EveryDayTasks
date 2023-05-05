@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Shave
-- Arms and shoulders workout
-- Shoulder exercises
-- Time with Pasha
-- Read a book
-- Throw out the trash
+- Work tests **DONE**
+- Meditation **DONE**
+- Shave **DONE**
+- Arms and shoulders workout **DONE**
+- Shoulder exercises **DONE**
+- Time with Pasha **DONE**
+- Read a book **FAILED**
+- Throw out the trash **DONE**
 ## 05.05.2023
 
 - Work tests **DONE**
