@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Shave
+- Arms and shoulders workout
+- Shoulder exercises
+- Time with Pasha
+- Read a book
+- Throw out the trash
+## 05.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Clean windows **DONE**
