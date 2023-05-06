@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Nap
-- Birthday party
-- Take it easy
+- Work tests **DONE**
+- Meditation **DONE**
+- Nap **FAILED**
+- Birthday party **DONE**
+- Take it easy **DONE**
 ## 06.05.2023
 
 - Work tests **DONE**
