@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Nap
+- Birthday party
+- Take it easy
+## 06.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Shave **DONE**
