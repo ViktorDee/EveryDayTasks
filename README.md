@@ -1,3 +1,12 @@
+- Meditation
+- Work tests
+- Vacuum cleaning
+- Groceries
+- Shoulder exercises
+- Retinol
+- Change pillow covers
+## 07.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Nap **FAILED**
