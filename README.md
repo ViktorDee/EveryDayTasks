@@ -1,10 +1,12 @@
-- Meditation
-- Work tests
-- Vacuum cleaning
-- Groceries
-- Shoulder exercises
-- Retinol
-- Change pillow covers
+- Meditation **DONE**
+- Laundry **DONE**
+- Ozon **DONE**
+- Work tests **DONE**
+- Vacuum cleaning **DONE**
+- Groceries **DONE**
+- Shoulder exercises **DONE**
+- Retinol **DONE**
+- Change pillow covers **DONE**
 ## 07.05.2023
 
 - Work tests **DONE**
