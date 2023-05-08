@@ -1,11 +1,11 @@
-- Read a book
-- Meditation
-- Work tests
-- Chest and back workout
-- Physical activity
-- Throw out the trash
-- Ironing
-- Transfer baht
+- Read a book **FAILED**
+- Meditation **DONE**
+- Work tests **DONE**
+- Chest and back workout **DONE**
+- Physical activity **DONE**
+- Throw out the trash **DONE**
+- Ironing **TOMORROW**
+- Transfer baht **DONE**
 ## 08.05.2023
 
 - Meditation **DONE**
