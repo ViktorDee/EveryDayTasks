@@ -1,3 +1,13 @@
+- Read a book
+- Meditation
+- Work tests
+- Chest and back workout
+- Physical activity
+- Throw out the trash
+- Ironing
+- Transfer baht
+## 08.05.2023
+
 - Meditation **DONE**
 - Laundry **DONE**
 - Ozon **DONE**
