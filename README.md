@@ -1,11 +1,11 @@
-- Meditation
-- Work tests
-- Ironing
-- Physical activity
-- Shoulder exercises
-- Ozon
-- Groceries
-- Shoulder x-ray
+- Meditation **DONE**
+- Work tests **DONE**
+- Ironing **DONE**
+- Physical activity **DONE**
+- Shoulder exercises **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Shoulder x-ray **APPOINTED**
 ## 09.05.2023
 
 - Read a book **FAILED**
