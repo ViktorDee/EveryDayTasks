@@ -1,3 +1,13 @@
+- Meditation
+- Work tests
+- Ironing
+- Physical activity
+- Shoulder exercises
+- Ozon
+- Groceries
+- Shoulder x-ray
+## 09.05.2023
+
 - Read a book **FAILED**
 - Meditation **DONE**
 - Work tests **DONE**
