@@ -1,3 +1,12 @@
+- Meditation
+- Work tests
+- Legs workout
+- Neck workout
+- Shoulder X-ray
+- Physical activity
+- Groceries
+## 10.05.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Ironing **DONE**
