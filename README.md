@@ -1,10 +1,10 @@
-- Meditation
-- Work tests
-- Legs workout
-- Neck workout
-- Shoulder X-ray
-- Physical activity
-- Groceries
+- Meditation **DONE**
+- Work tests **DONE**
+- Legs workout **DONE**
+- Neck workout **FAILED**
+- Shoulder X-ray **DONE**
+- Physical activity **FAILED**
+- Groceries **DONE**
 ## 10.05.2023
 
 - Meditation **DONE**
