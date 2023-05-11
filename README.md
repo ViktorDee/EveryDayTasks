@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Neck workout
-- Physical activity
-- Ozon
+- Work tests **DONE**
+- Meditation **DONE**
+- Neck workout **DONE**
+- Physical activity **DONE**
+- Ozon **DONE**
 ## 11.05.2023
 
 - Meditation **DONE**
