@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Neck workout
+- Physical activity
+- Ozon
+## 11.05.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Legs workout **DONE**
