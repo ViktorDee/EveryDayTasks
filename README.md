@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Shoulder exercises
-- Read a book
-- Throw out the trash
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Shoulder exercises **DONE**
+- Read a book **FAILED**
+- Throw out the trash **DONE**
 ## 12.05.2023
 
 - Work tests **DONE**
