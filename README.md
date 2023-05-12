@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Arms and shoulders workout
+- Shoulder exercises
+- Read a book
+- Throw out the trash
+## 12.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Neck workout **DONE**
