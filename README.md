@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Groceries
-- Physical activity
-- Treat myself
-- Pack Pasha's gift
-- Clean the mirror
-- Recycling
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Physical activity **DONE**
+- Treat myself **DONE**
+- Pack Pasha's gift **DONE**
+- Clean the mirror **TOMORROW**
+- Recycling **DONE**
 ## 13.05.2023
 
 - Work tests **DONE**
