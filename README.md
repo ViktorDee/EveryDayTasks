@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Groceries
+- Physical activity
+- Treat myself
+- Pack Pasha's gift
+- Clean the mirror
+- Recycling
+## 13.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
