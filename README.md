@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Buy shorts
+- Buy hermetic
+- Have fun
+- Clean the mirror
+- Vacuum cleaning
+- Change bedsheets
+## 14.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
