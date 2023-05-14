@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Buy shorts
-- Buy hermetic
-- Have fun
-- Clean the mirror
-- Vacuum cleaning
-- Change bedsheets
+- Work tests **DONE**
+- Meditation **DONE**
+- Buy shorts **DONE**
+- Buy hermetic **CANCELLED**
+- Have fun **DONE**
+- Clean the mirror **DONE**
+- Vacuum cleaning **DONE**
+- Change bedsheets **DONE**
 ## 14.05.2023
 
 - Work tests **DONE**
