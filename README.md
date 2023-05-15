@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Chest and back workout
+- Physical activity
+- Wash head
+- Sun-protective cover on windows
+- Things ready for Novokuznetsk
+## 15.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Buy shorts **DONE**
