@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- Physical activity
-- Wash head
-- Sun-protective cover on windows
-- Things ready for Novokuznetsk
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Physical activity **FAILED**
+- Wash head **DONE**
+- Sun-protective cover on windows **DONE**
+- Things ready for Novokuznetsk **DONE**
 ## 15.05.2023
 
 - Work tests **DONE**
