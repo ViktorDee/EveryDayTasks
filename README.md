@@ -1,4 +1,12 @@
-- Work tests **DONE**
+- Work tests
+- Meditation
+- Trip to Novokuznetsk
+- Groceries
+- Grab all things to Novokuznetsk
+- Don't forget anything!
+## 16.05.2023
+
+ -Work tests **DONE**
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Physical activity **FAILED**
