@@ -1,9 +1,15 @@
 - Work tests
 - Meditation
-- Trip to Novokuznetsk
-- Groceries
-- Grab all things to Novokuznetsk
-- Don't forget anything!
+- Eat well
+- Stretching
+## 17.05.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Trip to Novokuznetsk **DONE**
+- Groceries **DONE**
+- Grab all things to Novokuznetsk **DONE**
+- Don't forget anything! **DONE**
 ## 16.05.2023
 
  -Work tests **DONE**
