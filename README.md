@@ -1,7 +1,12 @@
-- Work tests
-- Meditation
-- Eat well
-- Stretching
+- Meditation **DONE**
+- Work tests **DONE**
+- Survive **DONE**
+## 18.05.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Eat well **DONE**
+- Stretching **FAILED**
 ## 17.05.2023
 
 - Work tests **DONE**
