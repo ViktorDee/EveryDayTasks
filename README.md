@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Eat well
+- Retinol
+- Groceries
+- Take a shower with soap
+- Return the chicken spice to Pasha
+- Wash a mouse pad
+## 19.05.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Survive **DONE**
