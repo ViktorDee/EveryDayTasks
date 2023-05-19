@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Eat well
-- Retinol
-- Groceries
-- Take a shower with soap
-- Return the chicken spice to Pasha
-- Wash a mouse pad
+- Work tests **DONE**
+- Meditation **DONE**
+- Eat well **DONE**
+- Retinol **DONE**
+- Groceries **DONE**
+- Take a shower with soap **HALF DONE**
+- Return the chicken spice to Pasha **DONE**
+- Wash a mouse pad **TOMORROW**
 ## 19.05.2023
 
 - Meditation **DONE**
