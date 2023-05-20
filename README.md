@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Change a lamp
+- Arms and shoulders workout
+- Ozon
+- Wash head
+## 20.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Eat well **DONE**
