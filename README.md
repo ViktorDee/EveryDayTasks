@@ -1,9 +1,10 @@
-- Work tests
-- Meditation
-- Change a lamp
-- Arms and shoulders workout
-- Ozon
-- Wash head
+- Work tests **DONE**
+- Meditation **DONE**
+- Change a lamp **DONE**
+- Arms and shoulders workout **HALF**
+- Ozon **DONE**
+- Wash a mouse pad **TOMORROW**
+- Wash head **DONE**
 ## 20.05.2023
 
 - Work tests **DONE**
