@@ -1,3 +1,14 @@
+- Class with Tina
+- Wash a mouse pad
+- Shoulder & neck workout
+- Work tests
+- Meditation
+- Groceries
+- Shave: face, armpits, down there
+- Edit some pics
+- Water Not Aloe
+## 21.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Change a lamp **DONE**
