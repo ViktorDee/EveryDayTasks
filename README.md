@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Charge the trimmer
+- Laundry
+- Ironing
+- Chest and back workout
+- Abs workout
+- Physical activity
+- Pulling out teeth thing
+## 22.05.2023
+
 - Class with Tina **DONE**
 - Wash a mouse pad **DONE**
 - Shoulder & neck workout **DONE**
