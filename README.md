@@ -1,12 +1,12 @@
-- Work tests
-- Meditation
-- Charge the trimmer
-- Laundry
-- Ironing
-- Chest and back workout
-- Abs workout
-- Physical activity
-- Pulling out teeth thing
+- Work tests **DONE**
+- Meditation **DONE**
+- Charge the trimmer **DONE**
+- Laundry **DONE**
+- Ironing **FAILED**
+- Chest and back workout **DONE**
+- Abs workout **DONE**
+- Physical activity **DONE**
+- Pulling out teeth thing **DONE**
 ## 22.05.2023
 
 - Class with Tina **DONE**
