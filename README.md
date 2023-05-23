@@ -1,3 +1,15 @@
+- Work tests
+- Meditation
+- Ironing
+- Traps
+- Call grangmom in Tashtagol
+- Grab generolon
+- Wash head
+- Invite Pasha to my place
+- ScriptNetwork AMA
+- Make online orders
+## 23.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Charge the trimmer **DONE**
