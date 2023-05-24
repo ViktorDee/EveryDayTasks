@@ -1,13 +1,23 @@
 - Work tests
 - Meditation
-- Ironing
-- Traps
-- Call grangmom in Tashtagol
-- Grab generolon
-- Wash head
-- Invite Pasha to my place
-- ScriptNetwork AMA
-- Make online orders
+- Groceries
+- Time with Masha
+- Grab the shopper
+- Legs workout
+- Morning routine **DONE**
+- Arms set
+## 24.05.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Ironing **DONE**
+- Traps set **DONE**
+- Call grangmom in Tashtagol **DONE**
+- Grab generolon **May 25th**
+- Wash head **DONE**
+- Invite Pasha to my place **DONE**
+- ScriptNetwork AMA **DONE**
+- Make online orders **DONE**
 ## 23.05.2023
 
 - Work tests **DONE**
