@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Groceries
-- Time with Masha
-- Grab the shopper
-- Legs workout
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Time with Masha **DONE**
+- Grab the shopper **DONE**
+- Legs workout **DONE**
 - Morning routine **DONE**
-- Arms set
+- Arms set **HALF DONE**
 ## 24.05.2023
 
 - Work tests **DONE**
