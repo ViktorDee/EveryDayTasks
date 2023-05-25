@@ -1,3 +1,10 @@
+- Meditation
+- Work tests
+- Dentist appointment
+- Cook lentils (maybe)
+- Morning routine **DONE**
+## 25.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
