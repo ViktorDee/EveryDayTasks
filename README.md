@@ -1,7 +1,7 @@
-- Meditation
-- Work tests
-- Dentist appointment
-- Cook lentils (maybe)
+- Meditation **DONE**
+- Work tests **DONE** 
+- Dentist appointment **DONE**
+- Cook lentils (maybe) **DONE**
 - Morning routine **DONE**
 ## 25.05.2023
 
