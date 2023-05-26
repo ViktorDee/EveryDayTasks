@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Buy HG, a painkiller
+- Follow the instructions
+- Nap
+- Eat well
+## 26.05.2023
+
 - Meditation **DONE**
 - Work tests **DONE** 
 - Dentist appointment **DONE**
