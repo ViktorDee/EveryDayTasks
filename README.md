@@ -1,9 +1,11 @@
-- Work tests
-- Meditation
-- Buy HG, a painkiller
-- Follow the instructions
-- Nap
-- Eat well
+- Work tests **DONE**
+- Meditation **DONE**
+- Buy HG, a painkiller **DONE**
+- Groceries **DONE**
+- Window sun cover **DONE**
+- Follow the instructions **DONE**
+- Nap **DONE**
+- Eat well **DONE**
 ## 26.05.2023
 
 - Meditation **DONE**
