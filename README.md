@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Retinol
+- Cook
+- Nap
+- Wash head
+- Vacuum cleaning
+- Clean the mirror in the bathroom
+## 27.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Buy HG, a painkiller **DONE**
