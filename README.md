@@ -1,11 +1,12 @@
-- Work tests
-- Meditation
-- Retinol
-- Cook
-- Nap
-- Wash head
-- Vacuum cleaning
-- Clean the mirror in the bathroom
+- Work tests **DONE**
+- Meditation **DONE**
+- Retinol **DONE**
+- Cook **TOMORROW**
+- Nap **DONE**
+- Change bedsheets **DONE**
+- Wash head **DONE**
+- Vacuum cleaning **DONE**
+- Clean the mirror in the bathroom **DONE**
 ## 27.05.2023
 
 - Work tests **DONE**
