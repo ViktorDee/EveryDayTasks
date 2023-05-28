@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Dentist appointment
+- Blooming
+- Groceries
+- Ozon
+- Cook
+## 28.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Retinol **DONE**
