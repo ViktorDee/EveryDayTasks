@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Dentist appointment
-- Blooming
-- Groceries
-- Ozon
-- Cook
+- Work tests **DONE**
+- Meditation **DONE**
+- Dentist appointment **DONE**
+- Blooming **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
+- Cook **DONE**
 ## 28.05.2023
 
 - Work tests **DONE**
