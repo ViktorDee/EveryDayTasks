@@ -1,10 +1,10 @@
-- CDEK
-- Work tests
-- Meditation
-- Groceries
-- Throw out the trash
-- Sort out the pics
-- Read a book
+- CDEK **DONE**
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Throw out the trash **FAILED**
+- Sort out the pics **DONE**
+- Read a book **FAILED**
 ## 29.05.2023
 
 - Work tests **DONE**
