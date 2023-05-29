@@ -1,3 +1,12 @@
+- CDEK
+- Work tests
+- Meditation
+- Groceries
+- Throw out the trash
+- Sort out the pics
+- Read a book
+## 29.05.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Dentist appointment **DONE**
