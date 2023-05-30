@@ -1,10 +1,11 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Laundry **DONE**
+- Meditation **DONE**
 - Groceries **DONE**
 - Morning routine **DONE**
-- Sort out the pics
-- Read a book
-- Chest & back + abs workout
+- Sort out the pics **DONE**
+- Read a book **DONE**
+- Chest & back + abs workout **DONE**
 ## 30.05.2023
 
 - CDEK **DONE**
