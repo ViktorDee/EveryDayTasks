@@ -1,9 +1,18 @@
+- Work tests
+- Meditation
+- Groceries **DONE**
+- Morning routine **DONE**
+- Sort out the pics
+- Read a book
+- Chest & back + abs workout
+## 30.05.2023
+
 - CDEK **DONE**
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
-- Throw out the trash **FAILED**
-- Sort out the pics **DONE**
+- Throw out the trash **DONE***
+- Sort out the pics **FAILED**
 - Read a book **FAILED**
 ## 29.05.2023
 
