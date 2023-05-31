@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Ironing
+- Morning routine **DONE**
+- Wash head
+- Knife sharpening (maybe)
+- Window sunscreen cover
+## 31.05.2023
+
 - Work tests **DONE**
 - Laundry **DONE**
 - Meditation **DONE**
