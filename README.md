@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Ironing
+- Work tests **DONE**
+- Meditation **DONE**
+- Ironing **DONE**
 - Morning routine **DONE**
-- Wash head
-- Knife sharpening (maybe)
-- Window sunscreen cover
+- Wash head **DONE**
+- Knife sharpening (maybe) **DONE**
+- Window sunscreen cover **FAILED**
 ## 31.05.2023
 
 - Work tests **DONE**
