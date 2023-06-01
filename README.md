@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Legs workout
-- Window sunscreen cover
-- Ozon
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Window sunscreen cover **DONE**
+- Ozon **DONE**
 - Groceries **DONE**
-- Throw out the trash
-- Physical activity
+- Throw out the trash **DONE**
+- Physical activity **DONE**
 - Morning routine **DONE**
 ## 01.06.2023
 
