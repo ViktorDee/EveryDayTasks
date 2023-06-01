@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Legs workout
+- Window sunscreen cover
+- Ozon
+- Groceries **DONE**
+- Throw out the trash
+- Physical activity
+- Morning routine **DONE**
+## 01.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Ironing **DONE**
