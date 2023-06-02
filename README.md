@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Cut nails
-- Make a quest
+- Work tests **DONE**
+- Meditation **DONE**
+- Cut nails **DONE**
+- Make a quest **DONE**
 - Morning routine **DONE**
-- Arms and shoulders workout
-- Abs workout
+- Arms and shoulders workout **DONE**
+- Abs workout **SUNDAY**
 ## 02.06.2023
 
 - Work tests **DONE**
