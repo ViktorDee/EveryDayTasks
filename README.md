@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Time with Tori
-- Groceries
-- Retinol
+- Work tests **DONE**
+- Meditation **DONE**
+- Time with Tori **DONE**
+- Groceries **DONE**
+- Retinol **DONE**
 - Wash head **DONE**
-- Change bedsheets
+- Change bedsheets **DONE**
 ## 03.06.2023
 
 - Work tests **DONE**
