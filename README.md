@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Time with Tori
+- Groceries
+- Retinol
+- Wash head **DONE**
+- Change bedsheets
+## 03.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Cut nails **DONE**
