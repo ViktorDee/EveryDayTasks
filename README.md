@@ -1,3 +1,16 @@
+- Work tests
+- Meditation
+- Class with Tina
+- Abs workout
+- Neck workout
+- Ozon
+- Groceries
+- Ironing
+- Vacuum cleaning
+- Throw out the trash
+- Morning routine **DONE**
+## 04.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Time with Tori **DONE**
