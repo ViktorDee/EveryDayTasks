@@ -1,13 +1,13 @@
-- Work tests
-- Meditation
-- Class with Tina
-- Abs workout
-- Neck workout
-- Ozon
-- Groceries
-- Ironing
-- Vacuum cleaning
-- Throw out the trash
+- Work tests **DONE**
+- Meditation **DONE**
+- Class with Tina **DONE**
+- Abs workout **DONE**
+- Neck workout **DONE**
+- Ozon **WHEN THE BAG COMES**
+- Groceries **DONE**
+- Ironing **DONE**
+- Vacuum cleaning **DONE**
+- Throw out the trash **DONE**
 - Morning routine **DONE**
 ## 04.06.2023
 
