@@ -1,12 +1,14 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE**
 - Groceries **DONE**
 - Morning routine **DONE**
-- Chest workout + a bit of back
-- Physical activity
-- Go to sleep early
-- Morning prep
-- Wash head
+- Chest workout + a bit of back **DONE**
+- Physical activity **DONE**
+- Go to sleep early **DONE**
+- Ozon **DONE**
+- Read a book **DONE**
+- Morning prep **DONE**
+- Wash head **DONE**
 ## 05.06.2023
 
 - Work tests **DONE**
