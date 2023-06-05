@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Groceries **DONE**
+- Morning routine **DONE**
+- Chest workout + a bit of back
+- Physical activity
+- Go to sleep early
+- Morning prep
+- Wash head
+## 05.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Class with Tina **DONE**
