@@ -1,3 +1,10 @@
+- Meditation
+- Work tests
+- Time with Pasha
+- Groceries
+- Buy Panama
+## 06.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
