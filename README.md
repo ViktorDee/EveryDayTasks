@@ -1,3 +1,11 @@
+- Meditation
+- Work tests
+- Nap
+- Groceries
+- Laundry
+- Clean the bath
+## 07.06.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Time with Pasha **DONE**
