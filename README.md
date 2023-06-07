@@ -1,9 +1,9 @@
-- Meditation
-- Work tests
-- Nap
-- Groceries
-- Laundry
-- Clean the bath
+- Meditation **DONE**
+- Work tests **DONE**
+- Nap **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Clean the bath **FAILED**
 ## 07.06.2023
 
 - Meditation **DONE**
