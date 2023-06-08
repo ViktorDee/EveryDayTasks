@@ -1,3 +1,10 @@
+- Meditation
+- Work tests
+- Legs workout
+- Neck workout
+- Take yohimbe
+## 08.06.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Nap **DONE**
