@@ -1,8 +1,8 @@
-- Meditation
-- Work tests
-- Legs workout
-- Neck workout
-- Take yohimbe
+- Meditation **DONE**
+- Work tests **DONE**
+- Legs workout **DONE**
+- Neck workout **DONE**
+- Take yohimbe **DONE**
 ## 08.06.2023
 
 - Meditation **DONE**
