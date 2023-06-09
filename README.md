@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
 - Wash head **DONE**
-- Invite friends to discord
-- Change bedsheets
-- Message Tori
+- Invite friends to discord **FAILED**
+- Change bedsheets **TOMORROW**
+- Message Tori **DONE**
 ## 09.06.2023
 
 - Meditation **DONE**
