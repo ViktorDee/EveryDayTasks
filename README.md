@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Arms and shoulders workout
+- Wash head **DONE**
+- Invite friends to discord
+- Change bedsheets
+- Message Tori
+## 09.06.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Legs workout **DONE**
