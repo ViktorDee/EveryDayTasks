@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Shave: face, body
+- Change bedsheets
+- Morning routine **SLEPT BAD**
+- Change water filter
+- Physical activity
+- Nap
+## 10.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
