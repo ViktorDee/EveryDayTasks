@@ -1,11 +1,24 @@
 - Work tests
 - Meditation
-- Shave: face, body
-- Change bedsheets
-- Morning routine **SLEPT BAD**
-- Change water filter
+- Class with Tina
+- Cook
+- Morning routine
+- Retinol
+- Water plants
 - Physical activity
-- Nap
+- Vacuum cleaning
+## 11.06.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Recycling **DONE**
+- Shave: face, body **DONE**
+- Change bedsheets **DONE**
+- Morning routine **SLEPT BAD**
+- Change water filter **DONE**
+- Physical activity **DONE**
+- Nap **DONE**
+- Ironing **DONE**
 ## 10.06.2023
 
 - Work tests **DONE**
