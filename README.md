@@ -2,9 +2,10 @@
 - Meditation
 - Class with Tina
 - Cook
-- Morning routine
+- Morning routine **DONE**
 - Retinol
 - Water plants
+- Throw out the trash
 - Physical activity
 - Vacuum cleaning
 ## 11.06.2023
