@@ -1,13 +1,13 @@
-- Work tests
-- Meditation
-- Class with Tina
-- Cook
+- Work tests **DONE**
+- Meditation **DONE**
+- Class with Tina **FAILED**
+- Cook **DONE**
 - Morning routine **DONE**
-- Retinol
-- Water plants
-- Throw out the trash
-- Physical activity
-- Vacuum cleaning
+- Retinol **DONE**
+- Water plants **DONE**
+- Throw out the trash **DONE**
+- Physical activity **DONE**
+- Vacuum cleaning **TOMORROW**
 ## 11.06.2023
 
 - Work tests **DONE**
