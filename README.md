@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- ABS workout
-- Ozon
-- Vacuum cleaning
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- ABS workout **A bit. TOMORROW**
+- Ozon **DONE**
+- Vacuum cleaning **TOMORROW**
 - Nap **DONE**
 - Morning routine **DONE**
 ## 12.06.2023
