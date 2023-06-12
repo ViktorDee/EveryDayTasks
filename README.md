@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Chest and back workout
+- ABS workout
+- Ozon
+- Vacuum cleaning
+- Nap **DONE**
+- Morning routine **DONE**
+## 12.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Class with Tina **FAILED**
