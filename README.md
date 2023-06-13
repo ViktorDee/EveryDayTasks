@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- ABS workout
-- Vacuum cleaning
-- Wash head
+- Work tests **DONE**
+- Meditation **DONE**
+- ABS workout **DONE**
+- Vacuum cleaning **DONE**
+- Wash head **DONE**
 ## 13.06.2023
 
 - Work tests **DONE**
