@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- ABS workout
+- Vacuum cleaning
+- Wash head
+## 13.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Chest and back workout **DONE**
