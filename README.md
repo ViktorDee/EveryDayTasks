@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Laundry
-- Legs workout
-- Groceries
-- Throw out the trash
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Laundry **DONE**
+- Legs workout **TOMORROW**
+- Groceries **DONE**
+- Throw out the trash **DONE**
+- Read a book **FAILED**
 ## 14.06.2023
 
 - Work tests **DONE**
