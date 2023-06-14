@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Laundry
+- Legs workout
+- Groceries
+- Throw out the trash
+- Read a book
+## 14.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - ABS workout **DONE**
