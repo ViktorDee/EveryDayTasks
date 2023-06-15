@@ -1,9 +1,10 @@
-- Work tests
-- Meditation
-- Legs workout
-- Ironing
-- Take a walk
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Ozon **DONE**
+- Legs workout **DONE**
+- Ironing **DONE**
+- Take a walk **DONE**
+- Read a book **FAILED**
 ## 15.06.2023
 
 - Work tests **DONE**
