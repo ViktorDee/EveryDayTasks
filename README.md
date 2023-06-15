@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Legs workout
+- Ironing
+- Take a walk
+- Read a book
+## 15.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Laundry **DONE**
