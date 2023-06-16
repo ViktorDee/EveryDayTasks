@@ -1,12 +1,12 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Neck workout
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Neck workout **TOMORROW**
 - Wash head **DONE**
 - Morning routine **DONE**
-- Ozon
-- Throw out the trash
-- Groceries
+- Ozon, yandex **DONE**
+- Throw out the trash **DONE**
+- Groceries **TOMORROW**
 ## 16.06.2023
 
 - Work tests **DONE**
