@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Neck workout
+- Morning routine **DONE**
+- Shave
+- Read a book
+- Laundry
+- Groceries **DONE**
+## 17.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
