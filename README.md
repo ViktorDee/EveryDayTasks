@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Neck workout
+- Work tests **DONE**
+- Meditation **DONE**
+- Neck workout **DONE**
 - Morning routine **DONE**
-- Shave
-- Read a book
-- Laundry
+- Shave **DONE**
+- Read a book **FAILED**
+- Laundry **DONE**
 - Groceries **DONE**
 ## 17.06.2023
 
