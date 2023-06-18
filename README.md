@@ -1,3 +1,15 @@
+- Work tests
+- Meditation
+- Ironing
+- Retinol
+- Read a boo
+- Ozon
+- Class with Tina
+- Buy soap
+- Change bedsheets
+- Shave face with a trimmer **DONE**
+## 18.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Neck workout **DONE**
