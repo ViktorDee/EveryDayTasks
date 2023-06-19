@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE** 
 - Groceries **DONE**
 - Morning routine **DONE**
-- Wash head
-- Chest and back workout
-- Ironing
-- Read a book
+- Wash head**DONE**
+- Chest and back workout **DONE**
+- Ironing **DONE**
+- Read a book **DONE**
 ## 19.06.2023
 
 - Work tests **DONE**
