@@ -1,12 +1,22 @@
 - Work tests
 - Meditation
+- Groceries **DONE**
+- Morning routine **DONE**
+- Wash head
+- Chest and back workout
 - Ironing
-- Retinol
-- Read a boo
-- Ozon
-- Class with Tina
-- Buy soap
-- Change bedsheets
+- Read a book
+## 19.06.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Laundry **DONE**
+- Retinol **DONE**
+- Read a book **FAILED**
+- Ozon **DONE**
+- Class with Tina **DONE**
+- Buy soap **DONE**
+- Change bedsheets **DONE**
 - Shave face with a trimmer **DONE**
 ## 18.06.2023
 
