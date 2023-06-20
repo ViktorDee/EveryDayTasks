@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- ABS workout
-- Have a walk
-- Tatoo stuff
-- Throw out the trash
+- Work tests **DONE**
+- Meditation **DONE**
+- ABS workout **DONE** 
+- Have a walk **DONE**
+- Tatoo stuff **FAILED**
+- Throw out the trash **DONE**
 ## 20.06.2023
 
 - Work tests **DONE**
