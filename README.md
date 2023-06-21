@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Vacuum cleaning
+- Groceries **DONE**
+- Transfer ARB to OKX **DONE**
+- Neck workout
+- Tattoo stuff
+## 21.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - ABS workout **DONE** 
