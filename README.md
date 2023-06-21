@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Vacuum cleaning
+- Work tests **DONE**
+- Meditation **DONE**
+- Vacuum cleaning **DONE**
 - Groceries **DONE**
 - Transfer ARB to OKX **DONE**
-- Neck workout
-- Tattoo stuff
+- Neck workout **DONE**
+- Tattoo stuff **FAILED**
 ## 21.06.2023
 
 - Work tests **DONE**
