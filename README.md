@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Legs workout
-- Wash head
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Wash head **DONE**
+- Read a book **FAILED**
 ## 22.06.2023
 
 - Work tests **DONE**
