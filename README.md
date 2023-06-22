@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Legs workout
+- Wash head
+- Read a book
+## 22.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Vacuum cleaning **DONE**
