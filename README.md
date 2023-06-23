@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Abs workout
-- Groceries
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Abs workout **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
 ## 23.06.2023
 
 - Work tests **DONE**
