@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Arms and shoulders workout
+- Abs workout
+- Groceries
+- Read a book
+## 23.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **DONE**
