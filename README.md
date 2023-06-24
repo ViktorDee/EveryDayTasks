@@ -1,10 +1,11 @@
-- Work tests
-- Meditation
-- Recycling
-- Meet up
-- Tattoo stuff
-- Clean the mirror
-- Shave
+- Work tests **DONE**
+- Read a book **DONE**
+- Meditation **DONE**
+- Recycling **DONE**
+- Meet up **DONE**
+- Tattoo stuff **VIKA DID NOT RESPOND**
+- Clean the mirror **DONE**
+- Shave **DONE**
 ## 24.06.2023
 
 - Work tests **DONE**
