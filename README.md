@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Recycling
+- Meet up
+- Tattoo stuff
+- Clean the mirror
+- Shave
+## 24.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
