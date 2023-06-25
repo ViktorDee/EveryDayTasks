@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Class with Tina
+- Meet up
+- Have a walk
+- Cook
+- BHA
+## 25.06.2023
+
 - Work tests **DONE**
 - Read a book **DONE**
 - Meditation **DONE**
