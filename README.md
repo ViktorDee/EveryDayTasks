@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Class with Tina
-- Meet up
-- Have a walk
-- Cook
-- BHA
+- Work tests **DONE**
+- Meditation **DONE**
+- Class with Tina **DONE**
+- Meet up **DONE**
+- Have a walk **DONE**
+- Cook **DONE**
+- BHA **DONE**
 ## 25.06.2023
 
 - Work tests **DONE**
