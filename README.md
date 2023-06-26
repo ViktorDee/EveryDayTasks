@@ -1,11 +1,12 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE**
+- Laundry **DONE**
 - Groceries **DONE**
 - Morning routine **DONE**
-- Wash head
+- Wash head **DONE**
 - Throw out the trash **DONE**
-- Neck workout
-- Chest and back workout
+- Neck workout **DONE**
+- Chest and back workout **DONE**
 ## 26.06.2023
 
 - Work tests **DONE**
