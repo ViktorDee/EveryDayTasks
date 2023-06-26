@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Groceries **DONE**
+- Morning routine **DONE**
+- Wash head
+- Throw out the trash **DONE**
+- Neck workout
+- Chest and back workout
+## 26.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Class with Tina **DONE**
