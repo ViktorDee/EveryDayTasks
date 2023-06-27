@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Ironing
+- Have a walk
+- Read a book
+- Change bedsheets
+- Retinol
+## 27.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Laundry **DONE**
