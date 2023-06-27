@@ -1,10 +1,12 @@
-- Work tests
-- Meditation
-- Ironing
-- Have a walk
-- Read a book
-- Change bedsheets
-- Retinol
+- Work tests **DONE**
+- Meditation **DONE**
+- Ironing **DONE**
+- Have a walk **DONE**
+- Read a book **FAILED**
+- Change bedsheets **DONE**
+- Retinol **DONE**
+- Ozon **FAILED**
+- Morning routine **DONE**
 ## 27.06.2023
 
 - Work tests **DONE**
