@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE**
 - Morning routine **DONE**
-- Ozon
-- Groceries
-- Tattoo
-- Read a book
+- Ozon **DONE**
+- Groceries **DONE**
+- Tattoo **DONE**
+- Read a book **FAILED**
 ## 28.06.2023
 
 - Work tests **DONE**
