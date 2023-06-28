@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Morning routine **DONE**
+- Ozon
+- Groceries
+- Tattoo
+- Read a book
+## 28.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Ironing **DONE**
