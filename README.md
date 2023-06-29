@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Legs workout
+- Throw out the trash
+- Read a book/play wtih Ilya
+- Wash head
+## 29.06.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Morning routine **DONE**
