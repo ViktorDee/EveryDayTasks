@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Legs workout
-- Throw out the trash
-- Read a book/play wtih Ilya
-- Wash head
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Throw out the trash **DONE**
+- Read a book/play wtih Ilya **FAILED**
+- Wash head **TOMORROW**
 ## 29.06.2023
 
 - Work tests **DONE**
