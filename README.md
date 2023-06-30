@@ -1,8 +1,10 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Abs workout
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Abs workout **TOMORROW**
+- Read a book **FAILED**
+- Have a walk **DONE**
+- Groceries **DONE**
 - Morning routine **DONE**
 ## 30.06.2023
 
