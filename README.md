@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Have a nice walk
-- Enjoy Saturday
-- Buy a blood test
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Have a nice walk **DONE**
+- Enjoy Saturday **DONE**
+- Buy a blood test **DONE**
+- Read a book **DONE**
 ## 01.07.2023
 
 - Work tests **DONE**
