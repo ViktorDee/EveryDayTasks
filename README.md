@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Have a nice walk
+- Enjoy Saturday
+- Buy a blood test
+- Read a book
+## 01.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
