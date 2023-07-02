@@ -6,6 +6,8 @@
 - Clean the mirror
 - Laundry
 - Morning routine **DONE**
+- Class with Tina
+- Blood test
 ## 02.07.2023
 
 - Work tests **DONE**
