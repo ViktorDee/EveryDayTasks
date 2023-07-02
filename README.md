@@ -1,13 +1,14 @@
-- Work tests
-- Meditation
-- Groceries
-- Abs workout
-- Vacuum cleaning
-- Clean the mirror
-- Laundry
+- Work tests **DONE**
+- Meditation **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
+- Abs workout **DONE**
+- Vacuum cleaning **DONE**
+- Clean the mirror **DONE**
+- Laundry **DINE**
 - Morning routine **DONE**
-- Class with Tina
-- Blood test
+- Class with Tina **DONE**
+- Blood test **DONE**
 ## 02.07.2023
 
 - Work tests **DONE**
