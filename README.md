@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Groceries
+- Abs workout
+- Vacuum cleaning
+- Clean the mirror
+- Laundry
+- Morning routine **DONE**
+## 02.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Have a nice walk **DONE**
