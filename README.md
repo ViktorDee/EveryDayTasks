@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- Throw out the trash
-- Ironing
-- Read a book/play
-- Order from ozon
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Throw out the trash **FAILED**
+- Ironing **DONE**
+- Read a book/play **DONE**
+- Order from ozon **DONE**
 ## 03.07.2023
 
 - Work tests **DONE**
