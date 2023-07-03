@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Chest and back workout
+- Throw out the trash
+- Ironing
+- Read a book/play
+- Order from ozon
+## 03.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Read a book **DONE**
