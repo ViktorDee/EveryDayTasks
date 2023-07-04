@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE**
 - Throw out the trash **DONE**
-- Wash head
-- Ironing
-- Groceries
-- Read a book
+- Wash head **DONE**
+- Ironing **NOT NEEDED**
+- Groceries **DONE**
+- Read a book **DONE**
 ## 04.07.2023
 
 - Work tests **DONE**
