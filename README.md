@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Throw out the trash **DONE**
+- Wash head
+- Ironing
+- Groceries
+- Read a book
+## 04.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Chest and back workout **DONE**
