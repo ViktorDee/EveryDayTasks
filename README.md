@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Neck workout
-- Cook rice
-- Read a book
-- Call granddad
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Neck workout **FAILED**
+- Cook rice **DONE**
+- Read a book **FAILED**
+- Call granddad **DONE**
 ## 05.07.2023
 
 - Work tests **DONE**
