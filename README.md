@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Arms and shoulders workout
+- Neck workout
+- Cook rice
+- Read a book
+- Call granddad
+## 05.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Throw out the trash **DONE**
