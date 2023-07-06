@@ -1,8 +1,9 @@
-- Work tests
-- Meditation
-- Legs workout
-- Neck workout
-- Shave
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Neck workout **DONE**
+- Shave **DONE**
+- Morning routine **DONE**
 ## 06.07.2023
 
 - Work tests **DONE**
