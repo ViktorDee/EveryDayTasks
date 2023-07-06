@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Legs workout
+- Neck workout
+- Shave
+## 06.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
