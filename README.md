@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Cut nails
-- Groceries
-- Wash head
-- No phone 1 hour before bed
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Cut nails **DONE**
+- Groceries **DONE**
+- Wash head **DONE**
+- No phone 1 hour before bed **DONE**
+- Read a book **DONE**
 ## 07.07.2023
 
 - Work tests **DONE**
