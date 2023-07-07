@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Cut nails
+- Groceries
+- Wash head
+- No phone 1 hour before bed
+- Read a book
+## 07.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **DONE**
