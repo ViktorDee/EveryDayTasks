@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Tattoo
+- Time with Tori
+- Morning routine **DONE**
+- Ozon
+- No phone 1 hour before bed
+## 08.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Cut nails **DONE**
