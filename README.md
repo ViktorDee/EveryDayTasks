@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Tattoo
-- Time with Tori
+- Work tests **DONE**
+- Meditation **DONE**
+- Tattoo **DONE**
+- Time with Tori **DONE**
 - Morning routine **DONE**
-- Ozon
-- No phone 1 hour before bed
+- Ozon **TOMORROW**
+- No phone 1 hour before bed **DONE**
 ## 08.07.2023
 
 - Work tests **DONE**
