@@ -1,3 +1,13 @@
+- Meditation
+- Work tests
+- Ozon
+- Groceries
+- Change bedsheets
+- Vacuum cleaning
+- Retinol
+- No phone 1 hour before bed
+## 09.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Tattoo **DONE**
