@@ -1,11 +1,11 @@
-- Meditation
-- Work tests
-- Ozon
-- Groceries
-- Change bedsheets
-- Vacuum cleaning
-- Retinol
-- No phone 1 hour before bed
+- Meditation **DONE**
+- Work tests **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Change bedsheets **DONE**
+- Vacuum cleaning **FAILED**
+- Retinol **DONE**
+- No phone 1 hour before bed **DONE**
 ## 09.07.2023
 
 - Work tests **DONE**
