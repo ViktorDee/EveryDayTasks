@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- No phone 1 hour before bed
-- Walk with Pasha
-- Vacuum cleaning
-- Eat well
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- No phone 1 hour before bed **FAILED**
+- Walk with Pasha **DONE**
+- Vacuum cleaning **FAILED**
+- Eat well **DONE**
 ## 10.07.2023
 
 - Meditation **DONE**
