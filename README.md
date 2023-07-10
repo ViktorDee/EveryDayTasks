@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Chest and back workout
+- No phone 1 hour before bed
+- Walk with Pasha
+- Vacuum cleaning
+- Eat well
+## 10.07.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Ozon **DONE**
