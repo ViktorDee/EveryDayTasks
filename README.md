@@ -1,11 +1,11 @@
 - Wash head **DONE**
 - Morning routine **DONE**
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Abs workout
-- Ironing
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Abs workout **DONE**
+- Ironing **DONE**
+- Read a book **FAILED**
 ## 12.07.2023
 
 - Work tests **DONE**
