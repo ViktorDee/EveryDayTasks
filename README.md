@@ -1,9 +1,20 @@
+- Wash head **DONE**
+- Morning routine **DONE**
 - Work tests
 - Meditation
-- Laundry
-- Nap
-- Groceries
-- Vacuum cleaning
+- Arms and shoulders workout
+- Abs workout
+- Ironing
+- Read a book
+## 12.07.2023
+
+- Work tests **DONE**
+- Ozon **DONE**
+- Meditation **DONE**
+- Laundry **DONE**
+- Nap **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **FAILED**
 ## 11.07.2023
 
 - Work tests **DONE**
