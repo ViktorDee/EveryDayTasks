@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Time with Sasha
+- Legs workout
+- Groceries
+- Morning routine **DONE**
+## 13.07.2023
+
 - Wash head **DONE**
 - Morning routine **DONE**
 - Work tests **DONE**
