@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Time with Sasha
-- Legs workout
-- Groceries
+- Work tests **DONE**
+- Meditation **DONE**
+- Time with Sasha **CANCELLED**
+- Legs workout **DONE**
+- Groceries **DONE**
 - Morning routine **DONE**
 ## 13.07.2023
 
