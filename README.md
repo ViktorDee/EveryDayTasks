@@ -1,9 +1,10 @@
-- Work tests
-- Meditation
-- Groceries
-- Vacuum cleaning
+- Work tests **DONE**
+- Meditation **DONE**
+- Time with Pasha **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **TOMORROW**
 - Morning routine **DONE**
-- Wash head
+- Wash head **FAILED**
 ## 14.07.2023
 
 - Work tests **DONE**
