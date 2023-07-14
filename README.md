@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Groceries
+- Vacuum cleaning
+- Morning routine **DONE**
+- Wash head
+## 14.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Time with Sasha **CANCELLED**
