@@ -1,11 +1,11 @@
-- Meditation
-- Work tests
-- Wash head
-- Throw out the trash
-- Ozon
-- Recycling
-- Neck workout
-- Vacuum cleaning
+- Meditation **DONE**
+- Work tests **DONE**
+- Wash head **FAILED**
+- Throw out the trash **DONE**
+- Ozon **DONE**
+- Recycling **DONE**
+- Neck workout **DONE**
+- Vacuum cleaning **DONE**
 - Morning routine **DONE**
 ## 15.07.2023
 
