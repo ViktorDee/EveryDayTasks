@@ -1,3 +1,14 @@
+- Meditation
+- Work tests
+- Wash head
+- Throw out the trash
+- Ozon
+- Recycling
+- Neck workout
+- Vacuum cleaning
+- Morning routine **DONE**
+## 15.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Time with Pasha **DONE**
