@@ -1,3 +1,11 @@
+- Meditation
+- Work tests
+- Wash head
+- Change bedsheets
+- Retinol
+- Groceries
+## 16.07.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Wash head **FAILED**
