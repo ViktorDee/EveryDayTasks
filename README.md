@@ -1,9 +1,10 @@
-- Meditation
-- Work tests
-- Wash head
-- Change bedsheets
-- Retinol
-- Groceries
+- Meditation **DONE**
+- Work tests **DONE**
+- Wash head **DONE**
+- Change bedsheets **DONE**
+- Retinol **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
 ## 16.07.2023
 
 - Meditation **DONE**
