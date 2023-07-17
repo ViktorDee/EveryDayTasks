@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Laundry
-- Chest and back workout
-- Meet up with DA BOYZ
-- Cut nails
+- Work tests **DONE**
+- Meditation **DONE**
+- Laundry **DONE**
+- Chest and back workout **DONE**
+- Meet up with DA BOYZ **DONE**
+- Cut nails **DONE**
 ## 17.07.2023
 
 - Meditation **DONE**
