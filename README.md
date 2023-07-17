@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Laundry
+- Chest and back workout
+- Meet up with DA BOYZ
+- Cut nails
+## 17.07.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Wash head **DONE**
