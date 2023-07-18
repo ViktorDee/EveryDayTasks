@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Time with Pasha
+- Book traumatologist
+- Groceries
+- Shave
+## 18.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Laundry **DONE**
