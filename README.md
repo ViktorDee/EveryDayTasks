@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Time with Pasha
-- Book traumatologist
-- Groceries
-- Shave
+- Work tests **DONE**
+- Meditation **DONE**
+- Time with Pasha **DONE**
+- Book traumatologist **FAILED**
+- Groceries **DONE**
+- Shave **DONE**
 ## 18.07.2023
 
 - Work tests **DONE**
