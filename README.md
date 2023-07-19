@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Biceps, shoulders and ABS workout
+- Book traumatologist
+- Ironing
+- Read a book
+- Propose Tori to go to the sea
+## 19.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Time with Pasha **DONE**
