@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Biceps, shoulders and ABS workout
-- Book traumatologist
-- Ironing
-- Read a book
-- Propose Tori to go to the sea
+- Work tests **DONE**
+- Meditation **DONE**
+- Biceps, shoulders and ABS workout **DONE**
+- Book traumatologist **FAILED**
+- Ironing **FAILED**
+- Read a book **DONE**
+- Propose Tori to go to the sea **DONE**
 ## 19.07.2023
 
 - Work tests **DONE**
