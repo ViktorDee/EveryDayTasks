@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Legs workout
+- Groceries
+- Ironing
+## 20.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Biceps, shoulders and ABS workout **DONE**
