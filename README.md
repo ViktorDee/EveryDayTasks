@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Legs workout
-- Groceries
-- Ironing
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
 ## 20.07.2023
 
 - Work tests **DONE**
