@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Read a book
+- Call with Vanya
+- Discuss a second shift with Anya
+- Buy tomatoes
+- Cook chicken
+- Morning routine **DONE**
+## 21.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **DONE**
