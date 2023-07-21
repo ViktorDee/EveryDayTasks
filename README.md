@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Read a book
-- Call with Vanya
-- Discuss a second shift with Anya
-- Buy tomatoes
-- Cook chicken
+- Work tests **DONE**
+- Meditation **DONE**
+- Read a book **DONE**
+- Call with Vanya **DONE**
+- Discuss a second shift with Anya **DONE**
+- Buy tomatoes **DONE**
+- Cook chicken **DONE**
 - Morning routine **DONE**
 ## 21.07.2023
 
