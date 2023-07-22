@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE**
 - Morning routine **DONE**
-- Legsless push-ups
-- Time with Tori
+- Legsless push-ups **DONE**
+- Time with Tori **DONE**
 ## 22.07.2023
 
 - Work tests **DONE**
