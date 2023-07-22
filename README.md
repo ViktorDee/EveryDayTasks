@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Morning routine **DONE**
+- Legsless push-ups
+- Time with Tori
+## 22.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Read a book **DONE**
