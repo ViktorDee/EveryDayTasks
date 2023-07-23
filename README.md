@@ -1,3 +1,18 @@
+- Work tests
+- Meditation
+- Class with Tina
+- Groceries **DONE**
+- Morning routine **DONE**
+- Clean the bath
+- Clean the mirror
+- Change bedsheets
+- Neck workout
+- Read a book
+- Clean the kitchen sink
+- Cook rice
+- Retinol
+## 23.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Morning routine **DONE**
