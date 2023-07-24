@@ -1,12 +1,12 @@
-- Work tests
-- Meditation
-- Electricity
-- Meet up
-- Chest and back workout
-- Read a book
-- OTP card
+- Work tests **DONE**
+- Meditation **DONE**
+- Electricity **DONE**
+- Meet up **IN A DIFFERENT WAY**
+- Chest and back workout **DONE**
+- Read a book **DONE**
+- OTP card **DONE**
 - Morning routine **DONE**
-- Print the pic
+- Print the pic **DONE**
 ## 24.07.2023
 
 - Work tests **DONE**
