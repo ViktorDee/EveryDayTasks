@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Electricity
+- Meet up
+- Chest and back workout
+- Read a book
+- OTP card
+- Morning routine **DONE**
+- Print the pic
+## 24.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Class with Tina **DONE**
