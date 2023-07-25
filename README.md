@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Groceries
-- Nap
-- Mezorolling scalp
-- Grip workout
-- Laundry
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Nap **DONE**
+- Mezorolling scalp **DONE**
+- Grip workout **DONE**
+- Laundry **DONE**
 ## 25.07.2023
 
 - Work tests **DONE**
