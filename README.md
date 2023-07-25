@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Groceries
+- Nap
+- Mezorolling scalp
+- Grip workout
+- Laundry
+## 25.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Electricity **DONE**
