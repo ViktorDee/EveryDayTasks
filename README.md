@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Groceries
-- Read a book
-- Arms and shoulders workout
-- Wash head
-- Ironing
-- Shave
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Arms and shoulders workout **DONE**
+- Wash head **TOMORROW**
+- Ironing **DONE**
+- Shave **FAILED**
 ## 26.07.2023
 
 - Work tests **DONE**
