@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Groceries
+- Read a book
+- Arms and shoulders workout
+- Wash head
+- Ironing
+- Shave
+## 26.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
