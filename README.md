@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Read a book
+- Legs workout
+- Groceries
+- Shave
+- Message dad
+## 27.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
