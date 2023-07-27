@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Read a book
-- Legs workout
-- Groceries
-- Shave
-- Message dad
+- Work tests **DONE**
+- Meditation **DONE**
+- Read a book **FAILED**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Shave **DONE**
+- Message dad **DONE**
 ## 27.07.2023
 
 - Work tests **DONE**
