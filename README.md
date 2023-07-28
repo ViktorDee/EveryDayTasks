@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE**
 - Morning routine **DONE**
-- Meet with Dad
-- Read a book
+- Meet with Dad **DONE**
+- Read a book **FAILED - MET PASHA** 
 ## 28.08.2023
 
 - Work tests **DONE**
