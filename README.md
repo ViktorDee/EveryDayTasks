@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Morning routine **DONE**
+- Meet with Dad
+- Read a book
+## 28.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Read a book **FAILED**
