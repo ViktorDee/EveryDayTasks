@@ -1,9 +1,11 @@
-- Work tests
-- Meditation
-- Ironing
-- Recycling
-- The postcard
-- Pull-ups
+- Work tests **DONE**
+- Meditation **DONE**
+- Vacuum cleaning **DONE**
+- Clean the mirror **DONE**
+- Ironing **DONE**
+- Recycling **DONE**
+- The postcard **DONE**
+- Pull-ups **DONE**
 ## 29.07.2023
 
 - Work tests **DONE**
