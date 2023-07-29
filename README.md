@@ -1,9 +1,17 @@
+- Work tests
+- Meditation
+- Ironing
+- Recycling
+- The postcard
+- Pull-ups
+## 29.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Morning routine **DONE**
 - Meet with Dad **DONE**
 - Read a book **FAILED - MET PASHA** 
-## 28.08.2023
+## 28.07.2023
 
 - Work tests **DONE**
 - Meditation **DONE**
