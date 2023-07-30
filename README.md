@@ -1,9 +1,10 @@
-- Work tests
-- Meditation
-- Groceries
-- Time with Tori
-- Class with Tina
-- Nap
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Time with Tori **DONE**
+- Ozon **DONE**
+- Class with Tina **DONE**
+- Nap **DONE**
 - Wash head **DONE**
 ## 30.07.2023
 
