@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Groceries
+- Time with Tori
+- Class with Tina
+- Nap
+- Wash head **DONE**
+## 30.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Vacuum cleaning **DONE**
