@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Read a book
+- Chest and back workout
+- Change bedsheets
+- Nap
+- Buy chicken
+- Morning routine **DONE**
+## 31.07.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
