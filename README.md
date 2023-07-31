@@ -1,10 +1,11 @@
-- Work tests
-- Meditation
-- Read a book
-- Chest and back workout
-- Change bedsheets
-- Nap
-- Buy chicken
+- Work tests **DONE**
+- Meditation **DONE**
+- Read a book **FAILED**
+- Chest and back workout **DONE**
+- Change bedsheets **FAILED**
+- Nap **DONE**
+- Buy chicken **DONE**
+- Mezorolling **DONE**
 - Morning routine **DONE**
 ## 31.07.2023
 
