@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Abs workout
+- Neck workout
+- Throw out the trash **DONE**
+- Morning routine **DONE**
+- Maybe PUBG with Ilya
+- Ask Kris about a vacation and an evening shift
+## 01.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Read a book **FAILED**
