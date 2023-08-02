@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Ironing
-- Arms and shoulders workout
-- Ask Kris about a vacation and an evening shift
+- Work tests **DONE**
+- Meditation **DONE**
+- Ironing **DONE**
+- Arms and shoulders workout **DONE**
+- Ask Kris about a vacation and an evening shift **DONE**
 ## 02.08.2023
 
 - Work tests **DONE**
