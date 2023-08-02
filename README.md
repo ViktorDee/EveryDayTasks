@@ -1,11 +1,19 @@
 - Work tests
 - Meditation
-- Abs workout
-- Neck workout
-- Throw out the trash **DONE**
-- Morning routine **DONE**
-- Maybe PUBG with Ilya
+- Ironing
+- Arms and shoulders workout
 - Ask Kris about a vacation and an evening shift
+## 02.08.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Abs workout **DONE**
+- Neck workout **DONE**
+- Throw out the trash **DONE**
+- Laundry **DONE**
+- Morning routine **DONE**
+- Maybe PUBG with Ilya **FAILED**
+- Ask Kris about a vacation and an evening shift **FAILED**
 ## 01.08.2023
 
 - Work tests **DONE**
