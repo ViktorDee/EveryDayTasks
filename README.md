@@ -2,7 +2,7 @@
 - Meditation **DONE**
 - Legs workout **DONE**
 - Shave face **DONE**
-- Read a book 
+- Read a book **FAILED**
 - Throw out the trash **DONE**
 - Groceries **DONE**
 - Morning routine **DONE**
