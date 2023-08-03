@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Legs workout
+- Shave face
+- Read a book
+- Throw out the trash
+- Groceries
+- Morning routine **DONE**
+- Wash head **DONE**
+## 03.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Ironing **DONE**
