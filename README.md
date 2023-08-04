@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- ABS and neck workout
-- Read a book
-- Find a make a trade
-- Grip workout
+- Work tests **DONE**
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Read a book **FAILED**
+- Find a make a trade **DONE**
+- Grip workout **DONE**
 ## 04.08.2023
 
 - Work tests **DONE**
