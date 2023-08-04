@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- ABS and neck workout
+- Read a book
+- Find a make a trade
+- Grip workout
+## 04.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **DONE**
