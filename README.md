@@ -1,9 +1,10 @@
-- Work tests
-- Meditation
-- Groceries
-- Scalp massage
-- Time with Pasha
-- Change bedsheets
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Scalp massage **DONE**
+- Time with Pasha **DONE**
+- Change bedsheets **TOMORROW**
+- Shave **TOMORROW**
 ## 05.08.2023
 
 - Work tests **DONE**
