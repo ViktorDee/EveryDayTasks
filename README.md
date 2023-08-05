@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Groceries
+- Scalp massage
+- Time with Pasha
+- Change bedsheets
+## 05.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - ABS and neck workout **DONE**
