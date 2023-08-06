@@ -1,14 +1,15 @@
-- Work tests
-- Meditation
-- Change bedsheets
-- Clean the mirror
+- Work tests **DONE**
+- Meditation **DONE**
+- Change bedsheets **DONE**
+- Clean the mirror **DONE**
 - Vacuum cleaning
-- Shave
-- Class with Tina
+- Shave **DONE**
+- Retinol **DONE**
+- Class with Tina **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
 - Call with Sam **DONE**
-- Mezorolling
+- Mezorolling **DONE**
 ## 06.08.2023
 
 - Work tests **DONE**
