@@ -1,3 +1,16 @@
+- Work tests
+- Meditation
+- Change bedsheets
+- Clean the mirror
+- Vacuum cleaning
+- Shave
+- Class with Tina
+- Morning routine **DONE**
+- Wash head **DONE**
+- Call with Sam **DONE**
+- Mezorolling
+## 06.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
