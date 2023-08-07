@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Chest and back workout
+- Vacuum cleaning
+- Throw out the trash
+- Move the bags to another bag
+## 07.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Change bedsheets **DONE**
