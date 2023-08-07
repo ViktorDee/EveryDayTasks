@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- Vacuum cleaning
-- Throw out the trash
-- Move the bags to another bag
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Vacuum cleaning **DONE**
+- Throw out the trash **DONE**
+- Move the bags to another bag **DONE**
 ## 07.08.2023
 
 - Work tests **DONE**
