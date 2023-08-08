@@ -1,7 +1,9 @@
-- Work tests
-- Meditation
-- Nap
-- Groceries
+- Work tests **DONE**
+- Meditation **DONE**
+- Nap **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Ironing **DONE**
 ## 08.08.2023
 
 - Work tests **DONE**
