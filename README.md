@@ -1,3 +1,9 @@
+- Work tests
+- Meditation
+- Nap
+- Groceries
+## 08.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Chest and back workout **DONE**
