@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Shave face
-- Read a book
-- Ironing
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Shave face **DONE**
+- Read a book **DONE**
+- Ironing **DONE**
 ## 09.08.2023
 
 - Work tests **DONE**
