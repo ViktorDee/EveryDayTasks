@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Arms and shoulders workout
+- Shave face
+- Read a book
+- Ironing
+## 09.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Nap **DONE**
