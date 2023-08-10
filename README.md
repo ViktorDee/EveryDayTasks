@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Food in a food-box
+- Lunges in the morning
+- Morning routine **DONE**
+- Wash head **DONE**
+## 10.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
