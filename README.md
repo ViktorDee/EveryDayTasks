@@ -1,7 +1,10 @@
-- Work tests
-- Meditation
-- Food in a food-box
-- Lunges in the morning
+- Novokuznetsk **DONE**
+## 11.08.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- Food in a food-box **DONE**
+- Lunges in the morning **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
 ## 10.08.2023
