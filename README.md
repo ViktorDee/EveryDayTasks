@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Eat well
+- Groceries
+- Sleep at 22 - 22:30
+## 14.08.2023
+
 - Novokuznetsk **DONE**
 ## 11.08.2023
 
