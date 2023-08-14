@@ -1,8 +1,8 @@
-- Work tests
-- Meditation
-- Eat well
-- Groceries
-- Sleep at 22 - 22:30
+- Work tests **DONE**
+- Meditation **DONE**
+- Eat well **DONE**
+- Groceries **DONE**
+- Sleep at 22 - 22:30 **DONE**
 ## 14.08.2023
 
 - Novokuznetsk **DONE**
