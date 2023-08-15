@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- Neck and ABS workout
-- Laundry
-- Mezorolling
-- Retinol
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Neck and ABS workout **DONE**
+- Laundry **DONE**
+- Mezorolling **DONE**
+- Retinol **DONE**
+- Read a book **TOO LITTLE**
 ## 15.08.2023
 
 - Work tests **DONE**
