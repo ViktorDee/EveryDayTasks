@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Chest and back workout
+- Neck and ABS workout
+- Laundry
+- Mezorolling
+- Retinol
+- Read a book
+## 15.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Eat well **DONE**
