@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Meet with Sasha
-- Groceries
-- Read a book
-- Network filter
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Meet with Sasha **DONE**
+- Groceries **DONE - EGGS**
+- Read a book **DONE**
+- Network filter **DONE**
 ## 16.08.2023
 
 - Work tests **DONE**
