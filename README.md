@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Legs workout
+- Groceries
+- Shave face
+- Read a book
+- Ozon
+## 17.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
