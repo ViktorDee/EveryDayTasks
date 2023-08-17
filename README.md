@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Legs workout
-- Groceries
-- Shave face
-- Read a book
-- Ozon
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Shave face **DONE**
+- Read a book **DONE**
+- Ozon **DONE**
 ## 17.08.2023
 
 - Work tests **DONE**
