@@ -1,3 +1,13 @@
+- Meditation
+- Work tests
+- Wash head
+- Morning routine
+- Have a walk
+- Cucumbers on eyes
+- Morning routine **DONE**
+- Wash head **DONE**
+## 18.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **DONE**
