@@ -1,11 +1,9 @@
-- Meditation
-- Work tests
-- Wash head
-- Morning routine
-- Have a walk
-- Cucumbers on eyes
-- Morning routine **DONE**
+- Meditation **DONE**
+- Work tests **DONE**
 - Wash head **DONE**
+- Have a walk **DONE**
+- Cucumbers on eyes **DONE**
+- Morning routine **DONE**
 ## 18.08.2023
 
 - Work tests **DONE**
