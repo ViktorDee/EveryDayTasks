@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Cut nails
+- Groceries
+- Meet Pasha
+- Have a walk
+- Ironing **DONE**
+- Laundry
+- Morning routine **DONE**
+## 19.08.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Wash head **DONE**
