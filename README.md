@@ -1,3 +1,11 @@
+- Meditation
+- Work tests
+- Have a walk
+- Eat MORE
+- Laundry
+- Post a monitor on Avito
+## 20.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Cut nails **DONE**
