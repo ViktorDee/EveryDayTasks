@@ -1,9 +1,13 @@
-- Meditation
-- Work tests
-- Have a walk
-- Eat MORE
-- Laundry
-- Post a monitor on Avito
+- Meditation **DONE**
+- Work tests **DONE**
+- Have a walk **DONE**
+- Eat MORE **FAILED**
+- Laundry **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Teach **DONE**
+- Meet Pasha **DONE**
+- Post a monitor on Avito **CANCELLED**
 ## 20.08.2023
 
 - Work tests **DONE**
