@@ -1,3 +1,16 @@
+- Work tests
+- Meditation
+- ABS workout
+- Morning routine **DONE**
+- Wash head **DONE**
+- Chest and back workout
+- Go to Akadem
+- Talk to girls
+- Mezorolling
+- Eat more
+- Shave neck **DONE**
+## 21.08.2023
+
 - Meditation **DONE**
 - Work tests **DONE**
 - Have a walk **DONE**
