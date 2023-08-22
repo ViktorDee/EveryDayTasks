@@ -1,13 +1,23 @@
 - Work tests
 - Meditation
-- ABS workout
+- Neck workout
+- Morning routine **DONE**
+- Mezorolling
+- Retinol
+- Yandex
+- Laundry **DONE**
+# 22.08.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
+- ABS workout **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
-- Chest and back workout
-- Go to Akadem
-- Talk to girls
-- Mezorolling
-- Eat more
+- Chest and back workout **DONE**
+- Go to Akadem **DONE**
+- Talk to girls **FAILED**
+- Mezorolling **TOMORROW**
+- Eat more **DONE**
 - Shave neck **DONE**
 ## 21.08.2023
 
