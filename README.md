@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Neck workout
+- Work tests **DONE**
+- Meditation **DONE**
+- Neck workout **DONE**
 - Morning routine **DONE**
-- Mezorolling
-- Retinol
-- Yandex
+- Mezorolling **DONE**
+- Retinol **DONE**
+- Yandex **DONE**
 - Laundry **DONE**
 # 22.08.2023
 
