@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Groceries
-- Arms and shoulders workout
-- Yandex
-- Ironing
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Arms and shoulders workout **DONE**
+- Yandex **DONE**
+- Ironing **TOMORROW**
 ## 23.08.2023
 
 - Work tests **DONE**
