@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Groceries
+- Arms and shoulders workout
+- Yandex
+- Ironing
+## 23.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Neck workout **DONE**
@@ -5,6 +13,7 @@
 - Mezorolling **DONE**
 - Retinol **DONE**
 - Yandex **DONE**
+- Vacuum cleaning **DONE**
 - Laundry **DONE**
 # 22.08.2023
 
