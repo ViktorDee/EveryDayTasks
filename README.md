@@ -1,9 +1,10 @@
-- Work tests
-- Meditation
-- Legs workout
-- Groceries
-- Shave face
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Shave face **TOMORROW**
+- Read a book **DONE**
+- Ironing **DONE**
 ## 24.08.2023
 
 - Work tests **DONE**
