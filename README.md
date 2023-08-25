@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Shave face **DONE**
+- Wash head **DONE**
+- Time with Tori
+- Yandex
+- Eat more
+## 25.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **DONE**
