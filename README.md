@@ -1,10 +1,20 @@
-- Work tests
-- Meditation
+- Work tets **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Recycling **DONE**
+- Sort out the pictures **DONE**
+- Water the plants **DONE**
+- Anya's MFC menu **DONE**
+- ABS workout **DONE**
+## 26.08.2023
+
+- Work tests **DONE**
+- Meditation **DONE**
 - Shave face **DONE**
 - Wash head **DONE**
-- Time with Tori
-- Yandex
-- Eat more
+- Time with Tori **DONE**
+- Yandex **TOMORROW**
+- Eat more **DONE**
 ## 25.08.2023
 
 - Work tests **DONE**
