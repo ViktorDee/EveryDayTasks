@@ -1,12 +1,12 @@
-- Work tests
-- Meditation
-- Change bedsheets
-- Vacuum cleaning
-- Groceries
-- Throw out the trash
-- Wipe the floor
-- Pull ups max
-- Edit the pics
+- Work tests **DONE**
+- Meditation **DONE**
+- Change bedsheets **DONE**
+- Vacuum cleaning **TOMORROW**
+- Groceries **DONE**
+- Throw out the trash **DONE**
+- Wipe the floor **DONE**
+- Pull ups max **DONE**
+- Edit the pics **DONE**
 ## 27.08.2023
 
 - Work tets **DONE**
