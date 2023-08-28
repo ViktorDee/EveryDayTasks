@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- Laundry
-- Pack the screen
-- Read a book
-- Vacuum cleaning
-- Mezorolling
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Laundry **DONE**
+- Pack the screen **DONE**
+- Read a book **FAILED**
+- Vacuum cleaning **FAILED**
+- Mezorolling **DONE**
 ## 28.08.2023
 
 - Work tests **DONE**
