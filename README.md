@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Ironing
+- ABS and neck workout
+- Retinol
+- Groceries
+- Vacuum cleaning
+## 29.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Chest and back workout **DONE**
