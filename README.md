@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Ironing
-- ABS and neck workout
-- Retinol
-- Groceries
-- Vacuum cleaning
+- Work tests **DONE**
+- Meditation **DONE**
+- Ironing **DONE**
+- ABS and neck workout **DONE**
+- Retinol **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **DONE**
 ## 29.08.2023
 
 - Work tests **DONE**
