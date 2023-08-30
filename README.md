@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Shave face
+- Read a book
+- Have a walk
+- Clean bathroom
+## 30.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Ironing **DONE**
