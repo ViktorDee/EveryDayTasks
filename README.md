@@ -1,9 +1,10 @@
-- Work tests
-- Meditation
-- Shave face
-- Read a book
-- Have a walk
-- Clean bathroom
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Shave face **DONE**
+- Read a book **DONE**
+- Have a walk **FAILED**
+- Clean bath **DONE**
 ## 30.08.2023
 
 - Work tests **DONE**
