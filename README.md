@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Legs workout
+- Groceries
+- Have a walk
+- Wash head
+## 31.08.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
