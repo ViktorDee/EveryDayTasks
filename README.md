@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Legs workout
-- Groceries
-- Have a walk
-- Wash head
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Have a walk **DONE**
+- Wash head **TOMORROW**
 ## 31.08.2023
 
 - Work tests **DONE**
