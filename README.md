@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Wash head **DONE**
+- Time with Pasha
+- Have a walk
+- Don't paperhand 
+- Groceries
+## 01.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **DONE**
