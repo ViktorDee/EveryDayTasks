@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE**
 - Wash head **DONE**
-- Time with Pasha
-- Have a walk
-- Don't paperhand 
-- Groceries
+- Time with Pasha **DONE**
+- Have a walk **DONE**
+- Don't paperhand  **DONE**
+- Groceries **DONE**
 ## 01.09.2023
 
 - Work tests **DONE**
