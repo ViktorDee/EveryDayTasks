@@ -1,10 +1,11 @@
-- Work tests
-- Meditation
-- Neck workout and ABS
-- Clean bathroom mirror
-- Throw out the trash
-- Read a book
-- Sort out the pics
+- Work tests **DONE**
+- Time with Tori **DONE**
+- Meditation **DONE**
+- Neck workout and ABS **FAILED**
+- Clean bathroom mirror **FAILED**
+- Throw out the trash **FAILED**
+- Read a book **FAILED**
+- Sort out the pics **HALF DONE**
 - Morning routine **DONE**
 ## 02.09.2023
 
