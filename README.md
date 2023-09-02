@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Neck workout and ABS
+- Clean bathroom mirror
+- Throw out the trash
+- Read a book
+- Sort out the pics
+- Morning routine **DONE**
+## 02.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Wash head **DONE**
