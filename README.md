@@ -1,12 +1,14 @@
-- Work tests
-- Meditation
+- Work tests **DONE**
+- Meditation **DONE**
 - Morning routine **DONE**
-- Neck and ABS workout
-- Clean bathroom mirror
-- Throw out the trash
-- Set up the screen
-- Sort out the pics
-- Read a book
+- Neck and ABS workout **DONE**
+- Change bedsheets **DONE**
+- Clean bathroom mirror **DONE**
+- Throw out the trash **DONE**
+- Ironing **DONE**
+- Set up the screen **POSTPONED**
+- Sort out the pics **FAILED**
+- Read a book **DONE**
 ## 03.09.2023
 
 - Work tests **DONE**
