@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Morning routine **DONE**
+- Neck and ABS workout
+- Clean bathroom mirror
+- Throw out the trash
+- Set up the screen
+- Sort out the pics
+- Read a book
+## 03.09.2023
+
 - Work tests **DONE**
 - Time with Tori **DONE**
 - Meditation **DONE**
