@@ -1,13 +1,17 @@
-- Work tests
-- Meditation
-- Mezorolling
+- Work tests **DONE**
+- Meditation **DONE**
+- Mezorolling **DONE**
 - ABS workout **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
-- Don't paperhand
-- Check Vika's messages
-- Laundry
-- Read a book
+- Ozon **DONE**
+- Chest and back workout **DONE**
+- Groceries **DONE**
+- Message Sam **DONE**
+- Don't paperhand **DONE**
+- Check Vika's messages **DONE**
+- Laundry **DONE**
+- Read a book **DONE**
 ## 04.09.2023
 
 - Work tests **DONE**
