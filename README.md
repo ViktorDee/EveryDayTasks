@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Groceries
-- Shave face and body
-- Wrists training
-- Throw out the trash
-- Ironing
-- Neck workout
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **TOMORROW**
+- Shave face and body **DONE**
+- Wrists training **DONE**
+- Throw out the trash **DONE**
+- Ironing **DONE**
+- Neck workout **DONE**
 ## 05.09.2023
 
 - Work tests **DONE**
