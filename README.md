@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Groceries
+- Shave face and body
+- Wrists training
+- Throw out the trash
+- Ironing
+- Neck workout
+## 05.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Mezorolling **DONE**
