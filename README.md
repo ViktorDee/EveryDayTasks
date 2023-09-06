@@ -1,3 +1,14 @@
+- Work tests
+- Meditation
+- Arms and shoulders workout
+- Morning routine **DONE**
+- Groceries **DONE**
+- Edit Pasha's pics
+- Sneakers Avito
+- Read a book
+- Order: sunscreen, cashew
+## 06.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **TOMORROW**
