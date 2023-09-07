@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Legs workout
-- Cut nails
-- Groceries
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **DONE**
+- Cut nails **DONE**
+- Groceries **DONE**
 - Wash head **DONE**
-- Read a book
-- Edit Pasha's pics
+- Read a book **FAILED**
+- Edit Pasha's pics **FAILED**
 ## 07.09.2023
 
 - Work tests **DONE**
