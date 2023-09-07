@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Legs workout
+- Cut nails
+- Groceries
+- Wash head **DONE**
+- Read a book
+- Edit Pasha's pics
+## 07.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
