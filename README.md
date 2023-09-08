@@ -1,3 +1,10 @@
+- Work tests
+- Meditation
+- Bday Fun
+- Clean the mirror
+- Morning routine **DONE**
+## 08.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **DONE**
