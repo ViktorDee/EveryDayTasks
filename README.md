@@ -1,7 +1,7 @@
-- Work tests
-- Meditation
-- Bday Fun
-- Clean the mirror
+- Work tests **DONE**
+- Meditation **DONE**
+- Bday Fun **DONE**
+- Clean the mirror **DONE**
 - Morning routine **DONE**
 ## 08.09.2023
 
