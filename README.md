@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Time with Tori
-- Read a book
-- Groceries
-- Laundry
-- Vacuum cleaning
+- Work tests **DONE**
+- Meditation **DONE**
+- Time with Tori **DONE**
+- Read a book **DONE**
+- Groceries **TOMORROW**
+- Laundry **DONE**
+- Vacuum cleaning **TOMORROW**
 ## 09.09.2023
 
 - Work tests **DONE**
