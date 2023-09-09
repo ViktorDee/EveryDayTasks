@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Time with Tori
+- Read a book
+- Groceries
+- Laundry
+- Vacuum cleaning
+## 09.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Bday Fun **DONE**
