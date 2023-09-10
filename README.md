@@ -1,3 +1,15 @@
+- Work tests
+- Meditation
+- Groceries
+- Recycling
+- Ironing
+- Classes
+- Read a book
+- Wash head **DONE**
+- Morning routine **HALF DONE**
+- Vacuum cleaning
+## 10.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Time with Tori **DONE**
