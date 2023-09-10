@@ -1,13 +1,13 @@
-- Work tests
-- Meditation
-- Groceries
-- Recycling
-- Ironing
-- Classes
-- Read a book
+- Work tests **DONE**
+- Meditation **DONE**
+- Groceries **DONE**
+- Recycling **DONE**
+- Ironing **DONE**
+- Classes **DONE**
+- Read a book **DONE**
 - Wash head **DONE**
 - Morning routine **HALF DONE**
-- Vacuum cleaning
+- Vacuum cleaning **DONE**
 ## 10.09.2023
 
 - Work tests **DONE**
