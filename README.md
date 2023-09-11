@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Chest and back workout
-- Laundry
-- Watch anime
-- Morning routine
-- Quest to Pasha
+- Work tests **DONE**
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Laundry **FAILED**
+- Watch anime **DONE**
+- Morning routine **DONE**
+- Quest to Pasha **DONE**
 ## 11.09.2023
 
 - Work tests **DONE**
