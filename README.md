@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Chest and back workout
+- Laundry
+- Watch anime
+- Morning routine
+- Quest to Pasha
+## 11.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Groceries **DONE**
