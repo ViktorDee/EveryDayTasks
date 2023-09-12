@@ -1,10 +1,11 @@
-- Work tests
-- Meditation
-- Armpits laser
-- ABS workout
-- Laundry
-- BHA acid
+- Work tests **DONE**
+- Meditation **DONE**
+- Armpits laser **DONE**
+- ABS workout and neck **DONE**
+- Laundry **DONE**
+- BHA acid **DONE**
 - Shave **DONE**
+- Groceries
 ## 12.09.2023
 
 - Work tests **DONE**
