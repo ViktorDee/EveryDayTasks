@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Armpits laser
+- ABS workout
+- Laundry
+- BHA acid
+- Shave **DONE**
+## 12.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Chest and back workout **DONE**
