@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Arms and shoulders workout
+- Mezorolling
+- Respond to Tori
+- Change bedsheets
+- Ozon
+## 13.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Armpits laser **DONE**
@@ -5,7 +14,7 @@
 - Laundry **DONE**
 - BHA acid **DONE**
 - Shave **DONE**
-- Groceries
+- Groceries **DONE**
 ## 12.09.2023
 
 - Work tests **DONE**
