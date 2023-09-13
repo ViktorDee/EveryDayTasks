@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Arms and shoulders workout
-- Mezorolling
-- Respond to Tori
-- Change bedsheets
-- Ozon
+- Work tests **DONE**
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Mezorolling **FAILED**
+- Respond to Tori **DONE**
+- Change bedsheets **DONE**
+- Ozon **DONE**
 ## 13.09.2023
 
 - Work tests **DONE**
