@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Legs workout
+- YandexMarket
+- Mezorolling
+- Cook chicken
+## 14.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
