@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Legs workout
-- YandexMarket
-- Mezorolling
-- Cook chicken
+- Work tests **DONE**
+- Meditation **DONE**
+- Legs workout **FAILED**
+- YandexMarket **DONE**
+- Mezorolling **FAILED**
+- Cook chicken **FAILED**
 ## 14.09.2023
 
 - Work tests **DONE**
