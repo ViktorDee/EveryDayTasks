@@ -1,10 +1,10 @@
-- Work tests
-- Meditation
-- Groceries
-- Have a walk
-- ABS and neck
-- Cook chicken
-- Head massage
+- Work tests **DONE**
+- Meditation **DONE** 
+- Groceries **DONE**
+- Have a walk **DONE**
+- ABS and neck **FAILED**
+- Cook chicken **DONE**
+- Head massage **DONE**
 ## 15.09.2023
 
 - Work tests **DONE**
