@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Groceries
+- Have a walk
+- ABS and neck
+- Cook chicken
+- Head massage
+## 15.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Legs workout **FAILED**
