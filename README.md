@@ -1,3 +1,12 @@
+- Work tests
+- Meditation
+- Time with Tori
+- Laundry
+- Wash head **DONE**
+- Morning routine **DONE**
+- Water plants **DONE**
+## 16.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE** 
 - Groceries **DONE**
