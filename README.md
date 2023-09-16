@@ -1,7 +1,7 @@
-- Work tests
-- Meditation
-- Time with Tori
-- Laundry
+- Work tests **DONE**
+- Meditation **DONE**
+- Time with Tori **DONE**
+- Laundry **FAILED**
 - Wash head **DONE**
 - Morning routine **DONE**
 - Water plants **DONE**
