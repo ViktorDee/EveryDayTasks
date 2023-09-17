@@ -1,3 +1,11 @@
+- Work tests
+- Meditation
+- Time with Pasha
+- Morning routine **DONE**
+- Laundry
+- Clean a mirror
+## 17.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Time with Tori **DONE**
