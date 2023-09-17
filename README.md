@@ -1,9 +1,9 @@
-- Work tests
-- Meditation
-- Time with Pasha
+- Work tests **DONE**
+- Meditation **DONE**
+- Time with Pasha **DONE**
 - Morning routine **DONE**
-- Laundry
-- Clean a mirror
+- Laundry **FAILED**
+- Clean a mirror **DONE**
 ## 17.09.2023
 
 - Work tests **DONE**
