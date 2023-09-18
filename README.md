@@ -1,3 +1,13 @@
+- Work tests
+- Meditation
+- Have a walk
+- Laundry
+- Cook chicken, cook garnish
+- Morning routine **DONE**
+- Groceries **DONE**
+- Tomatoes
+## 18.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Time with Pasha **DONE**
