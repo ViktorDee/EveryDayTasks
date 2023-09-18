@@ -1,11 +1,11 @@
-- Work tests
-- Meditation
-- Have a walk
-- Laundry
-- Cook chicken, cook garnish
+- Work tests **DONE**
+- Meditation **DONE**
+- Have a walk **DONE**
+- Laundry **DONE**
+- Cook chicken, cook garnish **HALF DONE**
 - Morning routine **DONE**
 - Groceries **DONE**
-- Tomatoes
+- Tomatoes **DONE**
 ## 18.09.2023
 
 - Work tests **DONE**
