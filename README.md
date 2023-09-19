@@ -1,7 +1,8 @@
-- Meditation
-- Time with Tori
+- Meditation **DONE**
+- Time with Tori **DONE**
 - Wash head **DONE**
-- Retinol
+- Retinol **DONE**
+- Throw out trash **DONE**
 ## 19.09.2023
 
 - Work tests **DONE**
