@@ -1,3 +1,9 @@
+- Meditation
+- Time with Tori
+- Wash head **DONE**
+- Retinol
+## 19.09.2023
+
 - Work tests **DONE**
 - Meditation **DONE**
 - Have a walk **DONE**
