@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Mezorolling
+- Ironing
+- Laundry
+- Morning routine **DONE**
+## 20.09.2023
+
 - Meditation **DONE**
 - Time with Tori **DONE**
 - Wash head **DONE**
