@@ -1,8 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Mezorolling
-- Ironing
-- Laundry
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Mezorolling **DONE**
+- Ironing **DONE**
+- Laundry **DONE**
+- Ozon **FAILED**
 - Morning routine **DONE**
 ## 20.09.2023
 
