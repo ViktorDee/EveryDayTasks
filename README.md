@@ -1,3 +1,11 @@
+- Meditation
+- Groceries **DONE**
+- Morning routine **DONE**
+- Legs workout
+- Ozon
+- Cut nails
+## 21.09.2023
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Mezorolling **DONE**
