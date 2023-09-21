@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Groceries **DONE**
 - Morning routine **DONE**
-- Legs workout
-- Ozon
-- Cut nails
+- Legs workout **DONE**
+- Ozon **DONE**
+- Cut nails **DONE**
 ## 21.09.2023
 
 - Meditation **DONE**
