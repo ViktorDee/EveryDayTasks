@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
 - Shave face **DONE**
-- Time with Tori
-- ABS and neck workout
+- Time with Tori **DONE**
+- ABS and neck workout **FAILED**
 - Wash head **DONE**
-- Delivery
+- Delivery **DONE**
 ## 22.09.2023
 
 - Meditation **DONE**
