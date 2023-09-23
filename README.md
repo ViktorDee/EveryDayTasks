@@ -1,3 +1,12 @@
+- Meditation
+- Groceries
+- Time with Pasha
+- AC give back
+- Vacuum cleaning
+- Change bedsheets
+- Throw out the trash
+## 23.09.2023
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Shave face **DONE**
