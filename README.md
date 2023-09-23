@@ -1,10 +1,10 @@
-- Meditation
-- Groceries
-- Time with Pasha
-- AC give back
-- Vacuum cleaning
-- Change bedsheets
-- Throw out the trash
+- Meditation **DONE**
+- Groceries **DONE**
+- Time with Pasha **DONE**
+- AC give back **DONE**
+- Vacuum cleaning **DONE**
+- Change bedsheets **FAILED**
+- Throw out the trash **DONE**
 ## 23.09.2023
 
 - Meditation **DONE**
