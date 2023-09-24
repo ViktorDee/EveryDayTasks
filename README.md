@@ -1,3 +1,11 @@
+- Meditation
+- Change bedsheets
+- Morning routine **DONE**
+- ABS and neck workout
+- Classes
+- Order la roche-posay
+## 24.09.2023
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Time with Pasha **DONE**
