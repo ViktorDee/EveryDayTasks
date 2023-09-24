@@ -1,9 +1,9 @@
-- Meditation
-- Change bedsheets
+- Meditation **DONE**
+- Change bedsheets **DONE**
 - Morning routine **DONE**
-- ABS and neck workout
-- Classes
-- Order la roche-posay
+- ABS and neck workout **HALF DONE**
+- Classes **DONE**
+- Order la roche-posay **DONE**
 ## 24.09.2023
 
 - Meditation **DONE**
