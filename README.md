@@ -1,12 +1,12 @@
-- Meditation
-- Chest and back workout
-- Wash head
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Wash head **DONE**
 - Morning routine **DONE**
-- Groceries
-- Laundry
-- Call a dentist clinic
-- Throw out trash
-- Nose strip
+- Groceries **DONE**
+- Laundry **DONE**
+- Call a dentist clinic **FAILED**
+- Throw out trash **DONE**
+- Nose strip **DONE**
 ## 25.09.2023
 
 - Meditation **DONE**
