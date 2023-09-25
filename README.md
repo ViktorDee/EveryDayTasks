@@ -1,3 +1,14 @@
+- Meditation
+- Chest and back workout
+- Wash head
+- Morning routine **DONE**
+- Groceries
+- Laundry
+- Call a dentist clinic
+- Throw out trash
+- Nose strip
+## 25.09.2023
+
 - Meditation **DONE**
 - Change bedsheets **DONE**
 - Morning routine **DONE**
