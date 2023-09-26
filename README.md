@@ -1,3 +1,11 @@
+- Meditation
+- Pull-ups
+- Meet Pasha
+- Mezorolling
+- Retinol
+- Ironing
+## 26.09.2023
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Wash head **DONE**
