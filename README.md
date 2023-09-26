@@ -1,9 +1,9 @@
-- Meditation
-- Pull-ups
-- Meet Pasha
-- Mezorolling
-- Retinol
-- Ironing
+- Meditation **DONE**
+- Pull-ups **FAILED**
+- Meet Pasha **DONE**
+- Mezorolling **FAILED**
+- Retinol **DONE**
+- Ironing **DONE**
 ## 26.09.2023
 
 - Meditation **DONE**
