@@ -1,3 +1,10 @@
+- Meditation
+- Throw out trash **DONE**
+- Mezorolling
+- Arms, shoulders and back workout
+- Laundry
+## 27.09.2023
+
 - Meditation **DONE**
 - Pull-ups **FAILED**
 - Meet Pasha **DONE**
