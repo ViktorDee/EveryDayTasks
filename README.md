@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Throw out trash **DONE**
-- Mezorolling
-- Arms, shoulders and back workout
-- Laundry
+- Mezorolling **FAILED**
+- Arms, shoulders and neck workout **DONE**
+- Laundry **DONE**
 ## 27.09.2023
 
 - Meditation **DONE**
