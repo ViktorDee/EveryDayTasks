@@ -1,3 +1,9 @@
+- Meditation
+- Ironing
+- Legs workout (if feel ok)
+- Books delivery (if comes)
+## 28.09.2023
+
 - Meditation **DONE**
 - Throw out trash **DONE**
 - Mezorolling **FAILED**
