@@ -1,7 +1,7 @@
-- Meditation
-- Ironing
-- Legs workout (if feel ok)
-- Books delivery (if comes)
+- Meditation **DONE**
+- Ironing **FAILED**
+- Legs workout (if feel ok) **FAILED**
+- Books delivery (if comes) **FAILED**
 ## 28.09.2023
 
 - Meditation **DONE**
