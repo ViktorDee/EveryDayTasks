@@ -1,11 +1,12 @@
-- Meditation
-- Legs workout
-- ABS workout (maybe)
-- Delivery (if comes)
-- Groceries
+- Meditation **DONE**
+- Ironing **DONE**
+- Legs workout **FAILED**
+- ABS workout (maybe) **FAILED**
+- Delivery (if comes) **FAILED**
+- Groceries **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
-- Shave down there
+- Shave down there **TOMORROW**
 ## 29.09.2023
 
 - Meditation **DONE**
