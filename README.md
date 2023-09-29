@@ -1,3 +1,13 @@
+- Meditation
+- Legs workout
+- ABS workout (maybe)
+- Delivery (if comes)
+- Groceries
+- Morning routine **DONE**
+- Wash head **DONE**
+- Shave down there
+## 29.09.2023
+
 - Meditation **DONE**
 - Ironing **FAILED**
 - Legs workout (if feel ok) **FAILED**
