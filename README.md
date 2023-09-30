@@ -1,8 +1,16 @@
 - Meditation
-- Time with Pasha
-- Shave down there
-- 5ka delievery
-- Groceries
+- Books delivery
+- ABS planks 3 sets
+- Rinse nose and throat
+- Throw out trash
+- Inner thighs stretch
+## 1.10.2023
+
+- Meditation **DONE**
+- Time with Pasha **DONE**
+- Shave down there **DONE**
+- 5ka delievery **DONE**
+- Groceries **DONE**
 ## 30.09.2023
 
 - Meditation **DONE**
