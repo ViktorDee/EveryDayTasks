@@ -1,3 +1,10 @@
+- Meditation
+- Time with Pasha
+- Shave down there
+- 5ka delievery
+- Groceries
+## 30.09.2023
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Legs workout **FAILED**
