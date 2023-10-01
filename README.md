@@ -1,9 +1,10 @@
-- Meditation
-- Books delivery
-- ABS planks 3 sets
-- Rinse nose and throat
-- Throw out trash
-- Inner thighs stretch
+- Meditation **DONE**
+- Books delivery **DONE**
+- ABS plank 3 sets **DONE**
+- Rinse nose and throat **DONE**
+- Throw out trash **DONE**
+- Inner thighs stretch **DONE**
+- Cut nails **DONE**
 ## 1.10.2023
 
 - Meditation **DONE**
