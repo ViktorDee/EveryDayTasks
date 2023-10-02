@@ -1,8 +1,16 @@
 - Meditation
-- Neck and back workout
+- Chest and ABS workout
+- Groceries
 - Read a book
-- Change bedsheets
-- Wash head
+- Morning routine
+- Order a stool
+## 3.10.2023
+
+- Meditation **DONE**
+- Neck and back workout **DONE**
+- Read a book **DONE**
+- Change bedsheets **DONE**
+- Wash head **DONE**
 ## 2.10.2023
 
 - Meditation **DONE**
