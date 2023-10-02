@@ -1,3 +1,10 @@
+- Meditation
+- Neck and back workout
+- Read a book
+- Change bedsheets
+- Wash head
+## 2.10.2023
+
 - Meditation **DONE**
 - Books delivery **DONE**
 - ABS plank 3 sets **DONE**
