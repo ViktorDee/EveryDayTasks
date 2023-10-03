@@ -1,9 +1,19 @@
 - Meditation
-- Chest and ABS workout
-- Groceries
-- Read a book
+- Time with Pasha
+- Withdraw money
+- Arms and shoulders workout
+- Eat more
+- Shave face
 - Morning routine
-- Order a stool
+## 4.10.2023
+
+- Meditation **DONE**
+- Chest and ABS workout **DONE**
+- Withdraw money **TOMORROW**
+- Groceries **DONE**
+- Read a book **DONE**
+- Morning routine **DONE**
+- Order a stool **CHANGED MIND**
 ## 3.10.2023
 
 - Meditation **DONE**
