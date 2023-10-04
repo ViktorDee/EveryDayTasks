@@ -1,10 +1,10 @@
-- Meditation
-- Time with Pasha
-- Withdraw money
-- Arms and shoulders workout
-- Eat more
-- Shave face
-- Morning routine
+- Meditation **DONE**
+- Time with Pasha **DONE**
+- Withdraw money **DONE**
+- Arms and shoulders workout **DONE**
+- Eat more **DONE**
+- Shave face **DONE**
+- Morning routine **DONE**
 ## 4.10.2023
 
 - Meditation **DONE**
