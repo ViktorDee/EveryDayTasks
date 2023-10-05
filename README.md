@@ -1,10 +1,10 @@
-- Meditation
-- Legs workout
-- Retinol
-- Mezorolling
-- Shave face
+- Meditation **DONE**
+- Legs workout **TOMORROW**
+- Retinol **DONE**
+- Mezorolling **DONE**
+- Shave face **DONE**
 - Wash head **DONE**
-- Read a book
+- Read a book **DONE**
 ## 5.10.2023
 
 - Meditation **DONE**
