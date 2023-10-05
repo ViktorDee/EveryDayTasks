@@ -1,3 +1,12 @@
+- Meditation
+- Legs workout
+- Retinol
+- Mezorolling
+- Shave face
+- Wash head **DONE**
+- Read a book
+## 5.10.2023
+
 - Meditation **DONE**
 - Time with Pasha **DONE**
 - Withdraw money **DONE**
