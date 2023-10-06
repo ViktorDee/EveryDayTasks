@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Laundry
+- Ironing
+- Groceries
+- Morning routine
+## 6.10.2023
+
 - Meditation **DONE**
 - Legs workout **TOMORROW**
 - Retinol **DONE**
