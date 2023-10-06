@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
-- Laundry
-- Ironing
-- Groceries
-- Morning routine
+- Meditation **DONE**
+- Legs workout **DONE**
+- Laundry **FAILED**
+- Ironing **TOMORROW**
+- Groceries **TOMORROW**
+- Morning routine **DONE**
 ## 6.10.2023
 
 - Meditation **DONE**
