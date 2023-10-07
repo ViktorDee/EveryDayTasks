@@ -1,11 +1,11 @@
-- Meditation
-- Ironing
-- Groceries
-- Time with Tori
-- Vacuum cleaning
-- Throw out the trash
-- Clean the mirror
-- Time with Pasha
+- Meditation **DONE**
+- Ironing **DONE**
+- Groceries **DONE**
+- Time with Tori **DONE**
+- Vacuum cleaning **DONE**
+- Throw out the trash **DONE**
+- Clean the mirror **DONE**
+- Time with Pasha **FAILED**
 ## 7.10.2023
 
 - Meditation **DONE**
