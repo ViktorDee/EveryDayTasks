@@ -1,3 +1,13 @@
+- Meditation
+- Ironing
+- Groceries
+- Time with Tori
+- Vacuum cleaning
+- Throw out the trash
+- Clean the mirror
+- Time with Pasha
+## 7.10.2023
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Laundry **FAILED**
