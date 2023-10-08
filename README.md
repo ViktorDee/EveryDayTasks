@@ -1,8 +1,10 @@
-- Meditation
-- Delivery
-- Groceries
-- Laundry
-- Classes
+- Meditation **DONE**
+- Delivery **DONE**
+- Wash head **DONE**
+- Morning routine **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Classes **DONE**
 ## 8.10.2023
 
 - Meditation **DONE**
