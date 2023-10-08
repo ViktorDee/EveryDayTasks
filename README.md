@@ -1,3 +1,10 @@
+- Meditation
+- Delivery
+- Groceries
+- Laundry
+- Classes
+## 8.10.2023
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Groceries **DONE**
