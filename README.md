@@ -1,3 +1,10 @@
+- Meditation
+- Chest and back workout
+- Morning routine **DONE**
+- Ironing
+- Change bedsheets
+## 9.10.2023
+
 - Meditation **DONE**
 - Delivery **DONE**
 - Wash head **DONE**
