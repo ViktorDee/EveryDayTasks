@@ -1,8 +1,8 @@
-- Meditation
-- Chest and back workout
+- Meditation **DONE**
+- Chest and back workout **DONE**
 - Morning routine **DONE**
-- Ironing
-- Change bedsheets
+- Ironing **DONE**
+- Change bedsheets **DONE**
 ## 9.10.2023
 
 - Meditation **DONE**
