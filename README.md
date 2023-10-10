@@ -1,3 +1,12 @@
+- Meditation
+- ABS and Neck workout
+- Armpits laser
+- Throw out the trash
+- Morning routine **DONE**
+- Cut toenails
+- Read a book
+## 10.10.2023
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Morning routine **DONE**
