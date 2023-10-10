@@ -1,10 +1,10 @@
-- Meditation
-- ABS and Neck workout
-- Armpits laser
-- Throw out the trash
+- Meditation **DONE**
+- ABS and Neck workout **DONE**
+- Armpits laser **DONE**
+- Throw out the trash **DONE**
 - Morning routine **DONE**
-- Cut toenails
-- Read a book
+- Cut toenails **DONE**
+- Read a book **DONE**
 ## 10.10.2023
 
 - Meditation **DONE**
