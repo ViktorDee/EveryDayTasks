@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
 - Morning routine **FAILED**
-- Groceries
-- Arms and shoulders workout
-- Read a book
+- Groceries **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **FAILED**
 - Weight myself **DONE**
 ## 11.10.2023
 
