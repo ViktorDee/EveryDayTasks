@@ -1,3 +1,12 @@
+- Meditation
+- Wash head **DONE**
+- Morning routine **FAILED**
+- Groceries
+- Arms and shoulders workout
+- Read a book
+- Weight myself **DONE**
+## 11.10.2023
+
 - Meditation **DONE**
 - ABS and Neck workout **DONE**
 - Armpits laser **DONE**
