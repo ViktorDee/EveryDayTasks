@@ -1,10 +1,11 @@
-- Meditation
-- Time with Tori
-- Shave face
+- Meditation **DONE**
+- Groceries **TOMORROW**
+- Time with Tori **DONE**
+- Shave face **DONE**
 - Morning routine **DONE**
-- No phone 1 hour before bed
-- Throw out the trash
-- Feed Tori
+- No phone 1 hour before bed **FAILED**
+- Throw out the trash **TOMORROW**
+- Feed Tori **FAILED**
 ## 12.10.2023
 
 - Meditation **DONE**
