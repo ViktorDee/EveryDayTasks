@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
-- Bench press
-- Shave face
-- Groceries
-- Read a book
+- Meditation **DONE**
+- Legs workout **DONE**
+- Bench press **DONE**
+- Shave face **DONE**
+- Groceries **DONE**
+- Read a book **DONE**
 ## 13.10.2023
 
 - Meditation **DONE**
