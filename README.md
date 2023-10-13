@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Bench press
+- Shave face
+- Groceries
+- Read a book
+## 13.10.2023
+
 - Meditation **DONE**
 - Groceries **TOMORROW**
 - Time with Tori **DONE**
