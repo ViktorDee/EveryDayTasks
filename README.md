@@ -1,9 +1,11 @@
-- Meditation
-- Read a book
-- Laundry
-- Vacuum cleaning
-- Wash head
-- 
+- Meditation **DONE**
+- Call dad **DONE**
+- Read a book **FAILED**
+- Laundry **DONE**
+- Vacuum cleaning **DONE**
+- Wash head **TOMORROW**
+- Throw trash out **DONE**
+- Groceries **DONE**
 ## 14.10.2023
 
 - Meditation **DONE**
