@@ -1,3 +1,11 @@
+- Meditation
+- Read a book
+- Laundry
+- Vacuum cleaning
+- Wash head
+- 
+## 14.10.2023
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Bench press **DONE**
