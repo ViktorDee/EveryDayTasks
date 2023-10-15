@@ -1,3 +1,12 @@
+- Meditation
+- Retinol
+- Wash head **DONE**
+- Morning routine **DONE**
+- Groceries
+- Read a book
+- Classes
+## 15.10.2023
+
 - Meditation **DONE**
 - Call dad **DONE**
 - Read a book **FAILED**
