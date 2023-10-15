@@ -1,10 +1,11 @@
-- Meditation
-- Retinol
+- Meditation **DONE**
+- Ironing **DONE**
+- Retinol **TOMORROW**
 - Wash head **DONE**
 - Morning routine **DONE**
-- Groceries
-- Read a book
-- Classes
+- Groceries **DONE**
+- Read a book **DONE**
+- Classes **FAILED**
 ## 15.10.2023
 
 - Meditation **DONE**
