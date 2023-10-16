@@ -1,3 +1,12 @@
+- Meditation
+- Chest and back workout
+- Retinol
+- Mezorolling
+- Groceries: eggs
+- Tinkoff card
+- Read a book
+## 16.10.2023
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Retinol **TOMORROW**
