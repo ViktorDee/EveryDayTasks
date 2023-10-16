@@ -1,10 +1,10 @@
-- Meditation
-- Chest and back workout
-- Retinol
-- Mezorolling
-- Groceries: eggs
-- Tinkoff card
-- Read a book
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Retinol **DONE**
+- Mezorolling **FAILED**
+- Groceries: eggs **FAILED**
+- Tinkoff card **DONE**
+- Read a book **DONE**
 ## 16.10.2023
 
 - Meditation **DONE**
