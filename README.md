@@ -1,3 +1,12 @@
+- Meditation
+- Laundry
+- Shave groin
+- Groceries
+- Read a book
+- ABS and neck workout
+- Clean the mirror
+## 17.10.2023
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Retinol **DONE**
