@@ -1,10 +1,10 @@
-- Meditation
-- Laundry
-- Shave groin
-- Groceries
-- Read a book
-- ABS and neck workout
-- Clean the mirror
+- Meditation **DONE**
+- Laundry **DONE**
+- Shave groin **DONE**
+- Groceries **DONE**
+- Read a book **DONE**
+- ABS and neck workout **DONE**
+- Clean the mirror **DONE**
 ## 17.10.2023
 
 - Meditation **DONE**
