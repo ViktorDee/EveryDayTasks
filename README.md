@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Read a book
-- Cut nails
-- Wash head
-- Shave neck
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **DONE**
+- Cut nails **DONE**
+- Wash head **TOMORROW**
+- Shave neck **DONE**
 ## 18.10.2023
 
 - Meditation **DONE**
