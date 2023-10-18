@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Read a book
+- Cut nails
+- Wash head
+- Shave neck
+## 18.10.2023
+
 - Meditation **DONE**
 - Laundry **DONE**
 - Shave groin **DONE**
