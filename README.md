@@ -1,3 +1,11 @@
+- Meditation
+- Groceries
+- Trim face
+- Change bedsheets
+- Wash head **DONE**
+- Read a book
+## 19.10.2023
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Read a book **DONE**
