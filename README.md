@@ -1,9 +1,10 @@
-- Meditation
-- Groceries
-- Trim face
-- Change bedsheets
+- Meditation **DONE**
+- Groceries **DONE**
+- Throw out trash **DONE**
+- Trim face **FAILED**
+- Change bedsheets **DONE**
 - Wash head **DONE**
-- Read a book
+- Read a book **FAILED**
 ## 19.10.2023
 
 - Meditation **DONE**
