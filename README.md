@@ -1,7 +1,7 @@
-- Meditation
-- Trim face
-- Read a book
-- Legs workout
+- Meditation **DONE**
+- Trim face **CHANGED MIND**
+- Read a book **FAILED**
+- Legs workout **DONE**
 ## 20.10.2023
 
 - Meditation **DONE**
