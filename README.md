@@ -1,3 +1,9 @@
+- Meditation
+- Trim face
+- Read a book
+- Legs workout
+## 20.10.2023
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Throw out trash **DONE**
