@@ -1,3 +1,10 @@
+- Meditation
+- Read a book
+- Trim face
+- Groceries
+- Laundry
+## 21.10.2023
+
 - Meditation **DONE**
 - Trim face **CHANGED MIND**
 - Read a book **FAILED**
