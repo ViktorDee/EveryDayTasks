@@ -1,8 +1,8 @@
-- Meditation
-- Read a book
-- Trim face
-- Groceries
-- Laundry
+- Meditation **DONE**
+- Read a book **DONE**
+- Trim face **TOMORROW**
+- Groceries **DONE**
+- Laundry **DONE**
 ## 21.10.2023
 
 - Meditation **DONE**
