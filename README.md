@@ -1,12 +1,12 @@
-- Meditation
-- Read a book
-- Classes
+- Meditation **DONE**
+- Read a book **FAILED**
+- Classes **DONE**
 - Trim face **DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
-- Order: deodorant, shoes
-- Ironing
-- Vacuum cleaning
+- Order: deodorant, shoes **DONE**
+- Ironing **DONE**
+- Vacuum cleaning **FAILED**
 ## 22.10.2023
 
 - Meditation **DONE**
