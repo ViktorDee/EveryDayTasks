@@ -1,3 +1,11 @@
+- Meditation
+- Electricity
+- Chest and back workout
+- Read a book
+- Cook chicken
+- Vacuum cleaning
+## 23.10.2023
+
 - Meditation **DONE**
 - Read a book **FAILED**
 - Classes **DONE**
