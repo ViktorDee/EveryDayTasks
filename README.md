@@ -1,9 +1,10 @@
-- Meditation
-- Electricity
-- Chest and back workout
-- Read a book
-- Cook chicken
-- Vacuum cleaning
+- Meditation **DONE**
+- Throw out the trash **DONE**
+- Electricity **FAILED**
+- Chest and back workout **DONE**
+- Read a book **DONE**
+- Cook chicken **DONE**
+- Vacuum cleaning **FAILED**
 ## 23.10.2023
 
 - Meditation **DONE**
