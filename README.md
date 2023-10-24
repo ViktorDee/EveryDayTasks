@@ -1,9 +1,9 @@
-- Meditation
-- Time with Pasha
-- ABS and neck workout
-- Groceries: eggs, cheese
-- Order: eye pencil sharpener
-- Read a book
+- Meditation **DONE**
+- Time with Pasha **DONE**
+- ABS and neck workout **HALF DONE, TOMORROW**
+- Groceries: eggs, cheese **TOMORROW**
+- Order: eye pencil sharpener **DONE**
+- Read a book **DONE**
 ## 24.10.2023
 
 - Meditation **DONE**
