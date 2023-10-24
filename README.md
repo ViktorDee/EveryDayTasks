@@ -1,3 +1,11 @@
+- Meditation
+- Time with Pasha
+- ABS and neck workout
+- Groceries: eggs, cheese
+- Order: eye pencil sharpener
+- Read a book
+## 24.10.2023
+
 - Meditation **DONE**
 - Throw out the trash **DONE**
 - Electricity **FAILED**
