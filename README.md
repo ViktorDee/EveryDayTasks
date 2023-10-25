@@ -1,3 +1,12 @@
+- Meditation
+- Arms and shoulders + ABS workout
+- Groceries
+- Shave armpits + fingers
+- Morning routine **DONE, NO SHOWER**
+- Wash head **DONE**
+- Electricity **DONE**
+## 25.10.2023
+
 - Meditation **DONE**
 - Time with Pasha **DONE**
 - ABS and neck workout **HALF DONE, TOMORROW**
