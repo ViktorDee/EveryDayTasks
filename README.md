@@ -1,7 +1,7 @@
-- Meditation
-- Arms and shoulders + ABS workout
-- Groceries
-- Shave armpits + fingers
+- Meditation **DOnE**
+- Arms and shoulders + ABS workout **DONE**
+- Groceries **DONE**
+- Shave armpits + fingers **DONE**
 - Morning routine **DONE, NO SHOWER**
 - Wash head **DONE**
 - Electricity **DONE**
