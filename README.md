@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Shave and trim face
-- Groceries
-- ABS + shoulders
-- Read a book
-- Retinol
+- Shave and trim face **DONE**
+- Groceries **DONE**
+- ABS + shoulders **DONE**
+- Read a book **FAILED**
+- Retinol **DONE**
 ## 26.10.2023
 
 - Meditation **DOnE**
