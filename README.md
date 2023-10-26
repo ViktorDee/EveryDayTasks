@@ -1,3 +1,12 @@
+- Meditation
+- Morning routine **DONE**
+- Shave and trim face
+- Groceries
+- ABS + shoulders
+- Read a book
+- Retinol
+## 26.10.2023
+
 - Meditation **DOnE**
 - Arms and shoulders + ABS workout **DONE**
 - Groceries **DONE**
