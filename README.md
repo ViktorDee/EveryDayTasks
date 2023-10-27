@@ -1,7 +1,7 @@
-- Meditation
-- Legs workout
-- Cut nails
-- Vacuum cleaning
+- Meditation **DONE**
+- Legs workout **DONE**
+- Cut nails **DONE**
+- Vacuum cleaning **DONE**
 - Morning routine **DONE**
 ## 27.10.2023
 
