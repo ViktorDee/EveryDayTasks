@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Cut nails
+- Vacuum cleaning
+- Morning routine **DONE**
+## 27.10.2023
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Shave and trim face **DONE**
