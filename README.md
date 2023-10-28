@@ -1,11 +1,11 @@
-- Meditation
-- Time with Tori
-- Time with Pasha
-- Try sneakers
+- Meditation **DONE**
+- Time with Tori **DONE**
+- Time with Pasha **DONE**
+- Try sneakers **DONE**
 - Wash head **DONE**
-- Clean the mirror
-- Wipe the dust on one of the tables
-- Ozon (maybe)
+- Clean the mirror **DONE**
+- Wipe the dust on one of the tables **DONE**
+- Ozon (maybe) **DONE**
 ## 28.10.2023
 
 - Meditation **DONE**
