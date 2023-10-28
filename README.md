@@ -1,3 +1,13 @@
+- Meditation
+- Time with Tori
+- Time with Pasha
+- Try sneakers
+- Wash head **DONE**
+- Clean the mirror
+- Wipe the dust on one of the tables
+- Ozon (maybe)
+## 28.10.2023
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Cut nails **DONE**
