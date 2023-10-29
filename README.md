@@ -1,3 +1,12 @@
+- Meditation
+- Recycling
+- Yandex delivery
+- Laundry
+- Competition
+- Groceries
+- Morning routine **DONE**
+## 29.10.2023
+
 - Meditation **DONE**
 - Time with Tori **DONE**
 - Time with Pasha **DONE**
