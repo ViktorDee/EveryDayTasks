@@ -1,9 +1,9 @@
-- Meditation
-- Recycling
-- Yandex delivery
-- Laundry
-- Competition
-- Groceries
+- Meditation **DONE**
+- Recycling **DONE**
+- Yandex delivery **DONE**
+- Laundry **DONE**
+- Competition **DONE**
+- Groceries **DONE**
 - Morning routine **DONE**
 ## 29.10.2023
 
