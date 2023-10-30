@@ -1,3 +1,12 @@
+- Meditation
+- Chest and back workout
+- Read a book
+- Morning routine **DONE**
+- Laundry **DONE**
+- Ironing
+- Vocal exercise
+## 30.10.2023
+
 - Meditation **DONE**
 - Recycling **DONE**
 - Yandex delivery **DONE**
