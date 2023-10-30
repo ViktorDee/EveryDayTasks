@@ -1,10 +1,10 @@
-- Meditation
-- Chest and back workout
-- Read a book
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Read a book **DONE**
 - Morning routine **DONE**
 - Laundry **DONE**
-- Ironing
-- Vocal exercise
+- Ironing **DONE**
+- Vocal exercise **DONE**
 ## 30.10.2023
 
 - Meditation **DONE**
