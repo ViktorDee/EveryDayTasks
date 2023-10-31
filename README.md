@@ -1,3 +1,13 @@
+- Meditation
+- ABS and neck workout
+- Cook garnish
+- Groceries
+- Throw out trash
+- Read a book
+- Change bedsheets
+- Mezorolling
+## 31.10.2023
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Read a book **DONE**
