@@ -1,11 +1,11 @@
-- Meditation
-- ABS and neck workout
-- Cook garnish
-- Groceries
-- Throw out trash
-- Read a book
-- Change bedsheets
-- Mezorolling
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Cook garnish **DONE**
+- Groceries **DONE**
+- Throw out trash **DONE**
+- Read a book **DONE**
+- Change bedsheets **DONE**
+- Mezorolling **DONE**
 ## 31.10.2023
 
 - Meditation **DONE**
