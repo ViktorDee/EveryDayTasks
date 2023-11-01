@@ -1,9 +1,9 @@
-- Meditation
-- Weighting
-- Have a walk and a pancake
-- Arms and shoulders workout
+- Meditation **DONE**
+- Weighting **DONE**
+- Have a walk and a pancake **DONE**
+- Arms and shoulders workout **SHOULDERS TOMORROW**
 - Morning routine **FAILED**
-- Laundry
+- Laundry **TOMORROW**
 ## 01.11.2023
 
 - Meditation **DONE**
