@@ -1,3 +1,11 @@
+- Meditation
+- Weighting
+- Have a walk and a pancake
+- Arms and shoulders workout
+- Morning routine **FAILED**
+- Laundry
+## 01.11.2023
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Cook garnish **DONE**
