@@ -1,8 +1,8 @@
-- Meditation
-- Shoulders workout
-- Groceries
-- Read a book
-- Laundry
+- Meditation **DONE**
+- Shoulders workout **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Laundry **DONE**
 - Morning routine **DONE**
 ## 02.11.2023
 
