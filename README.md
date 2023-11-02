@@ -1,3 +1,11 @@
+- Meditation
+- Shoulders workout
+- Groceries
+- Read a book
+- Laundry
+- Morning routine **DONE**
+## 02.11.2023
+
 - Meditation **DONE**
 - Weighting **DONE**
 - Have a walk and a pancake **DONE**
