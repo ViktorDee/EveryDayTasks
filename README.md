@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
+- Meditation **DONE**
+- Legs workout **DONE**
 - Wash head **DONE**
-- Groceries
-- Read a book
-- Ironing
+- Groceries **DONE**
+- Read a book **FAILED**
+- Ironing **DONE**
 ## 03.11.2023
 
 - Meditation **DONE**
