@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Wash head **DONE**
+- Groceries
+- Read a book
+- Ironing
+## 03.11.2023
+
 - Meditation **DONE**
 - Shoulders workout **DONE**
 - Groceries **DONE**
