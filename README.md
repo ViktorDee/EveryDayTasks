@@ -1,3 +1,13 @@
+- Meditation
+- Read a book
+- Morning routine **DONE**
+- Retinol
+- Cook garnish
+- Cook chicken
+- Tailor pants
+- Shave groin
+## 04.11.2023
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Wash head **DONE**
