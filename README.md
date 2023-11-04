@@ -1,11 +1,11 @@
-- Meditation
-- Read a book
+- Meditation **DONE**
+- Read a book **DONE**
 - Morning routine **DONE**
-- Retinol
-- Cook garnish
-- Cook chicken
-- Tailor pants
-- Shave groin
+- Retinol **DONE**
+- Cook garnish **TOMORROW**
+- Cook chicken **DONE**
+- Tailor pants **MONDAY**
+- Shave groin **DONE**
 ## 04.11.2023
 
 - Meditation **DONE**
