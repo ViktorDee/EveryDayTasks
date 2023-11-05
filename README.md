@@ -1,3 +1,10 @@
+- Meditation
+- Classes
+- Morning routine
+- Groceries
+- Read a book
+## 05.11.2023
+
 - Meditation **DONE**
 - Read a book **DONE**
 - Morning routine **DONE**
