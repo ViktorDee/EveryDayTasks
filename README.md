@@ -1,8 +1,8 @@
-- Meditation
-- Classes
-- Morning routine
-- Groceries
-- Read a book
+- Meditation **DONE**
+- Classes **DONE**
+- Morning routine **DONE**
+- Groceries **TOMORROW**
+- Read a book **FAILED**
 ## 05.11.2023
 
 - Meditation **DONE**
