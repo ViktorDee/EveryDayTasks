@@ -1,3 +1,11 @@
+- Meditation
+- Chest and back workout
+- Groceries
+- Tailor pants
+- Read a book
+- Vacuum cleaning
+## 06.11.2023
+
 - Meditation **DONE**
 - Classes **DONE**
 - Morning routine **DONE**
