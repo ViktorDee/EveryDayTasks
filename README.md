@@ -1,9 +1,9 @@
-- Meditation
-- Chest and back workout
-- Groceries
-- Tailor pants
-- Read a book
-- Vacuum cleaning
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Groceries **DONE**
+- Tailor pants **DONE**
+- Read a book **DONE**
+- Vacuum cleaning **DONE**
 ## 06.11.2023
 
 - Meditation **DONE**
