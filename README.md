@@ -1,10 +1,10 @@
-- Meditation (x2)
-- ABS and neck workout
+- Meditation (x2) **FAILED**
+- ABS and neck workout **DONE**
 - Wash head **DONE**
 - Mornin routine **HALF**
-- Read a book
-- Mezorolling
-- Print out the pics
+- Read a book **DONE**
+- Mezorolling **FAILED**
+- Print out the pics **DON**
 ## 07.11.2023
 
 - Meditation **DONE**
