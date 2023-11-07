@@ -1,3 +1,12 @@
+- Meditation (x2)
+- ABS and neck workout
+- Wash head **DONE**
+- Mornin routine **HALF**
+- Read a book
+- Mezorolling
+- Print out the pics
+## 07.11.2023
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Groceries **DONE**
