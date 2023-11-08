@@ -1,3 +1,12 @@
+- Meditation (2x)
+- Arms and shoulders workout
+- Read a book
+- Morning routine **DONE**
+- Take the pants back
+- Mezorolling
+- Cut nails
+## 08.11.2023
+
 - Meditation (x2) **FAILED**
 - ABS and neck workout **DONE**
 - Wash head **DONE**
