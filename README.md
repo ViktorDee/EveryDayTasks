@@ -1,10 +1,10 @@
-- Meditation (2x)
-- Arms and shoulders workout
-- Read a book
+- Meditation (2x) **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **DONE**
 - Morning routine **DONE**
-- Take the pants back
-- Mezorolling
-- Cut nails
+- Take the pants back **DONE**
+- Mezorolling **FAILED**
+- Cut nails **DONE**
 ## 08.11.2023
 
 - Meditation (x2) **FAILED**
