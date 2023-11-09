@@ -1,3 +1,11 @@
+- Meditation
+- Groceries
+- Bank with Pasha
+- BHA 15 mins
+- Read a book
+- Trim face
+## 09.11.2023
+
 - Meditation (2x) **DONE**
 - Arms and shoulders workout **DONE**
 - Read a book **DONE**
