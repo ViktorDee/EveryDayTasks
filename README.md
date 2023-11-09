@@ -1,9 +1,9 @@
-- Meditation
-- Groceries
-- Bank with Pasha
-- BHA 15 mins
-- Read a book
-- Trim face
+- Meditation **DONE**
+- Groceries **DONE**
+- Bank with Pasha **DONE**
+- BHA 15 mins **DONE**
+- Read a book **DONE**
+- Trim face **DONE**
 ## 09.11.2023
 
 - Meditation (2x) **DONE**
