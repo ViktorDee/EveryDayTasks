@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout (light)
+- Read a book
+- Start preparing stuff for Novokuznetsk
+- Change bedsheets
+- Mezorolling
+## 10.11.2023
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Bank with Pasha **DONE**
