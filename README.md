@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout (light)
-- Read a book
-- Start preparing stuff for Novokuznetsk
-- Change bedsheets
-- Mezorolling
+- Meditation **DONE**
+- Legs workout (light) **FAILED**
+- Read a book **DONE**
+- Start preparing stuff for Novokuznetsk **DONE**
+- Change bedsheets **DONE**
+- Mezorolling **FAILED**
 ## 10.11.2023
 
 - Meditation **DONE**
