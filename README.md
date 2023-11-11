@@ -1,3 +1,10 @@
+- Meditation
+- Tori
+- Lenta
+- Cook food
+- Ironing
+## 11.11.2023
+
 - Meditation **DONE**
 - Legs workout (light) **FAILED**
 - Read a book **DONE**
