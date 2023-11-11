@@ -1,8 +1,8 @@
-- Meditation
-- Tori
-- Lenta
-- Cook food
-- Ironing
+- Meditation **DONE**
+- Tori **DONE**
+- Lenta **DONE**
+- Cook food **DONE**
+- Ironing **DONE**
 ## 11.11.2023
 
 - Meditation **DONE**
