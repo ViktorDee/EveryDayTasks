@@ -1,3 +1,8 @@
+- Meditation
+- Wash head **DONE**
+- Prepare for Novokuznetsk
+## 12.11.2023
+
 - Meditation **DONE**
 - Tori **DONE**
 - Lenta **DONE**
