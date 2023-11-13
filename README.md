@@ -1,6 +1,12 @@
 - Meditation
+- Morning routine **DONE**
+- Underpants Ozon
+- Pull-ups/push-ups
+## 13.11.2023
+
+- Meditation **DONE**
 - Wash head **DONE**
-- Prepare for Novokuznetsk
+- Prepare for Novokuznetsk **DONE**
 ## 12.11.2023
 
 - Meditation **DONE**
