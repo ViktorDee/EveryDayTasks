@@ -1,7 +1,13 @@
 - Meditation
+- Granddad, grandmom
+- Eat well
+- Groceries
+## 14.11.2023
+
+- Meditation **DONE**
 - Morning routine **DONE**
-- Underpants Ozon
-- Pull-ups/push-ups
+- Underpants Ozon **DONE**
+- Pull-ups/push-ups **DONE**
 ## 13.11.2023
 
 - Meditation **DONE**
