@@ -1,7 +1,7 @@
-- Meditation
-- Granddad, grandmom
-- Eat well
-- Groceries
+- Meditation **DONE**
+- Granddad, grandmom **DONE**
+- Eat well **DONE**
+- Groceries **DONE**
 ## 14.11.2023
 
 - Meditation **DONE**
