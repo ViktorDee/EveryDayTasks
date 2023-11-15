@@ -1,3 +1,9 @@
+- Meditation
+- Quick preparing for sleep
+- Give pics to Ilya
+- Morning routine (no shower) **DONE**
+## 15.11.2023
+
 - Meditation **DONE**
 - Granddad, grandmom **DONE**
 - Eat well **DONE**
