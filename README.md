@@ -1,6 +1,14 @@
 - Meditation
-- Quick preparing for sleep
-- Give pics to Ilya
+- Arms and shoulders workout
+- Groceries
+- Morning routine **DONE**
+- Wash head **DONE**
+- Laundry
+## 16.11.2023
+
+- Meditation **DONE**
+- Quick preparing for sleep **DONE**
+- Give pics to Ilya **DONE**
 - Morning routine (no shower) **DONE**
 ## 15.11.2023
 
