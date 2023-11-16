@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Groceries
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Groceries **ALMOST DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
-- Laundry
+- Laundry **DONE**
 ## 16.11.2023
 
 - Meditation **DONE**
