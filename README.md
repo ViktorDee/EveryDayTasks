@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
-- Ironing
-- Pack the sweater
-- Ozon
-- Groceries
+- Meditation **DONE**
+- Legs workout **DONE**
+- Ironing **TOMORROW**
+- Pack the sweater **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
 - Morning routine **DONE**
 ## 17.11.2023
 
