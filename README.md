@@ -1,3 +1,12 @@
+- Meditation
+- Legs workout
+- Ironing
+- Pack the sweater
+- Ozon
+- Groceries
+- Morning routine **DONE**
+## 17.11.2023
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Groceries **ALMOST DONE**
