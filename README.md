@@ -1,11 +1,11 @@
-- Meditation
-- Groceries
-- Cut nails
-- Shave groin
-- Change bedsheets
-- Ironing
-- Read a book
-- Order: blades, 
+- Meditation **DONE**
+- Groceries **DONE**
+- Cut nails **DONE**
+- Shave groin **DONE**
+- Change bedsheets **DONE**
+- Ironing **DONE**
+- Read a book **DONE**
+- Order: blades **DONE**
 ## 18.11.2023
 
 - Meditation **DONE**
