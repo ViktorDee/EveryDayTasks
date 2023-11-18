@@ -1,3 +1,13 @@
+- Meditation
+- Groceries
+- Cut nails
+- Shave groin
+- Change bedsheets
+- Ironing
+- Read a book
+- Order: blades, 
+## 18.11.2023
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Ironing **TOMORROW**
