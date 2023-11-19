@@ -1,3 +1,12 @@
+- Meditation
+- Read a book
+- Classes
+- Vacuum cleaning
+- Clean bath
+- Morning routine **DONE**
+- Wash head **DONE**
+## 19.11.2023
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Cut nails **DONE**
