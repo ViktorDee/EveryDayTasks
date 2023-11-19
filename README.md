@@ -1,8 +1,8 @@
-- Meditation
-- Read a book
-- Classes
-- Vacuum cleaning
-- Clean bath
+- Meditation **DONE**
+- Read a book **DONE**
+- Classes **DONE**
+- Vacuum cleaning **DONE**
+- Clean bath **FAILED**
 - Morning routine **DONE**
 - Wash head **DONE**
 ## 19.11.2023
