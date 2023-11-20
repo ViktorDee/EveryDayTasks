@@ -1,8 +1,9 @@
-- Meditation
-- Groceries
-- Chest and back workout
-- Clean bath
-- Delivery/walk
+- Meditation **DONE**
+- Groceries **DONE**
+- Chest and back workout **DONE**
+- Clean bath **DONE**
+- Delivery/walk **DONE**
+- Morning routine **DONE**
 - Morning routine **DONE**
 ## 20.11.2023
 
