@@ -1,3 +1,11 @@
+- Meditation
+- Groceries
+- Chest and back workout
+- Clean bath
+- Delivery/walk
+- Morning routine **DONE**
+## 20.11.2023
+
 - Meditation **DONE**
 - Read a book **DONE**
 - Classes **DONE**
