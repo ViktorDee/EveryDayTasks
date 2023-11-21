@@ -1,8 +1,8 @@
-- Meditation
-- Laundry
-- ABS and neck workout
-- Read a book
-- OTP bank card
+- Meditation **DONE**
+- Laundry **DONE**
+- ABS and neck workout **DONE**
+- Read a book **FAILED**
+- OTP bank card **POSTPONED**
 ## 21.11.2023
 
 - Meditation **DONE**
