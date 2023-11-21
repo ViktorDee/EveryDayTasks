@@ -1,3 +1,10 @@
+- Meditation
+- Laundry
+- ABS and neck workout
+- Read a book
+- OTP bank card
+## 21.11.2023
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Chest and back workout **DONE**
