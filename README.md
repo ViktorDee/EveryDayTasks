@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Read a book
+- Shave and trim face
+- Shave fingers
+- Groceries
+## 22.11.2023
+
 - Meditation **DONE**
 - Laundry **DONE**
 - ABS and neck workout **DONE**
