@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Read a book
-- Shave and trim face
-- Shave fingers
-- Groceries
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **DONE**
+- Shave and trim face **HALF DONE**
+- Shave fingers **DONE**
+- Groceries **DONE**
 ## 22.11.2023
 
 - Meditation **DONE**
