@@ -1,8 +1,9 @@
-- Meditation
-- Ironing
-- Nap
-- Trim face
-- ABS plank
+- Meditation **DONE**
+- Ironing **DONE**
+- Nap **DONE**
+- Trim face **DONE**
+- Ozon **DONE**
+- ABS plank **DONE**
 ## 23.11.2023
 
 - Meditation **DONE**
