@@ -1,3 +1,10 @@
+- Meditation
+- Ironing
+- Nap
+- Trim face
+- ABS plank
+## 23.11.2023
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Read a book **DONE**
