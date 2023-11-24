@@ -1,8 +1,8 @@
-- Meditation
-- Legs workout
-- Retinol
-- Read a book
-- Groceries
+- Meditation **DONE**
+- Legs workout **DONE**
+- Retinol **DONE**
+- Read a book **DONE**
+- Groceries **TOMORROW**
 ## 24.11.2023
 
 - Meditation **DONE**
