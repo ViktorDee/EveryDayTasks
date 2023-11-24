@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Retinol
+- Read a book
+- Groceries
+## 24.11.2023
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Nap **DONE**
