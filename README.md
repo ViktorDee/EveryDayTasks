@@ -1,3 +1,12 @@
+- Meditation
+- Wash head **DONE**
+- Groceries
+- OTP bank
+- Nap
+- Change bedsheets
+- Clean bathroom mirror
+## 25.11.2023
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Retinol **DONE**
