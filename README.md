@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Groceries
-- OTP bank
-- Nap
-- Change bedsheets
-- Clean bathroom mirror
+- Groceries **DONE**
+- OTP bank **DONE**
+- Nap **DONE**
+- Change bedsheets **DONE**
+- Clean bathroom mirror **TOMORROW**
 ## 25.11.2023
 
 - Meditation **DONE**
