@@ -1,11 +1,11 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
 - Clean the mirror **DONE**
-- Haircut
-- Classes
-- Read a book
-- Vacuum cleaning
-- Laundry
+- Haircut **DONE**
+- Classes **DONE**
+- Read a book **DONE**
+- Vacuum cleaning **FAILED**
+- Laundry **DONE**
 ## 26.11.2023
 
 - Meditation **DONE**
