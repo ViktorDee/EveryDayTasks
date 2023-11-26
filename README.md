@@ -1,3 +1,13 @@
+- Meditation
+- Morning routine **DONE**
+- Clean the mirror **DONE**
+- Haircut
+- Classes
+- Read a book
+- Vacuum cleaning
+- Laundry
+## 26.11.2023
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Groceries **DONE**
