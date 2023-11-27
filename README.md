@@ -1,3 +1,9 @@
+- Meditation
+- Chest and back workout
+- Vacuum cleaning
+- Ironing
+## 27.11.2023
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Clean the mirror **DONE**
