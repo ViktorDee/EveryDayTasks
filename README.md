@@ -1,7 +1,7 @@
-- Meditation
-- Chest and back workout
-- Vacuum cleaning
-- Ironing
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Vacuum cleaning **FAILED**
+- Ironing **DONE**
 ## 27.11.2023
 
 - Meditation **DONE**
