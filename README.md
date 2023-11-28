@@ -1,11 +1,11 @@
-- Meditation
-- Ozon
-- Tooth repair
-- Laundry
-- Vacuum cleaning
-- Cook garnish
-- Neck + ABS
-- Read a book
+- Meditation **DONE**
+- Ozon **DONE**
+- Tooth repair **FAILED**
+- Laundry **DONE**
+- Vacuum cleaning **DONE**
+- Cook garnish **FAILED**
+- Neck + ABS **FAILED**
+- Read a book **FAILED**
 ## 28.11.2023
 
 - Meditation **DONE**
