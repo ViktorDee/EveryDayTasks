@@ -1,3 +1,13 @@
+- Meditation
+- Ozon
+- Tooth repair
+- Laundry
+- Vacuum cleaning
+- Cook garnish
+- Neck + ABS
+- Read a book
+## 28.11.2023
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Vacuum cleaning **FAILED**
