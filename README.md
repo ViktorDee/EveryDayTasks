@@ -1,9 +1,9 @@
-- Meditation
-- ABS workout
-- Triceps and shoulders workout
+- Meditation **DONE**
+- ABS workout **DONE**
+- Triceps and shoulders workout **SHOULDERS LEFT**
 - Wash head **DONE**
-- Read a book
-- Delivery
+- Read a book **FAILED**
+- Delivery **DONE**
 ## 29.11.2023
 
 - Meditation **DONE**
