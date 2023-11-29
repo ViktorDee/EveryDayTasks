@@ -1,3 +1,11 @@
+- Meditation
+- ABS workout
+- Triceps and shoulders workout
+- Wash head **DONE**
+- Read a book
+- Delivery
+## 29.11.2023
+
 - Meditation **DONE**
 - Ozon **DONE**
 - Tooth repair **FAILED**
