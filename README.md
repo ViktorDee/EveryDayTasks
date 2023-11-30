@@ -1,10 +1,10 @@
-- Meditation
-- Shoulders workout
-- Laser armpits
-- Shave face
-- Ironing
-- Read a book
-- Nap
+- Meditation **DONE**
+- Shoulders workout **DONE**
+- Laser armpits **DONE**
+- Shave face **DONE**
+- Ironing **DONE**
+- Read a book **FAILED**
+- Nap **DONE**
 ## 30.11.2023
 
 - Meditation **DONE**
