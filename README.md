@@ -1,3 +1,12 @@
+- Meditation
+- Shoulders workout
+- Laser armpits
+- Shave face
+- Ironing
+- Read a book
+- Nap
+## 30.11.2023
+
 - Meditation **DONE**
 - ABS workout **DONE**
 - Triceps and shoulders workout **SHOULDERS LEFT**
