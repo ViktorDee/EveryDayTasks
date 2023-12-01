@@ -1,10 +1,11 @@
 ## 01.12.2023
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Legs workout
-- Nap
-- BHA for night
-- Read a book
+- Legs workout **DONE**
+- Nap **DONE**
+- BHA for night **DONE**
+- Read a book **DONE**
+- Groceries
 
 - Meditation **DONE**
 - Shoulders workout **DONE**
