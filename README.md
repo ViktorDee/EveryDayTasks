@@ -1,3 +1,11 @@
+## 01.12.2023
+- Meditation
+- Morning routine **DONE**
+- Legs workout
+- Nap
+- BHA for night
+- Read a book
+
 - Meditation **DONE**
 - Shoulders workout **DONE**
 - Laser armpits **DONE**
