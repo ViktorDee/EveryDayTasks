@@ -1,7 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Time with dad
-- Have a walk
+- Time with dad **DONE**
+- Change bedsheets **DONE**
+- Have a walk **DONE**
 - Send money to Sasha gym **DONE**
 ## 02.12.2023
 
