@@ -1,11 +1,19 @@
-## 01.12.2023
+- Meditation
+- Wash head **DONE**
+- Time with dad
+- Have a walk
+- Send money to Sasha gym **DONE**
+## 02.12.2023
+
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Legs workout **DONE**
 - Nap **DONE**
 - BHA for night **DONE**
 - Read a book **DONE**
-- Groceries
+- Groceries **DONE**
+## 01.12.2023
 
 - Meditation **DONE**
 - Shoulders workout **DONE**
