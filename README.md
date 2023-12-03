@@ -1,3 +1,11 @@
+- Meditation
+- Read a book
+- Morning routine
+- Have a walk
+- Groceries
+- Mezorolling
+## 03.12.2023
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Time with dad **DONE**
