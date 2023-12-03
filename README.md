@@ -1,9 +1,14 @@
-- Meditation
-- Read a book
-- Morning routine
-- Have a walk
-- Groceries
-- Mezorolling
+- Meditation **DONE**
+- Delivery **DONE**
+- Feet ball **DONE**
+- Knees exercises **DONE**
+- Laundry **DONE**
+- Recycling **DONE**
+- Read a book **DONE**
+- Morning routine **DONE**
+- Have a walk **FAILED**
+- Groceries **DONE**
+- Mezorolling **DONE**
 ## 03.12.2023
 
 - Meditation **DONE**
