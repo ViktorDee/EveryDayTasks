@@ -1,10 +1,10 @@
-- Meditation
-- Chest and back workout
-- Feet ball
-- Read a book
-- Groceries
-- Ironing
-- Morning routine
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Feet ball **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Morning routine **HALF DONE**
 ## 04.12.2023
 
 - Meditation **DONE**
