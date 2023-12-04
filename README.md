@@ -1,3 +1,12 @@
+- Meditation
+- Chest and back workout
+- Feet ball
+- Read a book
+- Groceries
+- Ironing
+- Morning routine
+## 04.12.2023
+
 - Meditation **DONE**
 - Delivery **DONE**
 - Feet ball **DONE**
