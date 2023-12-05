@@ -1,10 +1,10 @@
-- Meditation
-- ABS and neck workout
-- Groceries
-- Read a book
-- Retinol
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Groceries **DONE**
+- Read a book **DONE**
+- Retinol **DONE**
 - Wash head **DONE**
-- Knees exercises
+- Knees exercises **DONE**
 ## 05.12.2023
 
 - Meditation **DONE**
