@@ -1,3 +1,12 @@
+- Meditation
+- ABS and neck workout
+- Groceries
+- Read a book
+- Retinol
+- Wash head **DONE**
+- Knees exercises
+## 05.12.2023
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Feet ball **DONE**
