@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Stretching
+- Read a book
+- Throw out the trash
+- Feet ball
+## 06.12.2023
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Groceries **DONE**
