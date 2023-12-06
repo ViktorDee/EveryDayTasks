@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Stretching
-- Read a book
-- Throw out the trash
-- Feet ball
+- Meditation **DONE**
+- Arms and shoulders workout **SHOULDERS AND TRICEPS TOMORROW**
+- Stretching **DONE**
+- Read a book **FAILED**
+- Throw out the trash **DONE**
+- Feet ball **DONE**
 ## 06.12.2023
 
 - Meditation **DONE**
