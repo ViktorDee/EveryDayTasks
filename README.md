@@ -1,3 +1,12 @@
+- Meditation
+- SHOULDERS AND TRICEPS workout
+- Read a book
+- Groceries
+- Feet ball
+- Shave groin
+- Shave neck
+## 07.12.2023
+
 - Meditation **DONE**
 - Arms and shoulders workout **SHOULDERS AND TRICEPS TOMORROW**
 - Stretching **DONE**
