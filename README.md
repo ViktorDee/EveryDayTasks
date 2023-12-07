@@ -1,10 +1,10 @@
-- Meditation
-- SHOULDERS AND TRICEPS workout
-- Read a book
-- Groceries
-- Feet ball
-- Shave groin
-- Shave neck
+- Meditation **DONE**
+- SHOULDERS AND TRICEPS workout **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
+- Feet ball **FAILED**
+- Shave groin **DONE**
+- Shave neck **DONE**
 ## 07.12.2023
 
 - Meditation **DONE**
