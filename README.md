@@ -1,8 +1,9 @@
-- Meditation
-- Legs workout
-- Read a book
-- Feet ball
-- Mezorolling
+- Meditation **DONE**
+- Legs workout **DONE**
+- Read a book **DONE**
+- Feet ball **DONE**
+- Cut nails **DONE**
+- Mezorolling **DONE**
 ## 08.12.2023
 
 - Meditation **DONE**
