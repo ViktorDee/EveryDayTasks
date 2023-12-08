@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Read a book
+- Feet ball
+- Mezorolling
+## 08.12.2023
+
 - Meditation **DONE**
 - SHOULDERS AND TRICEPS workout **DONE**
 - Read a book **DONE**
