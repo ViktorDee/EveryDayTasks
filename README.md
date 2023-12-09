@@ -1,3 +1,10 @@
+- Meditation
+- Read a book
+- Groceries
+- Nap
+- Shave armpits
+## 09.12.2023
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Read a book **DONE**
