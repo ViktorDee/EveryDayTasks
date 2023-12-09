@@ -1,8 +1,8 @@
-- Meditation
-- Read a book
-- Groceries
-- Nap
-- Shave armpits
+- Meditation **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
+- Nap **DONE**
+- Shave armpits **DONE**
 ## 09.12.2023
 
 - Meditation **DONE**
