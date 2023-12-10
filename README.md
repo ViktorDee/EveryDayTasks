@@ -1,9 +1,9 @@
-- Meditation
-- Shave armpits
-- Transfer money
-- Change bedsheets
-- Ozon
-- Forearms, calves routine
+- Meditation **DONE**
+- Shave armpits **DONE**
+- Transfer money **DONE**
+- Change bedsheets **DONE**
+- Ozon **FAILED**
+- Forearms, calves routine **DONE**
 - Morning routine **DONE**
 ## 10.12.2023
 
