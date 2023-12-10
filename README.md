@@ -1,8 +1,17 @@
+- Meditation
+- Shave armpits
+- Transfer money
+- Change bedsheets
+- Ozon
+- Forearms, calves routine
+- Morning routine **DONE**
+## 10.12.2023
+
 - Meditation **DONE**
 - Read a book **DONE**
 - Groceries **DONE**
 - Nap **DONE**
-- Shave armpits **DONE**
+- Shave armpits **FAILED**
 ## 09.12.2023
 
 - Meditation **DONE**
