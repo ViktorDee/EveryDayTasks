@@ -1,8 +1,8 @@
-- Meditation (2x)
-- Nap
-- Forearms/shoulders/calves
-- Groceries
-- Ozon
+- Meditation (2x) **HALF FAILED**
+- Nap **DONE**
+- Forearms/shoulders/calves **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
 - Wash head **DONE**
 ## 11.12.2023
 
