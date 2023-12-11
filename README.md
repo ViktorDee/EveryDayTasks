@@ -1,3 +1,11 @@
+- Meditation (2x)
+- Nap
+- Forearms/shoulders/calves
+- Groceries
+- Ozon
+- Wash head **DONE**
+## 11.12.2023
+
 - Meditation **DONE**
 - Shave armpits **DONE**
 - Transfer money **DONE**
