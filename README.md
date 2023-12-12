@@ -1,7 +1,8 @@
-- Meditation
-- ABS and neck
-- Ozon
-- Post delievery
+- Meditation  **DONE**
+- Read a book **DONE**
+- ABS and neck **DONE**
+- Ozon **DONE**
+- Post delievery **DONE**
 - Morning routine **NO SHOWER**
 ## 12.12.2023
 
