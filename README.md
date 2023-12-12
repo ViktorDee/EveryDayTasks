@@ -1,3 +1,10 @@
+- Meditation
+- ABS and neck
+- Ozon
+- Post delievery
+- Morning routine **NO SHOWER**
+## 12.12.2023
+
 - Meditation (2x) **HALF FAILED**
 - Nap **DONE**
 - Forearms/shoulders/calves **DONE**
