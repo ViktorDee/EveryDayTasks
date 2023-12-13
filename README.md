@@ -1,3 +1,13 @@
+- Meditation
+- Read a book
+- Morning routine
+- Stretching
+- Arms and shoulders
+- Eyebrow
+- Wash head
+- Groceries
+## 13.12.2023
+
 - Meditation  **DONE**
 - Read a book **DONE**
 - ABS and neck **DONE**
