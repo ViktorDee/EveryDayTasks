@@ -1,11 +1,11 @@
-- Meditation
-- Read a book
-- Morning routine
-- Stretching
-- Arms and shoulders
-- Eyebrow
-- Wash head
-- Groceries
+- Meditation **DONE**
+- Read a book **FAILED**
+- Morning routine **DONE**
+- Stretching **DONE**
+- Arms and shoulders **DONE**
+- Eyebrow **DONE**
+- Wash head **DONE**
+- Groceries **DONE**
 ## 13.12.2023
 
 - Meditation  **DONE**
