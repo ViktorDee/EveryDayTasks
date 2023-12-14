@@ -1,3 +1,14 @@
+- Meditation
+- Retinol
+- Shoulders
+- Groceries
+- Ironing
+- Ozon
+- Shoulders and forearms
+- Knees stretch
+- Throw out trash
+## 14.12.2023
+
 - Meditation **DONE**
 - Read a book **FAILED**
 - Morning routine **DONE**
