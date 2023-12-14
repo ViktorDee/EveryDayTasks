@@ -1,12 +1,11 @@
-- Meditation
-- Retinol
-- Shoulders
-- Groceries
-- Ironing
-- Ozon
-- Shoulders and forearms
-- Knees stretch
-- Throw out trash
+- Meditation **DONE**
+- Retinol **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Ozon **DONE**
+- Shoulders and forearms **FOREARMS DONE**
+- Knees stretch **DONE**
+- Throw out trash **DONE**
 ## 14.12.2023
 
 - Meditation **DONE**
