@@ -1,3 +1,14 @@
+- Meditation
+- Morning routine **DONE**
+- Legless push-ups
+- Nap
+- Ozon
+- Laundry
+- Trim face
+- Knees stretch
+- Read a book
+## 15.12.2023
+
 - Meditation **DONE**
 - Retinol **DONE**
 - Groceries **DONE**
