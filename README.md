@@ -1,12 +1,12 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Legless push-ups
-- Nap
-- Ozon
-- Laundry
-- Trim face
-- Knees stretch
-- Read a book
+- Legless push-ups **DONE**
+- Nap **DONE**
+- Ozon **DONE**
+- Laundry **DONE**
+- Trim face **DONE**
+- Knees stretch **DONE**
+- Read a book **DONE**
 ## 15.12.2023
 
 - Meditation **DONE**
