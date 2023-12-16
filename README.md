@@ -1,3 +1,10 @@
+- Meditation
+- Wash head **DONE**
+- A date
+- Mezorolling
+- Groceries
+## 16.12.2023
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Legless push-ups **DONE**
