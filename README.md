@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- A date
-- Mezorolling
-- Groceries
+- A date **DONE**
+- Mezorolling **FAILED**
+- Groceries **FAILED**
 ## 16.12.2023
 
 - Meditation **DONE**
