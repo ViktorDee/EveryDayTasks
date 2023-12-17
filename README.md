@@ -1,9 +1,11 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Groceries
-- Ironing
-- Change bedsheets
-- Mezorolling
+- Groceries **DONE**
+- Read a book **DONE**
+- Shins set **DONE**
+- Ironing **DONE**
+- Change bedsheets **TOMORROW**
+- Mezorolling **DONE**
 ## 17.12.2023
 
 - Meditation **DONE**
