@@ -1,3 +1,11 @@
+- Meditation
+- Morning routine **DONE**
+- Groceries
+- Ironing
+- Change bedsheets
+- Mezorolling
+## 17.12.2023
+
 - Meditation **DONE**
 - Wash head **DONE**
 - A date **DONE**
