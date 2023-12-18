@@ -1,3 +1,11 @@
+- Meditation
+- Bench press
+- Chest and back workout
+- Change bedsheets
+- Clean the mirror
+- Read a book
+## 18.12.2023
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Groceries **DONE**
