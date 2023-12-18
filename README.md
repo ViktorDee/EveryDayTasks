@@ -1,9 +1,19 @@
 - Meditation
-- Bench press
-- Chest and back workout
 - Change bedsheets
+- Groceries
+- Yandex delivery
+- ABS and neck workout
 - Clean the mirror
 - Read a book
+- Shave
+## 19.12.2023
+
+- Meditation **DONE**
+- Bench press **DONE**
+- Chest and back workout **DONE**
+- Change bedsheets **FAILED**
+- Clean the mirror **FAILED**
+- Read a book **DONE**
 ## 18.12.2023
 
 - Meditation **DONE**
