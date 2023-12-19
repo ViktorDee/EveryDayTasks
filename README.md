@@ -1,11 +1,12 @@
-- Meditation
-- Change bedsheets
-- Groceries
-- Yandex delivery
-- ABS and neck workout
-- Clean the mirror
-- Read a book
-- Shave
+- Meditation **DONE**
+- Change bedsheets **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Yandex delivery **DONE**
+- ABS and neck workout **DONE**
+- Clean the mirror **FAILED**
+- Read a book **FAILED**
+- Shave **DONE**
 ## 19.12.2023
 
 - Meditation **DONE**
