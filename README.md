@@ -1,3 +1,13 @@
+- Meditation
+- Stretching
+- Arms and shoulders workout
+- Read a book
+- Ironing
+- Mornig routine **FAILED**
+- Wash head **DONE**
+- Trim face and temples **DONE**
+## 20.12.2023
+
 - Meditation **DONE**
 - Change bedsheets **DONE**
 - Groceries **DONE**
