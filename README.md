@@ -1,8 +1,8 @@
-- Meditation
-- Stretching
-- Arms and shoulders workout
-- Read a book
-- Ironing
+- Meditation **DONE**
+- Stretching **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **TOMORROW**
+- Ironing **TOMORROW**
 - Mornig routine **FAILED**
 - Wash head **DONE**
 - Trim face and temples **DONE**
