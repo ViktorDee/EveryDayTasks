@@ -1,3 +1,13 @@
+- Meditation
+- Ironing
+- Read a book
+- Morning routine
+- Throw out trash
+- Ozon
+- Groceries
+- Retinol
+## 21.12.20233
+
 - Meditation **DONE**
 - Stretching **DONE**
 - Arms and shoulders workout **DONE**
