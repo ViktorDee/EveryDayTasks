@@ -1,11 +1,11 @@
-- Meditation
-- Ironing
-- Read a book
-- Morning routine
-- Throw out trash
-- Ozon
-- Groceries
-- Retinol
+- Meditation **DONE**
+- Ironing **DONE**
+- Read a book **DONE**
+- Morning routine **DONE**
+- Throw out trash **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Retinol **DONE**
 ## 21.12.20233
 
 - Meditation **DONE**
