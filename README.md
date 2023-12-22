@@ -1,8 +1,18 @@
 - Meditation
-- Legs workout
-- Read a book
-- Shave groin
 - Laundry
+- Have a walk
+- Wash head
+- Ozon
+- Read a book
+- Vacuum cleaning
+## 23.12.2023
+
+- Meditation **DONE**
+- Legs workout **DONE**
+- Read a book **DONE**
+- Clean the mirror **DONE**
+- Shave groin **DONE**
+- Laundry **TOMORROW**
 ## 22.12.2023
 
 - Meditation **DONE**
