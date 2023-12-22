@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Read a book
+- Shave groin
+- Laundry
+## 22.12.2023
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Read a book **DONE**
