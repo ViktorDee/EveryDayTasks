@@ -1,10 +1,14 @@
-- Meditation
-- Laundry
-- Have a walk
-- Wash head
-- Ozon
-- Read a book
-- Vacuum cleaning
+- Meditation **DONE**
+- Laundry **TOMORROW**
+- Throw out trash **DONE**
+- Rinse nose **TOMORROW**
+- Recycling **DONE**
+- Have a walk **DONE**
+- Wash head **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Read a book **DONE**
+- Vacuum cleaning **DONE**
 ## 23.12.2023
 
 - Meditation **DONE**
