@@ -1,9 +1,9 @@
-- Meditation
-- Laundry
-- Rinse nose
-- Have a walk
-- Read a book
-- Think on the gifts
+- Meditation **DONE**
+- Laundry **DONE**
+- Rinse nose **DONE**
+- Have a walk **DONE**
+- Read a book **DONE**
+- Think on the gifts **FAILED**
 ## 24.12.2023
 
 - Meditation **DONE**
