@@ -1,3 +1,11 @@
+- Meditation
+- Laundry
+- Rinse nose
+- Have a walk
+- Read a book
+- Think on the gifts
+## 24.12.2023
+
 - Meditation **DONE**
 - Laundry **TOMORROW**
 - Throw out trash **DONE**
