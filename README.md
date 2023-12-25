@@ -1,3 +1,11 @@
+- Meditation
+- Ironing
+- Think of the gifts
+- Trash out
+- Groceries
+- Nap (maybe)
+## 25.12.2023
+
 - Meditation **DONE**
 - Laundry **DONE**
 - Rinse nose **DONE**
