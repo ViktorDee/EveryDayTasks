@@ -1,9 +1,10 @@
-- Meditation
-- Ironing
-- Think of the gifts
-- Trash out
-- Groceries
-- Nap (maybe)
+- Meditation **DONE**
+- Trash out **DONE**
+- Ironing **DONE**
+- Think of the gifts **FAILED**
+- Trash out **DONE**
+- Groceries **DONE**
+- Nap (maybe) **FAILED**
 ## 25.12.2023
 
 - Meditation **DONE**
