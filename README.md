@@ -1,3 +1,13 @@
+- Meditation
+- Wash head
+- Morning routine
+- ABS and neck workout
+- Shave
+- Groceries
+- Change bedsheets
+- Read a book
+## 26.12.2023
+
 - Meditation **DONE**
 - Trash out **DONE**
 - Ironing **DONE**
