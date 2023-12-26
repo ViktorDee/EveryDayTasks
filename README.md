@@ -1,11 +1,12 @@
-- Meditation
-- Wash head
-- Morning routine
-- ABS and neck workout
-- Shave
-- Groceries
-- Change bedsheets
-- Read a book
+- Meditation **DONE**
+- Wash head **DONE**
+- Morning routine **HALF**
+- ABS and neck workout **DONE**
+- Mezorolling **DONE**
+- Shave **DONE**
+- Groceries **DONE**
+- Change bedsheets **DONE**
+- Read a book **DONE**
 ## 26.12.2023
 
 - Meditation **DONE**
