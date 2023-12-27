@@ -1,9 +1,9 @@
-- Meditation
-- Morning routine
-- Stretching
-- Arms and shoulders workout
-- Read a book
-- Trim face
+- Meditation **DONE**
+- Morning routine **DONE**
+- Stretching **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **DONE**
+- Trim face **DONE**
 ## 27.12.2023
 
 - Meditation **DONE**
