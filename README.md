@@ -1,3 +1,11 @@
+- Meditation
+- Morning routine
+- Stretching
+- Arms and shoulders workout
+- Read a book
+- Trim face
+## 27.12.2023
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Morning routine **HALF**
