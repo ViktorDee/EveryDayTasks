@@ -1,8 +1,8 @@
-- Meditation
-- Retinol
-- Postcards
-- Groceries
-- Read a book
+- Meditation **DONE**
+- Retinol **DONE**
+- Postcards **FAILED**
+- Groceries **DONE**
+- Read a book **DONE**
 ## 28.12.2023
 
 - Meditation **DONE**
