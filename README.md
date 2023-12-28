@@ -1,3 +1,10 @@
+- Meditation
+- Retinol
+- Postcards
+- Groceries
+- Read a book
+## 28.12.2023
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Stretching **DONE**
