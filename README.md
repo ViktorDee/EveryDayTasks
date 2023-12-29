@@ -1,3 +1,11 @@
+- Meditation
+- Nap
+- Legs workout
+- Wash head **DONE**
+- Ozon
+- Groceries
+## 29.12.2023
+
 - Meditation **DONE**
 - Retinol **DONE**
 - Postcards **FAILED**
