@@ -1,9 +1,11 @@
-- Meditation
-- Nap
-- Legs workout
+- Meditation **DONE**
+- Read a book **DONE**
+- Retinol **DONE**
+- Nap **DONE**
+- Legs workout **DONE**
 - Wash head **DONE**
-- Ozon
-- Groceries
+- Ozon **DONE**
+- Groceries **TOMORROW**
 ## 29.12.2023
 
 - Meditation **DONE**
