@@ -1,3 +1,11 @@
+- Meditation
+- Groceries
+- Read a book
+- Postcards
+- Throw trash out
+- Call grandparents
+## 30.12.2023
+
 - Meditation **DONE**
 - Read a book **DONE**
 - Retinol **DONE**
