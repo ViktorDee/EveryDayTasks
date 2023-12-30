@@ -1,9 +1,9 @@
-- Meditation
-- Groceries
-- Read a book
-- Postcards
-- Throw trash out
-- Call grandparents
+- Meditation **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Postcards **DONE**
+- Throw trash out **DONE**
+- Call grandparents **FAILED**
 ## 30.12.2023
 
 - Meditation **DONE**
