@@ -1,7 +1,7 @@
-- Meditation
-- Wash head
-- Call grandparents
-- Ironing
+- Meditation **DONE**
+- Wash head **DONE**
+- Call grandparents **DONE**
+- Ironing **DONE**
 ## 31.12.2023
 
 - Meditation **DONE**
