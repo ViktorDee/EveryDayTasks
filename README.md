@@ -1,3 +1,9 @@
+- Meditation
+- Wash head
+- Call grandparents
+- Ironing
+## 31.12.2023
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Read a book **FAILED**
