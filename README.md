@@ -1,3 +1,10 @@
+- Meditation
+- Chest and back workout
+- Groceries
+- Laundry
+- Mezorolling
+## 01.12.2023
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Call grandparents **DONE**
