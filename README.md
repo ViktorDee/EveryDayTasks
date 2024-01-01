@@ -1,8 +1,8 @@
-- Meditation
-- Chest and back workout
-- Groceries
-- Laundry
-- Mezorolling
+- Meditation **DONE**
+- Chest and back workout **TOMORROW**
+- Groceries **DONE**
+- Laundry **TOMORROW**
+- Mezorolling **FAILED**
 ## 01.12.2023
 
 - Meditation **DONE**
