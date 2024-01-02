@@ -1,9 +1,16 @@
+- Meditation
+- Chest and back and ABS + neck workout
+- Laundry
+- Morning routine **DONE**
+- Groceries
+## 02.01.2024
+
 - Meditation **DONE**
 - Chest and back workout **TOMORROW**
 - Groceries **DONE**
 - Laundry **TOMORROW**
 - Mezorolling **FAILED**
-## 01.12.2023
+## 01.01.2024
 
 - Meditation **DONE**
 - Wash head **DONE**
