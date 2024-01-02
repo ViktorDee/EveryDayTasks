@@ -1,8 +1,11 @@
-- Meditation
-- Chest and back and ABS + neck workout
-- Laundry
+- Meditation **DONE**
+- Chest and back and ABS + neck workout **DONE BUT ABS**
+- Laundry **DONE**
+- Shave face **DONE**
+- Read a book **DONE**
 - Morning routine **DONE**
-- Groceries
+- Groceries **DONE**
+- Ozon **DONE**
 ## 02.01.2024
 
 - Meditation **DONE**
