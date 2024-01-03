@@ -1,3 +1,12 @@
+- Meditation
+- Wash head **DONE**
+- Vacuum cleaning
+- Read a book
+- Arms and shoulders + ABS workout
+- Laundry
+- Mezorolling
+## 03.01.2024
+
 - Meditation **DONE**
 - Chest and back and ABS + neck workout **DONE BUT ABS**
 - Laundry **DONE**
