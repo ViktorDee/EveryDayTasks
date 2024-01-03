@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Vacuum cleaning
-- Read a book
-- Arms and shoulders + ABS workout
-- Laundry
-- Mezorolling
+- Vacuum cleaning **DONE**
+- Read a book **DONE**
+- Arms and shoulders + ABS workout **DONE**
+- Laundry **DONE**
+- Mezorolling **FAILED**
 ## 03.01.2024
 
 - Meditation **DONE**
