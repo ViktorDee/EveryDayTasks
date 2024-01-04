@@ -1,3 +1,10 @@
+- Meditation
+- Mezorolling
+- Groceries
+- Ironing
+- Have a walk
+## 04.01.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Vacuum cleaning **DONE**
