@@ -1,8 +1,8 @@
-- Meditation
-- Mezorolling
-- Groceries
-- Ironing
-- Have a walk
+- Meditation **DONE**
+- Mezorolling **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Have a walk **DONE**
 ## 04.01.2024
 
 - Meditation **DONE**
