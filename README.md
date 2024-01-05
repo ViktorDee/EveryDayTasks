@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Groceries
-- Shave armpits and groin
-- Read a book
-- Retinol
-- Legs workout
+- Groceries **DONE**
+- Shave armpits and groin **DONE**
+- Read a book **DONE**
+- Retinol **DONE**
+- Legs workout **FAILED**
 ## 05.01.2024
 
 - Meditation **DONE**
