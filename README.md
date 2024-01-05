@@ -1,3 +1,12 @@
+- Meditation
+- Morning routine **DONE**
+- Groceries
+- Shave armpits and groin
+- Read a book
+- Retinol
+- Legs workout
+## 05.01.2024
+
 - Meditation **DONE**
 - Mezorolling **DONE**
 - Groceries **DONE**
