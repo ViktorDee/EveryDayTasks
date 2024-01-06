@@ -1,3 +1,9 @@
+- Meditation
+- Shave face
+- Wash head **DONE**
+- Read a book
+## 06.01.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Groceries **DONE**
