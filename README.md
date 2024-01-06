@@ -1,7 +1,8 @@
-- Meditation
-- Shave face
+- Meditation **DONE**
+- Shave face **DONE**
+- Groceries **DONE**
 - Wash head **DONE**
-- Read a book
+- Read a book **DONE**
 ## 06.01.2024
 
 - Meditation **DONE**
