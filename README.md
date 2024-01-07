@@ -1,3 +1,8 @@
+- Meditation
+- Have a walk
+- Morning routine **DONE**
+## 07.01.2024
+
 - Meditation **DONE**
 - Shave face **DONE**
 - Groceries **DONE**
