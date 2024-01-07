@@ -1,5 +1,5 @@
-- Meditation
-- Have a walk
+- Meditation **DONE**
+- Have a walk **DONE**
 - Morning routine **DONE**
 ## 07.01.2024
 
