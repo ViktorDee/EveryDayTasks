@@ -1,6 +1,8 @@
-- Meditation
-- Read a book
-- Chest and back workout
+- Meditation **DONE**
+- Read a book **DONE**
+- Throw out trash **DONE**
+- Groceries **DONE**
+- Chest and back workout **DONE**
 ## 08.01.2024
 
 - Meditation **DONE**
