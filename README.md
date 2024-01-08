@@ -1,3 +1,8 @@
+- Meditation
+- Read a book
+- Chest and back workout
+## 08.01.2024
+
 - Meditation **DONE**
 - Have a walk **DONE**
 - Morning routine **DONE**
