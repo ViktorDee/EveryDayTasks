@@ -1,3 +1,12 @@
+- Meditation
+- Legs workout
+- Wash head **DONE**
+- Morning routine **DONE**
+- ABS and neck workout
+- Change bedsheets
+- Laundry
+## 09.01.2024
+
 - Meditation **DONE**
 - Read a book **DONE**
 - Throw out trash **DONE**
