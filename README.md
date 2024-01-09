@@ -1,10 +1,10 @@
-- Meditation
-- Legs workout
+- Meditation **DONE**
+- Legs workout **DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
-- ABS and neck workout
-- Change bedsheets
-- Laundry
+- ABS and neck workout **NECK TOMORROW**
+- Change bedsheets **FAILED**
+- Laundry **DONE**
 ## 09.01.2024
 
 - Meditation **DONE**
