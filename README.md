@@ -1,3 +1,13 @@
+- Meditation
+- Repair a tooth
+- Arms and shoulders workout
+- Neck workout
+- Groceries
+- Take a bath
+- Read a book
+- Change bedsheets
+## 10.01.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Wash head **DONE**
