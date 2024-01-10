@@ -1,11 +1,20 @@
 - Meditation
-- Repair a tooth
-- Arms and shoulders workout
-- Neck workout
+- Ozon
 - Groceries
-- Take a bath
-- Read a book
-- Change bedsheets
+- Delivery
+- Neck workout
+- Shave wrists
+- Knees exercises
+## 11.01.2024
+
+- Meditation **DONE**
+- Repair a tooth **DONE**
+- Arms and shoulders workout **DONE**
+- Neck workout **TOMORROW**
+- Groceries **TOMORROW**
+- Take a bath **DONE**
+- Read a book **DONE**
+- Change bedsheets **DONE**
 ## 10.01.2024
 
 - Meditation **DONE**
