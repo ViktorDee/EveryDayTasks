@@ -1,12 +1,12 @@
-- Meditation
-- Ozon
-- New ringtone
-- Groceries
-- Delivery
-- Neck workout
+- Meditation **DONE**
+- Ozon **DONE**
+- New ringtone **DONE**
+- Groceries **DONE**
+- Delivery **DONE**
+- Neck workout **DONE**
 - Morning routine **DONE**
-- Shave wrists
-- Knees exercises
+- Shave wrists **DONE**
+- Knees exercises **DONE**
 ## 11.01.2024
 
 - Meditation **DONE**
