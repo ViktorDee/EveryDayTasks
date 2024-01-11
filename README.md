@@ -1,8 +1,10 @@
 - Meditation
 - Ozon
+- New ringtone
 - Groceries
 - Delivery
 - Neck workout
+- Morning routine **DONE**
 - Shave wrists
 - Knees exercises
 ## 11.01.2024
