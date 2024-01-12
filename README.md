@@ -1,9 +1,10 @@
-- Meditation
-- Gym
-- Laundry
-- Read a book
-- Mezorolling
-- Groceries
+- Meditation **DONE**
+- Gym **DONE**
+- Ozon **DONE**
+- Laundry **DONE**
+- Read a book **FAILED**
+- Mezorolling **DONE**
+- Groceries **FAILED**
 - Wash head **DONE**
 ## 12.01.2024
 
