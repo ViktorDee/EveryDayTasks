@@ -1,3 +1,12 @@
+- Meditation
+- Gym
+- Laundry
+- Read a book
+- Mezorolling
+- Groceries
+- Wash head **DONE**
+## 12.01.2024
+
 - Meditation **DONE**
 - Ozon **DONE**
 - New ringtone **DONE**
