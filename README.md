@@ -1,7 +1,7 @@
-- Meditation
-- Groceries
-- Read a book
-- Ironing
+- Meditation **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Ironing **DONE**
 ## 13.01.2024
 
 - Meditation **DONE**
