@@ -1,3 +1,9 @@
+- Meditation
+- Groceries
+- Read a book
+- Ironing
+## 13.01.2024
+
 - Meditation **DONE**
 - Gym **DONE**
 - Ozon **DONE**
