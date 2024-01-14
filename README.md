@@ -1,3 +1,12 @@
+- Meditation
+- Morning routine **DONE**
+- Vacuum cleaning
+- Read a book
+- Groceries
+- Trash out
+- Ozon
+## 14.01.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Read a book **FAILED**
