@@ -1,3 +1,12 @@
+- Meditation
+- Chest and back workout
+- Grip workout
+- Sell the jacket
+- Read a book
+- Wash head
+- Morning rotuine
+## 15.01.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Vacuum cleaning **TOMORROW**
