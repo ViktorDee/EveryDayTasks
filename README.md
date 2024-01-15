@@ -1,10 +1,10 @@
-- Meditation
-- Chest and back workout
-- Grip workout
-- Sell the jacket
-- Read a book
-- Wash head
-- Morning rotuine
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Grip workout **DONE**
+- Sell the jacket **FAILED**
+- Read a book **DONE**
+- Wash head **DONE**
+- Morning rotuine **DONE**
 ## 15.01.2024
 
 - Meditation **DONE**
