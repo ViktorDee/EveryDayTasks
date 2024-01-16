@@ -1,3 +1,11 @@
+- Meditation
+- ABS and neck workout
+- Vacuum cleaning
+- Clean the mirror
+- Groceries
+- Throw trash out
+## 16.01.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Grip workout **DONE**
