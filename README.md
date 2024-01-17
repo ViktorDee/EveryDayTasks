@@ -1,8 +1,9 @@
-- Meditation
-- Groceries
-- Arms and shoulders workout
-- Trash out
-- Stretching
+- Meditation **DONE**
+- Groceries **DONE**
+- Arms and shoulders workout **DONE**
+- Trash out **DONE**
+- Stretching **FAILED**
+- Ozon **DONE**
 ## 17.01.2024
 
 - Meditation **DONE**
