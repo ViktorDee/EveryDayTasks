@@ -1,9 +1,16 @@
 - Meditation
-- ABS and neck workout
-- Vacuum cleaning
-- Clean the mirror
 - Groceries
-- Throw trash out
+- Arms and shoulders workout
+- Trash out
+- Stretching
+## 17.01.2024
+
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Vacuum cleaning **DONE**
+- Clean the mirror **DONE**
+- Groceries **FAILED**
+- Throw trash out **FAILED**
 ## 16.01.2024
 
 - Meditation **DONE**
