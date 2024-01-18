@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Knees stretching
-- Read a book
-- Mezorolling
+- Knees stretching **DONE**
+- Read a book **DONE**
+- Mezorolling **DONE**
 ## 18.01.2024
 
 - Meditation **DONE**
