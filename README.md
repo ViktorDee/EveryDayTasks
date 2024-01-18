@@ -1,3 +1,10 @@
+- Meditation
+- Wash head **DONE**
+- Knees stretching
+- Read a book
+- Mezorolling
+## 18.01.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Arms and shoulders workout **DONE**
