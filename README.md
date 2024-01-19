@@ -1,9 +1,10 @@
-- Meditation
-- Legs workout
-- Groceries
+- Meditation **DONE**
+- Legs workout **DONE**
+- Mezorolling **DONE**
+- Groceries **DONE**
 - Morning routine **DONE**
-- Laundry
-- Call with dad
+- Laundry **DONE**
+- Call with dad **DONE**
 ## 19.01.2024
 
 - Meditation **DONE**
