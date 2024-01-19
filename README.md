@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Groceries
+- Morning routine **DONE**
+- Laundry
+- Call with dad
+## 19.01.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Knees stretching **DONE**
