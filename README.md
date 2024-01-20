@@ -1,9 +1,9 @@
-- Meditation
-- Read a book
-- Groceries
-- BHA
-- Shave neck
-- Think of haircut and make an appointment
+- Meditation **DONE**
+- Read a book **FAILED**
+- Groceries **FAILED**
+- BHA **DONE**
+- Shave neck **FAILED**
+- Think of haircut and make an appointment **FAILED**
 ## 20.01.2024
 
 - Meditation **DONE**
