@@ -1,3 +1,11 @@
+- Meditation
+- Read a book
+- Groceries
+- BHA
+- Shave neck
+- Think of haircut and make an appointment
+## 20.01.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Mezorolling **DONE**
