@@ -1,4 +1,13 @@
 - Meditation **DONE**
+- Ironing **DONE**
+- Groceries **DONE**
+- Change bedseeets **DONE**
+- Think of a haircut **FAILED**
+- Read a book **FAILED**
+- Morning routine **DONE**
+## 21.01.2024
+
+- Meditation **DONE**
 - Read a book **FAILED**
 - Groceries **FAILED**
 - BHA **DONE**
