@@ -1,9 +1,11 @@
-- Meditation
-- Chest and back workout
-- Groceries
-- Wash head
-- Think of a haircut
-- Read a book
+- Meditation **DONE**
+- Trash out **DONE**
+- Rinse nose **DONE**
+- Chest and back workout **DONE**
+- Groceries **DONE**
+- Wash head **DONE**
+- Think of a haircut **FAILED**
+- Read a book **FAILED**
 ## 22.01.2024
 
 - Meditation **DONE**
