@@ -1,3 +1,11 @@
+- Meditation
+- Chest and back workout
+- Groceries
+- Wash head
+- Think of a haircut
+- Read a book
+## 22.01.2024
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Groceries **DONE**
