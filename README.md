@@ -1,8 +1,9 @@
-- Meditation
-- ABS and neck
-- Ozon
-- Read a book
-- Think of a haircut
+- Meditation **DONE**
+- ABS and neck **DONE, but not enough**
+- Ozon **DONE**
+- Shave armpits **DONE**
+- Read a book **FAILED**
+- Think of a haircut **FAILED**
 ## 23.01.2024
 
 - Meditation **DONE**
