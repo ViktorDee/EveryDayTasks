@@ -1,3 +1,10 @@
+- Meditation
+- ABS and neck
+- Ozon
+- Read a book
+- Think of a haircut
+## 23.01.2024
+
 - Meditation **DONE**
 - Trash out **DONE**
 - Rinse nose **DONE**
