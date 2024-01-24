@@ -1,11 +1,11 @@
-- Meditation
-- Arms and shoulders workout
-- ABS
-- Ironing
-- Groceries
-- Morning routine
-- Haircut
-- Read a book
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- ABS **DONE**
+- Ironing **DONE**
+- Groceries **DONE**
+- Morning routine **DONE**
+- Haircut **FAILED**
+- Read a book **DONE**
 ## 24.01.2024
 
 - Meditation **DONE**
