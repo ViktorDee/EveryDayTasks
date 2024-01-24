@@ -1,3 +1,13 @@
+- Meditation
+- Arms and shoulders workout
+- ABS
+- Ironing
+- Groceries
+- Morning routine
+- Haircut
+- Read a book
+## 24.01.2024
+
 - Meditation **DONE**
 - ABS and neck **DONE, but not enough**
 - Ozon **DONE**
