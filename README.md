@@ -1,3 +1,12 @@
+- Meditation
+- Wash head **DONE**
+- Cut nails
+- Haircut
+- Rinse nose
+- Trash out
+- Read a book
+## 25.01.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - ABS **DONE**
