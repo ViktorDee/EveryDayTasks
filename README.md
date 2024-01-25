@@ -1,10 +1,11 @@
-- Meditation
+- Meditation **DONE**
+- Ozon **DONE**
 - Wash head **DONE**
-- Cut nails
-- Haircut
-- Rinse nose
-- Trash out
-- Read a book
+- Cut nails **DONE**
+- Haircut **FAILED**
+- Rinse nose **TOMORROW**
+- Trash out **DONE**
+- Read a book **FAILED**
 ## 25.01.2024
 
 - Meditation **DONE**
