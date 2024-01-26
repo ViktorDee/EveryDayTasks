@@ -1,9 +1,11 @@
-- Meditation
-- Rinse nose
-- Shave neck
-- Haircut
-- Morning routine
-- Read a book
+- Meditation **DONE**
+- Trash out **DONE**
+- Rinse nose **DONE**
+- Shave neck **DONE**
+- Haircut **DONE**
+- Morning routine **DONE**
+- Read a book **FAILED**
+- Legs workout **DONE**
 ## 26.01.2024
 
 - Meditation **DONE**
