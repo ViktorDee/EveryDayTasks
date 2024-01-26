@@ -1,3 +1,11 @@
+- Meditation
+- Rinse nose
+- Shave neck
+- Haircut
+- Morning routine
+- Read a book
+## 26.01.2024
+
 - Meditation **DONE**
 - Ozon **DONE**
 - Wash head **DONE**
