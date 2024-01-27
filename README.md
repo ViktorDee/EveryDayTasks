@@ -1,3 +1,10 @@
+- Meditation
+- Delivery
+- Groceries
+- Wash head **DONE**
+- Apartment rent
+## 27.01.2024
+
 - Meditation **DONE**
 - Trash out **DONE**
 - Rinse nose **DONE**
