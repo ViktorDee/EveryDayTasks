@@ -1,8 +1,15 @@
 - Meditation
-- Delivery
+- Mezorolling
+- Tooth
 - Groceries
+- Vacuum cleaning **DONE**
+## 28.01.2024
+
+- Meditation **FAILED**
+- Delivery **DONE**
+- Groceries **DONE**
 - Wash head **DONE**
-- Apartment rent
+- Apartment rent **FAILED**
 ## 27.01.2024
 
 - Meditation **DONE**
