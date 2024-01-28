@@ -1,7 +1,7 @@
-- Meditation
-- Mezorolling
-- Tooth
-- Groceries
+- Meditation **DONE**
+- Mezorolling **DONE**
+- Tooth **DONE**
+- Groceries **TOMORROW**
 - Vacuum cleaning **DONE**
 ## 28.01.2024
 
