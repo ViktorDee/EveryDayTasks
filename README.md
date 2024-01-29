@@ -1,3 +1,12 @@
+- Meditation
+- Chest and back workout
+- Laundry
+- Read a book
+- Morning routine
+- Groceries
+- Change bedsheets
+## 29.01.2024
+
 - Meditation **DONE**
 - Mezorolling **DONE**
 - Tooth **DONE**
