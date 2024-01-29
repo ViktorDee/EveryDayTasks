@@ -1,10 +1,10 @@
-- Meditation
-- Chest and back workout
-- Laundry
-- Read a book
-- Morning routine
-- Groceries
-- Change bedsheets
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Laundry **DONE**
+- Read a book **DONE**
+- Morning routine **DONE**
+- Groceries **DONE**
+- Change bedsheets **DONE**
 ## 29.01.2024
 
 - Meditation **DONE**
