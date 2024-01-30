@@ -1,11 +1,11 @@
-- Meditation
-- ABS and neck workout
-- Armpits
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Armpits **DONE**
 - Wash head **DONE**
-- Laundry
-- Ironing
-- Retinol
-- Shave groin
+- Laundry **DONE**
+- Ironing **DONE**
+- Retinol **DONE**
+- Shave groin **FAILED**
 ## 30.01.2024
 
 - Meditation **DONE**
