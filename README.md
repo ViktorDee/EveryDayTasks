@@ -1,3 +1,13 @@
+- Meditation
+- ABS and neck workout
+- Armpits
+- Wash head **DONE**
+- Laundry
+- Ironing
+- Retinol
+- Shave groin
+## 30.01.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Laundry **DONE**
