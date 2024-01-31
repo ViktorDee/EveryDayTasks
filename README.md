@@ -1,7 +1,8 @@
-- Meditation
-- Arms and shoulders workout
-- Stretching
-- Groceries
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Apartment rent **DONE**
+- Stretching **DONE**
+- Groceries **TOMORROW**
 ## 31.01.2024
 
 - Meditation **DONE**
