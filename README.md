@@ -1,3 +1,9 @@
+- Meditation
+- Arms and shoulders workout
+- Stretching
+- Groceries
+## 31.01.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Armpits **DONE**
