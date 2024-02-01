@@ -1,3 +1,11 @@
+- Meditation
+- Laundry
+- Groceries
+- Haircut
+- Internet to a new place
+- Shave groin
+## 1.02.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Apartment rent **DONE**
