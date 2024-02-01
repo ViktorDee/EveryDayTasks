@@ -1,9 +1,9 @@
-- Meditation
-- Laundry
-- Groceries
-- Haircut
-- Internet to a new place
-- Shave groin
+- Meditation **DONE**
+- Laundry **DONE**
+- Groceries **DONE**
+- Haircut **DONE**
+- Internet to a new place **FAILED**
+- Shave groin **DONE**
 ## 1.02.2024
 
 - Meditation **DONE**
