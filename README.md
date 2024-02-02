@@ -1,10 +1,10 @@
-- Meditation
-- Laundry
-- Ironing
-- Legs workout
-- Groceries
-- Trash out
-- Internet to a new place
+- Meditation **DONE**
+- Laundry **DONE**
+- Ironing **DONE**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Trash out **DONE**
+- Internet to a new place **DONE**
 ## 2.02.2024
 
 - Meditation **DONE**
