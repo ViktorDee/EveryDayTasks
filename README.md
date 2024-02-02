@@ -1,3 +1,12 @@
+- Meditation
+- Laundry
+- Ironing
+- Legs workout
+- Groceries
+- Trash out
+- Internet to a new place
+## 2.02.2024
+
 - Meditation **DONE**
 - Laundry **DONE**
 - Groceries **DONE**
