@@ -1,3 +1,10 @@
+- Meditation (2x)
+- Ironing
+- Prepare clothes and stuff
+- Clean the mirror
+- Internet
+## 03.02.2024
+
 - Meditation **DONE**
 - Laundry **DONE**
 - Ironing **DONE**
