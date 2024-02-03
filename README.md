@@ -1,8 +1,8 @@
-- Meditation (2x)
-- Ironing
-- Prepare clothes and stuff
-- Clean the mirror
-- Internet
+- Meditation (2x) **HALF DONE**
+- Ironing **DONE**
+- Prepare clothes and stuff **DONE**
+- Clean the mirror **FAILED**
+- Internet **DONE**
 ## 03.02.2024
 
 - Meditation **DONE**
