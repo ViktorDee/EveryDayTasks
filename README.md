@@ -1,9 +1,9 @@
-- Meditation
-- Cleaning
+- Meditation **DONE**
+- Cleaning **DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
-- Ozon
-- Gusto
+- Ozon **FAILED**
+- Gusto **FAILED**
 ## 04.02.2024
 
 - Meditation (2x) **HALF DONE**
