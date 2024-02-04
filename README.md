@@ -1,3 +1,11 @@
+- Meditation
+- Cleaning
+- Wash head **DONE**
+- Morning routine **DONE**
+- Ozon
+- Gusto
+## 04.02.2024
+
 - Meditation (2x) **HALF DONE**
 - Ironing **DONE**
 - Prepare clothes and stuff **DONE**
