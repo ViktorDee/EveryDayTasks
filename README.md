@@ -1,3 +1,10 @@
+- Meditation
+- Cleaning
+- Ozon
+- Iron a bath curtain
+- Chest and back workout (not full)
+## 05.02.2024
+
 - Meditation **DONE**
 - Cleaning **DONE**
 - Wash head **DONE**
