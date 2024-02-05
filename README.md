@@ -1,8 +1,8 @@
-- Meditation
-- Cleaning
-- Ozon
-- Iron a bath curtain
-- Chest and back workout (not full)
+- Meditation **DONE**
+- Cleaning **overDONE**
+- Ozon **DONE**
+- Iron a bath curtain **FAILED**
+- Chest and back workout (not full) **DO THE REST TOMORROW**
 ## 05.02.2024
 
 - Meditation **DONE**
