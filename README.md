@@ -1,3 +1,17 @@
+- Meditation
+- Arms and shoulders workout
+- Clean bathroom walls + bath
+- Wipe the floor once more
+- Wash head
+## 07.02.2024
+
+- Meditation
+- Morning routine **DONE**
+- Chest and back **DONE**
+- ABS and neck **HALF DONE**
+- Groceries **DONE**
+## 06.02.2024
+
 - Meditation **DONE**
 - Cleaning **overDONE**
 - Ozon **DONE**
