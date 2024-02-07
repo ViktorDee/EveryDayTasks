@@ -1,8 +1,11 @@
-- Meditation
-- Arms and shoulders workout
-- Clean bathroom walls + bath
-- Wipe the floor once more
-- Wash head
+- Meditation **DONE**
+- Arms and shoulders workout **TOMORROW**
+- Groceries **DONE**
+- ABS workout **TOMORROW**
+- Replace a bath mat **DONE**
+- Clean bathroom walls + bath **DONE**
+- Wipe the floor once more **DONE**
+- Wash head **DONE**
 ## 07.02.2024
 
 - Meditation
