@@ -1,3 +1,14 @@
+- Meditation
+- Clean skirting boards **DONE**
+- Clean windowsills **DONE**
+- Clean the floor on the balcony **DONE**
+- Arms and shoulders workout **DONE**
+- ABS workout **FAILED**
+- Go to the old place **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+## 08.02.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **TOMORROW**
 - Groceries **DONE**
