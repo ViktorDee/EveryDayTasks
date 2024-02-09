@@ -1,4 +1,12 @@
 - Meditation
+- ABS workout
+- Legs workout
+- Clean an etrance door
+- Clean speakers
+- Groceries
+## 09.02.2024
+
+- Meditation **DONE**
 - Clean skirting boards **DONE**
 - Clean windowsills **DONE**
 - Clean the floor on the balcony **DONE**
