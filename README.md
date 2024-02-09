@@ -1,9 +1,9 @@
-- Meditation
-- ABS workout
-- Legs workout
-- Clean an etrance door
-- Clean speakers
-- Groceries
+- Meditation **DONE**
+- ABS workout **FAILED**
+- Legs workout **POORLY DONE**
+- Clean an etrance door **DONE**
+- Clean speakers **DONE**
+- Groceries **DONE**
 ## 09.02.2024
 
 - Meditation **DONE**
