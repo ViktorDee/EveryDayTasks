@@ -1,3 +1,11 @@
+- Meditation
+- Calves workout + traps
+- ABS workout
+- Wash head **DONE**
+- Pillow
+- Gusto clothes
+## 10.02.2024
+
 - Meditation **DONE**
 - ABS workout **FAILED**
 - Legs workout **POORLY DONE**
