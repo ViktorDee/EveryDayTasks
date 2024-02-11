@@ -1,3 +1,12 @@
+- Meditation
+- Gusto clothes
+- Stretching
+- Ozon
+- Groceries
+- Check curtains
+- Morning routine **DONE**
+## 11.02.2024
+
 - Meditation **DONE**
 - Calves workout + traps **DONE**
 - ABS workout **DONE**
