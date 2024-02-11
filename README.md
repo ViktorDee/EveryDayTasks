@@ -1,9 +1,9 @@
-- Meditation
-- Gusto clothes
-- Stretching
-- Ozon
-- Groceries
-- Check curtains
+- Meditation **DONE**
+- Gusto clothes **GOT INFO**
+- Stretching **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Check curtains **DONE**
 - Morning routine **DONE**
 ## 11.02.2024
 
