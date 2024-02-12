@@ -1,3 +1,10 @@
+- Meditation
+- Chest and back workout
+- Gift for Sasha
+- Book for handmade stuff
+- Minor changes at home
+## 12.02.2024
+
 - Meditation **DONE**
 - Gusto clothes **GOT INFO**
 - Stretching **DONE**
