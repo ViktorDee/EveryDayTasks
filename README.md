@@ -1,8 +1,16 @@
 - Meditation
-- Chest and back workout
-- Gift for Sasha
-- Book for handmade stuff
-- Minor changes at home
+- Groceries: eggs, cottage cheese
+- ABS and neck workout
+- Morning routine
+- Wash head
+- Mezorolling
+## 13.02.2024
+
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Gift for Sasha **POSTPONED**
+- Book for handmade stuff **DONE**
+- Minor changes at home **DONE**
 ## 12.02.2024
 
 - Meditation **DONE**
