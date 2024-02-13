@@ -1,9 +1,9 @@
-- Meditation
-- Groceries: eggs, cottage cheese
-- ABS and neck workout
-- Morning routine
-- Wash head
-- Mezorolling
+- Meditation **DONE**
+- Groceries: eggs, cottage cheese **DONE**
+- ABS and neck workout **DONE**
+- Morning routine **DONE**
+- Wash head **DONE**
+- Mezorolling **DONE**
 ## 13.02.2024
 
 - Meditation **DONE**
