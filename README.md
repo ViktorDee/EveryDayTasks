@@ -1,10 +1,10 @@
-- Meditation
-- Arms and shoulders workout
-- Grip strength
-- Ozon
-- Retinol
-- Throw trash out
-- Vacuum cleaning
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Grip strength **DONE**
+- Ozon **DONE**
+- Retinol **DONE**
+- Throw trash out **DONE**
+- Vacuum cleaning **DONE**
 ## 14.02.2024
 
 - Meditation **DONE**
