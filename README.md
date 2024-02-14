@@ -1,3 +1,12 @@
+- Meditation
+- Arms and shoulders workout
+- Grip strength
+- Ozon
+- Retinol
+- Throw trash out
+- Vacuum cleaning
+## 14.02.2024
+
 - Meditation **DONE**
 - Groceries: eggs, cottage cheese **DONE**
 - ABS and neck workout **DONE**
