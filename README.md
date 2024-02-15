@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Gusto clothes
-- Groceries: chicken, cottage cheese, ryazh, cheese, beef mince
-- Clean the mirror
-- Trim face
-- Change bedsheets
+- Gusto clothes **DONE**
+- Groceries: chicken, cottage cheese, ryazh, cheese, beef mince **DONE**
+- Clean the mirror **DONE**
+- Trim face **DONE**
+- Change bedsheets **DONE**
 - Weighting **DONE**
 ## 15.02.2024
 
