@@ -1,3 +1,13 @@
+- Meditation
+- Morning routine **DONE**
+- Gusto clothes
+- Groceries: chicken, cottage cheese, ryazh, cheese, beef mince
+- Clean the mirror
+- Trim face
+- Change bedsheets
+- Weighting **DONE**
+## 15.02.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Grip strength **DONE**
