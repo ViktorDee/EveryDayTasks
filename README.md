@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Wash head
+- Read a book
+- Ironing
+## 16.02.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Gusto clothes **DONE**
