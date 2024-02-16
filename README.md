@@ -1,8 +1,8 @@
-- Meditation
-- Legs workout
-- Wash head
-- Read a book
-- Ironing
+- Meditation **DONE**
+- Legs workout **TOMORROW**
+- Wash head **DONE**
+- Read a book **DONE**
+- Ironing **DONE**
 ## 16.02.2024
 
 - Meditation **DONE**
