@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Ceramic clay stuff
+- Groceries
+- Ozon
+## 17.02.2024
+
 - Meditation **DONE**
 - Legs workout **TOMORROW**
 - Wash head **DONE**
