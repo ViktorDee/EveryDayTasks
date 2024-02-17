@@ -1,8 +1,8 @@
-- Meditation
-- Legs workout
-- Ceramic clay stuff
-- Groceries
-- Ozon
+- Meditation **DONE**
+- Legs workout **DONE**
+- Ceramic clay stuff **DONE**
+- Groceries **DONE**
+- Ozon **TOMORROW**
 ## 17.02.2024
 
 - Meditation **DONE**
