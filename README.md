@@ -1,8 +1,8 @@
-- Meditation
-- Groceries: frozen veggies, tomatoes
-- Recycling
-- Ozon
-- Read a book
+- Meditation **DONE**
+- Groceries: frozen veggies, tomatoes **DONE**
+- Recycling **FAILED**
+- Ozon **DONE**
+- Read a book **FAILED**
 ## 18.02.2024
 
 - Meditation **DONE**
