@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Think of evening shifts days **DONE**
-- Chest and back workout
-- Ironing 
-- Laundry
-- Set up curtains
+- Chest and back workout **DONE**
+- Ironing **HALF-DONE**
+- Laundry **FAILED. TOMORROW**
+- Set up curtains **HALF-DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
 ## 19.02.2024
