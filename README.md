@@ -1,3 +1,13 @@
+- Meditation
+- Think of evening shifts days **DONE**
+- Chest and back workout
+- Ironing 
+- Laundry
+- Set up curtains
+- Wash head **DONE**
+- Morning routine **DONE**
+## 19.02.2024
+
 - Meditation **DONE**
 - Groceries: frozen veggies, tomatoes **DONE**
 - Recycling **FAILED**
