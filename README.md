@@ -1,3 +1,11 @@
+- Meditation
+- ABS and neck
+- Ozon
+- Groceries
+- Laundry
+- Iron curtain
+## 20.02.2024
+
 - Meditation **DONE**
 - Think of evening shifts days **DONE**
 - Chest and back workout **DONE**
