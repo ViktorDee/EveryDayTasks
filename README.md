@@ -1,9 +1,9 @@
-- Meditation
-- ABS and neck
-- Ozon
-- Groceries
-- Laundry
-- Iron curtain
+- Meditation **DONE**
+- ABS and neck **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Iron curtain **FAILED**
 ## 20.02.2024
 
 - Meditation **DONE**
