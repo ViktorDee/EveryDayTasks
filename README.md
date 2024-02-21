@@ -1,10 +1,10 @@
-- Meditation
-- Arms and shoulders workout
-- Shave neck
-- Shave groin
-- Change bedsheets
-- Ironing
-- Change mobile tariff
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Shave neck **DONE**
+- Shave groin **TOMORROW**
+- Change bedsheets **DONE**
+- Ironing **DONE**
+- Change mobile tariff **DONE**
 ## 20.02.2024
 
 - Meditation **DONE**
