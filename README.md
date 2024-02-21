@@ -1,3 +1,12 @@
+- Meditation
+- Arms and shoulders workout
+- Shave neck
+- Shave groin
+- Change bedsheets
+- Ironing
+- Change mobile tariff
+## 20.02.2024
+
 - Meditation **DONE**
 - ABS and neck **DONE**
 - Ozon **DONE**
