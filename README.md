@@ -1,3 +1,19 @@
+- Meditation
+- Groceries
+- Shave groin
+- Trim face
+- Laundry
+## 22.02.2024
+
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Shave groin **FAILED**
+- Ironing **DOnE**
+- Shave neck **DONE**
+- Change bedsheets **DONE**
+- Change mobile tariff **DONE**
+## 21.02.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Shave neck **DONE**
