@@ -1,8 +1,10 @@
-- Meditation
-- Groceries
-- Shave groin
-- Trim face
-- Laundry
+- Meditation **DONE**
+- Trash out **DONE**
+- Cut nails **DONE**
+- Groceries **DONE**
+- Shave groin **FAILED**
+- Trim face **DONE**
+- Laundry **DONE**
 ## 22.02.2024
 
 - Meditation **DONE**
