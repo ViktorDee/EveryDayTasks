@@ -1,8 +1,9 @@
-- Meditation
-- Legs workout
-- Groceries
+- Meditation **DONE**
+- Shave armpits **TOMORROW**
+- Legs workout **DONE**
+- Groceries **DONE**
 - Wash head **DONE**
-- Shave groin
+- Shave groin **TOMORROW**
 ## 23.02.2024
 
 - Meditation **DONE**
