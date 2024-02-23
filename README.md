@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Groceries
+- Wash head **DONE**
+- Shave groin
+## 23.02.2024
+
 - Meditation **DONE**
 - Trash out **DONE**
 - Cut nails **DONE**
