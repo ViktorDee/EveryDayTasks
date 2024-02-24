@@ -1,3 +1,11 @@
+- Meditation
+- Shave groin
+- Shave armpits
+- Groceries: chicken, eggs
+- Recycling
+- Read a book
+## 24.02.2024
+
 - Meditation **DONE**
 - Shave armpits **TOMORROW**
 - Legs workout **DONE**
