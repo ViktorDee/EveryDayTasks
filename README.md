@@ -1,10 +1,11 @@
-- Meditation
-- Shave groin
-- Shave armpits
-- Groceries: chicken, eggs
-- Recycling
-- Read a book
-- Ironing
+- Meditation  **DONE**
+- Shave groin **DONE**
+- Shave armpits **DONE**
+- Groceries: chicken, eggs **DONE**
+- Recycling **DONE**
+- Laundry **DONE**
+- Read a book **DONE**
+- Ironing **DONE**
 ## 24.02.2024
 
 - Meditation **DONE**
