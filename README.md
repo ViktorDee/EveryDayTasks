@@ -4,6 +4,7 @@
 - Groceries: chicken, eggs
 - Recycling
 - Read a book
+- Ironing
 ## 24.02.2024
 
 - Meditation **DONE**
