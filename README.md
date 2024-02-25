@@ -1,3 +1,11 @@
+- Meditation
+- Ironing
+- Morning routine **DONE**
+- Rinse nose
+- Groceries
+- Vacuum cleaning
+## 25.02.2024
+
 - Meditation  **DONE**
 - Shave groin **DONE**
 - Shave armpits **DONE**
