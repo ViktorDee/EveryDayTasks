@@ -1,9 +1,9 @@
-- Meditation
-- Ironing
+- Meditation **DONE**
+- Ironing **DONE**
 - Morning routine **DONE**
-- Rinse nose
-- Groceries
-- Vacuum cleaning
+- Rinse nose **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **TOMORROW**
 ## 25.02.2024
 
 - Meditation  **DONE**
