@@ -1,9 +1,9 @@
-- Meditation
-- Groceries: minced beef, chicken, tomatoes
-- Vacuum cleaning
+- Meditation **DONE**
+- Groceries: minced beef, chicken, tomatoes **DONE**
+- Vacuum cleaning **DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
-- Chest and back workout
+- Chest and back workout **DOnE**
 ## 26.02.2024
 
 - Meditation **DONE**
