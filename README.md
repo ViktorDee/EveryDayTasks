@@ -1,3 +1,11 @@
+- Meditation
+- Groceries: minced beef, chicken, tomatoes
+- Vacuum cleaning
+- Wash head **DONE**
+- Morning routine **DONE**
+- Chest and back workout
+## 26.02.2024
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Morning routine **DONE**
