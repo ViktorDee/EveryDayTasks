@@ -1,3 +1,9 @@
+- Meditation
+- ABS and neck workout
+- Make a call
+- Read a book
+## 27.02.2024
+
 - Meditation **DONE**
 - Groceries: minced beef, chicken, tomatoes **DONE**
 - Vacuum cleaning **DONE**
