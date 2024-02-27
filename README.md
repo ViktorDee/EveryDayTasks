@@ -1,7 +1,7 @@
-- Meditation
-- ABS and neck workout
-- Make a call
-- Read a book
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Make a call **DONE**
+- Read a book **DONE**
 ## 27.02.2024
 
 - Meditation **DONE**
