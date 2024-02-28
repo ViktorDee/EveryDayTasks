@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Grip strength
-- Read a book
-- Shave neck
-- Morning routine
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Grip strength **DONE**
+- Read a book **FAILED**
+- Shave neck **TOMORROW**
+- Morning routine **DONE**
 ## 28.02.2024
 
 - Meditation **DONE**
