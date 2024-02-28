@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Grip strength
+- Read a book
+- Shave neck
+- Morning routine
+## 28.02.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Make a call **DONE**
