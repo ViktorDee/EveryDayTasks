@@ -1,3 +1,11 @@
+- Meditation
+- Groceries
+- Shave neck
+- Read a book
+- Trash out
+- Water + electricity
+## 29.02.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Grip strength **DONE**
