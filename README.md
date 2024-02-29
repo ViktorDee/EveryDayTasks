@@ -1,9 +1,9 @@
-- Meditation
-- Groceries
-- Shave neck
-- Read a book
-- Trash out
-- Water + electricity
+- Meditation **DONE**
+- Groceries **DONE**
+- Shave neck **DONE**
+- Read a book **FAILED**
+- Trash out **DONE**
+- Water + electricity **DONE**
 ## 29.02.2024
 
 - Meditation **DONE**
