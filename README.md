@@ -1,3 +1,9 @@
+- Meditation
+- Wash head
+- Sort out the rent stuff
+- Trim face
+## 01.03.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Shave neck **DONE**
