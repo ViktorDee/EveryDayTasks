@@ -1,7 +1,7 @@
 - Meditation
-- Wash head
-- Sort out the rent stuff
-- Trim face
+- Wash head **DONE**
+- Sort out the rent stuff **DONE**
+- Trim face **DONE**
 ## 01.03.2024
 
 - Meditation **DONE**
