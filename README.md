@@ -1,8 +1,8 @@
-- Meditation
-- Eat healthily
-- Visit mom
-- Visit grandparents
-- Alice gift
+- Meditation **DONE**
+- Eat healthily **DONE**
+- Visit mom **DONE**
+- Visit grandparents **DONE**
+- Alice gift **DONE**
 ## 02.03.2024
 
 - Meditation **DONE**
