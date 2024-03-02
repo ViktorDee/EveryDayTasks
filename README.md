@@ -1,4 +1,11 @@
 - Meditation
+- Eat healthily
+- Visit mom
+- Visit grandparents
+- Alice gift
+## 02.03.2024
+
+- Meditation **DONE**
 - Wash head **DONE**
 - Sort out the rent stuff **DONE**
 - Trim face **DONE**
