@@ -1,6 +1,7 @@
-- Meditation
-- Groceries
-- Mom's gift
+- Meditation **DONE**
+- Read a book **DONE**
+- Groceries **chicken + juice left**
+- Mom's gift **TOMORROW**
 - Morning routine **DONE**
 ## 03.03.2024
 
