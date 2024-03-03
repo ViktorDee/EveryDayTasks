@@ -1,3 +1,9 @@
+- Meditation
+- Groceries
+- Mom's gift
+- Morning routine **DONE**
+## 03.03.2024
+
 - Meditation **DONE**
 - Eat healthily **DONE**
 - Visit mom **DONE**
