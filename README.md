@@ -1,3 +1,16 @@
+- Meditation
+- Chest and back workout
+- Grip workout
+- Morning routine **DONE. NO COLD**
+- Mom's gift
+- Groceries
+- Sort the pics out
+- Message Sasha gym
+- Change bedsheets
+- Laundry
+- Wash head **DONE**
+## 04.03.2024
+
 - Meditation **DONE**
 - Read a book **DONE**
 - Groceries **chicken + juice left**
