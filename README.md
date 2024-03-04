@@ -1,13 +1,13 @@
-- Meditation
-- Chest and back workout
-- Grip workout
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Grip workout **DONE**
 - Morning routine **DONE. NO COLD**
-- Mom's gift
-- Groceries
-- Sort the pics out
-- Message Sasha gym
-- Change bedsheets
-- Laundry
+- Mom's gift **DONE**
+- Groceries **DONE**
+- Sort the pics out **DOnE**
+- Message Sasha gym **DONE**
+- Change bedsheets **DONE**
+- Laundry **DONE**
 - Wash head **DONE**
 ## 04.03.2024
 
