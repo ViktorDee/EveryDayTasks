@@ -1,8 +1,10 @@
-- Meditation
-- Groceries
-- ABS and neck
-- Ozon
-- Ironing
+- Meditation **DONE**
+- Groceries **DONE**
+- ABS and neck **DONE**
+- Ozon **TOMORROW**
+- Ironing **DONE**
+- Cut nails **DONE**
+- Shave armpits **DONE**
 ## 05.03.2024
 
 - Meditation **DONE**
