@@ -1,3 +1,10 @@
+- Meditation
+- Groceries
+- ABS and neck
+- Ozon
+- Ironing
+## 05.03.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Grip workout **DONE**
