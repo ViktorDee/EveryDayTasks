@@ -1,8 +1,8 @@
-- Meditation
-- Arms and shoulders workout
-- Retinol
-- Groceries
-- Ozon
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Retinol **DONE**
+- Groceries **DONE**
+- Ozon **TOMORROW**
 ## 06.03.2024
 
 - Meditation **DONE**
