@@ -1,3 +1,10 @@
+- Meditation
+- Arms and shoulders workout
+- Retinol
+- Groceries
+- Ozon
+## 06.03.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - ABS and neck **DONE**
