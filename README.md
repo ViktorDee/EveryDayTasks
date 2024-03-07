@@ -1,9 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
-- Sber
-- Groceries
-- Read a book
+- Sber **DONE**
+- Groceries **DONE**
+- Read a book **DONE**
+- Ozon **DONE**
 ## 07.03.2024
 
 - Meditation **DONE**
