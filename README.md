@@ -1,3 +1,11 @@
+- Meditation
+- Morning routine **DONE**
+- Wash head **DONE**
+- Sber
+- Groceries
+- Read a book
+## 07.03.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Retinol **DONE**
