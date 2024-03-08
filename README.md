@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Ozon
+- Groceries
+- 
+## 08.03.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
