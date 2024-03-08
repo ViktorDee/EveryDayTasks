@@ -1,8 +1,8 @@
-- Meditation
-- Legs workout
-- Ozon
-- Groceries
-- 
+- Meditation **DONE**
+- Legs workout **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Read a book **DONE**
 ## 08.03.2024
 
 - Meditation **DONE**
