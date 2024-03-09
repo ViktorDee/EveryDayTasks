@@ -1,9 +1,9 @@
-- Meditation
-- Cinema
-- Shave beard
-- Groceries: eggs, ryazh, bananas
-- Gift to Masha
-- Ironing
+- Meditation **DONE**
+- Cinema **DONE**
+- Shave beard **DONE**
+- Groceries: eggs, ryazh, bananas **DONE**
+- Gift to Masha **DONE**
+- Ironing **DONE**
 ## 09.03.2024
 
 - Meditation **DONE**
