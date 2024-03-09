@@ -1,3 +1,11 @@
+- Meditation
+- Cinema
+- Shave beard
+- Groceries: eggs, ryazh, bananas
+- Gift to Masha
+- Ironing
+## 09.03.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Ozon **DONE**
