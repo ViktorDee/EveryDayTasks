@@ -1,3 +1,13 @@
+- Meditation
+- Morning routine **DONE**
+- Wash head **DONE**
+- Trim face **DONE**
+- Vacuum cleaning
+- Groceires
+- Have a walk
+- Clean the mirror
+## 10.03.2024
+
 - Meditation **DONE**
 - Cinema **DONE**
 - Shave beard **DONE**
