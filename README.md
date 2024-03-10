@@ -1,11 +1,11 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
 - Trim face **DONE**
-- Vacuum cleaning
-- Groceires
-- Have a walk
-- Clean the mirror
+- Vacuum cleaning **DONE**
+- Groceires **DONE**
+- Have a walk **DONE**
+- Clean the mirror **DONE**
 ## 10.03.2024
 
 - Meditation **DONE**
