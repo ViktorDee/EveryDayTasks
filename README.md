@@ -1,8 +1,9 @@
-- Meditation
-- Mezorolling
-- Chest and back workout
-- Grip workout
-- Groceries
+- Meditation **DONE**
+- Laundry **DONE**
+- Mezorolling **DONE**
+- Chest and back workout **DONE**
+- Grip workout **DONE**
+- Groceries **PARTIALLY. TOMORROW**
 ## 11.03.2024
 
 - Meditation **DONE**
