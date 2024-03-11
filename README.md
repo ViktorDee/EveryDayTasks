@@ -1,3 +1,10 @@
+- Meditation
+- Mezorolling
+- Chest and back workout
+- Grip workout
+- Groceries
+## 11.03.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
