@@ -1,3 +1,12 @@
+- Meditation
+- Groceries
+- ABS and neck workout
+- Change bedsheets
+- Ironing
+- Read a book
+- Rinse nose and throat
+## 12.03.2024
+
 - Meditation **DONE**
 - Laundry **DONE**
 - Mezorolling **DONE**
