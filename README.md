@@ -1,10 +1,10 @@
-- Meditation
-- Groceries
-- ABS and neck workout
-- Change bedsheets
-- Ironing
-- Read a book
-- Rinse nose and throat
+- Meditation **DONE**
+- Groceries **DONE**
+- ABS and neck workout **DONE**
+- Change bedsheets **DONE**
+- Ironing **DONE**
+- Read a book **TOMORROW**
+- Rinse nose and throat **DONE**
 ## 12.03.2024
 
 - Meditation **DONE**
