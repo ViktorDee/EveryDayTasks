@@ -1,3 +1,10 @@
+- Meditation
+- Wash head **DONE**
+- Arms and shoulders workout
+- Ozon
+- Read a book
+## 13.03.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - ABS and neck workout **DONE**
