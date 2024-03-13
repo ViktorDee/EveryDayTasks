@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Arms and shoulders workout
-- Ozon
-- Read a book
+- Arms and shoulders workout **DONE**
+- Ozon **DONE**
+- Read a book **DONE**
 ## 13.03.2024
 
 - Meditation **DONE**
