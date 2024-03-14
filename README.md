@@ -1,3 +1,9 @@
+- Meditation
+- Read a book
+- Have a walk
+- Laundry
+## 14.03.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Arms and shoulders workout **DONE**
