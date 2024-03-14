@@ -1,7 +1,7 @@
-- Meditation
-- Read a book
-- Have a walk
-- Laundry
+- Meditation **DONE**
+- Read a book **DONE**
+- Have a walk **FAILED**
+- Laundry **TOMORROW**
 ## 14.03.2024
 
 - Meditation **DONE**
