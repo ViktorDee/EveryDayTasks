@@ -1,3 +1,12 @@
+- Meditation
+- Legs workout
+- Morning routine **DONE**
+- Groceries
+- Shave neck
+- Laundry
+- Have a walk
+## 15.03.2024
+
 - Meditation **DONE**
 - Read a book **DONE**
 - Have a walk **FAILED**
