@@ -1,10 +1,10 @@
-- Meditation
-- Legs workout
+- Meditation **DONE**
+- Legs workout **DONE**
 - Morning routine **DONE**
-- Groceries
-- Shave neck
-- Laundry
-- Have a walk
+- Groceries **DONE**
+- Shave neck **DONE**
+- Laundry **DONE**
+- Have a walk **DONE**
 ## 15.03.2024
 
 - Meditation **DONE**
