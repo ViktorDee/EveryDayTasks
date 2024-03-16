@@ -1,7 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Grip workout
-- Have a walk
+- Trash out **FAILED**
+- Grip workout **DONE**
+- Ironing **DONE**
+- Have a walk **FAILED**
 ## 16.03.2024
 
 - Meditation **DONE**
