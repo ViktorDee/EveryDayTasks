@@ -1,3 +1,9 @@
+- Meditation
+- Wash head **DONE**
+- Grip workout
+- Have a walk
+## 16.03.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Morning routine **DONE**
