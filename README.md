@@ -1,3 +1,12 @@
+- Meditation
+- Morning routine **DONE**
+- Vacuum cleaning
+- Groceries
+- Have a walk
+- Read a book
+- Trash out
+## 17.03.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Trash out **FAILED**
