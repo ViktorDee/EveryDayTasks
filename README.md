@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Vacuum cleaning
-- Groceries
-- Have a walk
-- Read a book
-- Trash out
+- Vacuum cleaning **TOMORROW**
+- Groceries **DONE**
+- Have a walk **DONE**
+- Read a book **DONE**
+- Trash out **DONE**
 ## 17.03.2024
 
 - Meditation **DONE**
