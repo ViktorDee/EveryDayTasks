@@ -1,3 +1,10 @@
+- Meditation
+- Chest and back workout
+- Vacuum cleaning
+- Read a book
+- Memecoins
+## 18.03.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Vacuum cleaning **TOMORROW**
