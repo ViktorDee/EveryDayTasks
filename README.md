@@ -1,8 +1,9 @@
-- Meditation
-- Chest and back workout
-- Vacuum cleaning
-- Read a book
-- Memecoins
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Vacuum cleaning **DONE**
+- Read a book **DONE**
+- Memecoins **DONE**
+- Cut nails **DONE**
 ## 18.03.2024
 
 - Meditation **DONE**
