@@ -1,8 +1,9 @@
-- Meditation
-- ABS and neck workout
-- Groceries: veggies, cottage cheese, bulgur
-- Wash head
-- Meme coins
+- Meditation **DONE**
+- Have a walk **DONE**
+- ABS and neck workout **DONE**
+- Groceries: veggies, cottage cheese, bulgur **DONE**
+- Wash head **DONE**
+- Meme coins **DONE**
 ## 19.03.2024
 
 - Meditation **DONE**
