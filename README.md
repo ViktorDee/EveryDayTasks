@@ -1,7 +1,15 @@
+- Meditation
+- ABS and neck workout
+- Groceries: veggies, cottage cheese, bulgur
+- Wash head
+- Meme coins
+## 19.03.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Vacuum cleaning **DONE**
 - Read a book **DONE**
+- BHA **DONE**
 - Memecoins **DONE**
 - Cut nails **DONE**
 ## 18.03.2024
