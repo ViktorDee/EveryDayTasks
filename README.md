@@ -1,3 +1,10 @@
+- Meditation
+- Arms and shoulders workout
+- Shave wrists
+- Change bedsheets
+- Meme coins
+## 20.03.2024
+
 - Meditation **DONE**
 - Have a walk **DONE**
 - ABS and neck workout **DONE**
