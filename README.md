@@ -1,8 +1,8 @@
-- Meditation
-- Arms and shoulders workout
-- Shave wrists
-- Change bedsheets
-- Meme coins
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Shave wrists **DONE**
+- Change bedsheets **DONE**
+- Meme coins **DONE**
 ## 20.03.2024
 
 - Meditation **DONE**
