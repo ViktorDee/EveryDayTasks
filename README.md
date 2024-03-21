@@ -1,10 +1,10 @@
-- Meditation
-- Morning routine
-- Groceries
-- Shave neck
-- Shave armpits
-- Vanya call
-- Laundry
+- Meditation **DONE**
+- Morning routine **DONE**
+- Groceries **DONE**
+- Shave neck **DONE**
+- Shave armpits **DONE**
+- Vanya call **DONE**
+- Laundry **DONE**
 ## 21.03.2024
 
 - Meditation **DONE**
