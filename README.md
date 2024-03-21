@@ -1,3 +1,12 @@
+- Meditation
+- Morning routine
+- Groceries
+- Shave neck
+- Shave armpits
+- Vanya call
+- Laundry
+## 21.03.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Shave wrists **DONE**
