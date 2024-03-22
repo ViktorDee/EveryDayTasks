@@ -1,9 +1,10 @@
-- Meditation
-- Legs workout
-- Wash head
-- Groceries
-- Ironing
-- Mezorolling
+- Meditation **DONE**
+- Legs workout **DONE**
+- Wash head **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Laundry **DONE**
+- Mezorolling **DONE**
 ## 22.03.2024
 
 - Meditation **DONE**
