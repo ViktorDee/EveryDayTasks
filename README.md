@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Wash head
+- Groceries
+- Ironing
+- Mezorolling
+## 22.03.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Groceries **DONE**
