@@ -1,10 +1,10 @@
-- Meditation
-- Groceries: eggs, ryazh
-- Have a walk
-- Ironing
-- BHA
-- Read a book
-- Morning routine
+- Meditation **DONE**
+- Groceries: eggs, ryazh **DONE**
+- Have a walk **DONE**
+- Ironing **DONE**
+- BHA **DONE**
+- Read a book **FAILED**
+- Morning routine **DONE**
 ## 23.03.2024
 
 - Meditation **DONE**
