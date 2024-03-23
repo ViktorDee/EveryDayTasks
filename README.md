@@ -1,3 +1,12 @@
+- Meditation
+- Groceries: eggs, ryazh
+- Have a walk
+- Ironing
+- BHA
+- Read a book
+- Morning routine
+## 23.03.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Wash head **DONE**
