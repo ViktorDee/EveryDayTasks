@@ -1,3 +1,9 @@
+- Meditation
+- Groceries
+- Read a book
+- Have a walk
+## 24.03.2024
+
 - Meditation **DONE**
 - Groceries: eggs, ryazh **DONE**
 - Have a walk **DONE**
