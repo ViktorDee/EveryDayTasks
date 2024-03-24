@@ -1,7 +1,7 @@
-- Meditation
-- Groceries
-- Read a book
-- Have a walk
+- Meditation **DONE**
+- Groceries **DONE**
+- Read a book **DONE**
+- Have a walk **DONE**
 ## 24.03.2024
 
 - Meditation **DONE**
