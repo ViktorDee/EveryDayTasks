@@ -1,9 +1,9 @@
-- Meditation
-- Wash head
-- Groceries
-- Chest and back workout
-- Nap
-- Read a book
+- Meditation **DONE**
+- Wash head **DONE**
+- Groceries **DONE**
+- Chest and back workout **DONE**
+- Nap **DONE**
+- Read a book **FAILED**
 ## 25.03.2024
 
 - Meditation **DONE**
