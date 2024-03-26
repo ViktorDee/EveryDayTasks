@@ -1,8 +1,11 @@
-- Meditation
-- ABS and neck workout
-- Groceries
-- Read a book
-- Rinse throat
+- Meditation **DONE**
+- Delivery **DONE**
+- ABS and neck workout **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
+- Have a walk **DONE**
+- Read a book **DONE**
+- Rinse throat **DONE**
 ## 26.03.2024
 
 - Meditation **DONE**
