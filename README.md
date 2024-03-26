@@ -1,3 +1,10 @@
+- Meditation
+- ABS and neck workout
+- Groceries
+- Read a book
+- Rinse throat
+## 26.03.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Groceries **DONE**
