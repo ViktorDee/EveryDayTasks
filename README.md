@@ -1,3 +1,10 @@
+- Meditation
+- Arms and shoulders + grip workout
+- Morning routine
+- Change bedsheets
+- Pluck mid eyebrow
+## 27.03.2024
+
 - Meditation **DONE**
 - Delivery **DONE**
 - ABS and neck workout **DONE**
