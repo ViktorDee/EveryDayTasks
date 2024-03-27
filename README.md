@@ -1,8 +1,8 @@
-- Meditation
-- Arms and shoulders + grip workout
-- Morning routine
-- Change bedsheets
-- Pluck mid eyebrow
+- Meditation **DONE**
+- Arms and shoulders + grip workout **DONE**
+- Morning routine **DONE**
+- Change bedsheets **DONE**
+- Pluck mid eyebrow **DONE**
 ## 27.03.2024
 
 - Meditation **DONE**
