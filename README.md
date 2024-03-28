@@ -1,9 +1,10 @@
-- Meditation
-- Wash head
-- Haircut
-- Shave neck
-- Call grandparents
-- Vacuum cleaning
+- Meditation **DONE**
+- Wash head **DONE**
+- Laundry **DONE**
+- Haircut **DONE**
+- Shave neck **DONE**
+- Call grandparents **DONE**
+- Vacuum cleaning **DONE**
 ## 28.03.2024
 
 - Meditation **DONE**
