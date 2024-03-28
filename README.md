@@ -1,3 +1,11 @@
+- Meditation
+- Wash head
+- Haircut
+- Shave neck
+- Call grandparents
+- Vacuum cleaning
+## 28.03.2024
+
 - Meditation **DONE**
 - Arms and shoulders + grip workout **DONE**
 - Morning routine **DONE**
