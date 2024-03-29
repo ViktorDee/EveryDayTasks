@@ -1,7 +1,17 @@
+- Meditation
+- Groceries
+- Trim face
+- Ironing
+- Retinol
+- Shave armpits
+- Morning routine
+## 29.03.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Laundry **DONE**
 - Haircut **DONE**
+- Clean the mirror **DONE**
 - Shave neck **DONE**
 - Call grandparents **DONE**
 - Vacuum cleaning **DONE**
