@@ -1,10 +1,12 @@
-- Meditation
-- Groceries
-- Trim face
-- Ironing
-- Retinol
-- Shave armpits
-- Morning routine
+- Meditation **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Trim face **DONE**
+- Ironing **DONE**
+- Trash out **TOMORROW**
+- Retinol **DONE**
+- Shave armpits **DONE**
+- Morning routine **DONE**
 ## 29.03.2024
 
 - Meditation **DONE**
