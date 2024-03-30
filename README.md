@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout + chill
-- Ironing
+- Meditation **DONE**
+- Legs workout + chill **DONE**
+- Ironing **DONE**
 - Morning routine **DONE**
-- Groceries
-- Mezorolling
+- Groceries **DONE**
+- Mezorolling **FAILED**
 ## 30.03.2024
 
 - Meditation **DONE**
