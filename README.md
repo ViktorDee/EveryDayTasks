@@ -1,7 +1,8 @@
-- Meditation
-- Read a book
-- Have a walk
-- Groceries
+- Meditation **DONE**
+- Pay rent **DONE**
+- Read a book **DONE**
+- Have a walk **FAILED**
+- Groceries **FAILED**
 ## 31.03.2024
 
 - Meditation **DONE**
