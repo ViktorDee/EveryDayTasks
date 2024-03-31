@@ -1,3 +1,9 @@
+- Meditation
+- Read a book
+- Have a walk
+- Groceries
+## 31.03.2024
+
 - Meditation **DONE**
 - Legs workout + chill **DONE**
 - Ironing **DONE**
