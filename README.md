@@ -1,9 +1,10 @@
-- Meditation
-- Chest and back workout
-- Morning routine
-- Groceries
-- Read a book
-- Laundry
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Ozon **DONE**
+- Morning routine **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Laundry **FAILED**
 ## 01.04.2024
 
 - Meditation **DONE**
