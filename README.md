@@ -1,3 +1,12 @@
+- Meditation
+- Nap
+- Wash head **DONE**
+- Read a book
+- Groceries
+- ABS and neck workout
+- Stretching
+## 01.04.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Ozon **DONE**
