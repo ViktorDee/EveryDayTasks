@@ -1,10 +1,12 @@
-- Meditation
-- Nap
+- Meditation **DONE**
+- Mezorolling **DONE**
+- Nap **DONE**
+- Ozon **DONE**
 - Wash head **DONE**
-- Read a book
-- Groceries
-- ABS and neck workout
-- Stretching
+- Read a book **FAILED**
+- Groceries **DONE**
+- ABS and neck workout **DONE**
+- Stretching **DONE**
 ## 01.04.2024
 
 - Meditation **DONE**
