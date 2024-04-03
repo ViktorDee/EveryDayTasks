@@ -1,3 +1,9 @@
+- Meditation
+- Trim face
+- Arms and shoulders
+- Read a book
+## 03.04.2024
+
 - Meditation **DONE**
 - Mezorolling **DONE**
 - Nap **DONE**
@@ -7,7 +13,7 @@
 - Groceries **DONE**
 - ABS and neck workout **DONE**
 - Stretching **DONE**
-## 01.04.2024
+## 02.04.2024
 
 - Meditation **DONE**
 - Chest and back workout **DONE**
