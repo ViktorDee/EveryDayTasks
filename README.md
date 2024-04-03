@@ -1,7 +1,7 @@
-- Meditation
-- Trim face
-- Arms and shoulders
-- Read a book
+- Meditation **DONE**
+- Trim face **DONE**
+- Arms and shoulders **DONE**
+- Read a book **DONE**
 ## 03.04.2024
 
 - Meditation **DONE**
