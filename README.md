@@ -1,3 +1,11 @@
+- Meditation
+- Vacuum cleaning
+- Morning routine **DONE**
+- Groceries
+- Have a walk
+- Throw out the trash
+## 04.04.2024
+
 - Meditation **DONE**
 - Trim face **DONE**
 - Arms and shoulders **DONE**
