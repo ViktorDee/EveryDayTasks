@@ -1,9 +1,10 @@
-- Meditation
-- Vacuum cleaning
+- Meditation **DONE**
+- Vacuum cleaning **FAILED**
+- Ozon **DONE**
 - Morning routine **DONE**
-- Groceries
-- Have a walk
-- Throw out the trash
+- Groceries **DONE**
+- Have a walk **DONE**
+- Throw out the trash **DONE**
 ## 04.04.2024
 
 - Meditation **DONE**
