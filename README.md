@@ -1,9 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Legs workout
-- Change bedsheets
-- Vacuum cleaning
-- Groceries
+- Legs workout **TOMORROW**
+- Retinol **DONE**
+- Change bedsheets **DONE**
+- Vacuum cleaning **DONE**
+- Groceries **TOMORROW**
 ## 05.04.2024
 
 - Meditation **DONE**
