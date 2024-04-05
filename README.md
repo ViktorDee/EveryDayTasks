@@ -1,3 +1,11 @@
+- Meditation
+- Wash head **DONE**
+- Legs workout
+- Change bedsheets
+- Vacuum cleaning
+- Groceries
+## 05.04.2024
+
 - Meditation **DONE**
 - Vacuum cleaning **FAILED**
 - Ozon **DONE**
