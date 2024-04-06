@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Have a walk
+- Groceries
+- Read a book
+## 06.04.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Legs workout **TOMORROW**
