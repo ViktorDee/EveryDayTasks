@@ -1,8 +1,8 @@
-- Meditation
-- Legs workout
-- Have a walk
-- Groceries
-- Read a book
+- Meditation **DONE**
+- Legs workout **DONE**
+- Have a walk **FAILED**
+- Groceries **DONE**
+- Read a book **FAILED**
 ## 06.04.2024
 
 - Meditation **DONE**
