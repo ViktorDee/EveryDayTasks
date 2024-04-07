@@ -1,8 +1,9 @@
-- Meditation
-- Dad time
-- Recycling
-- Laundry
-- Groceries
+- Meditation **DONE**
+- Dad time **DONE**
+- Ozon **DONE**
+- Recycling **FAILED**
+- Laundry **DONE**
+- Groceries **DONE**
 ## 07.04.2024
 
 - Meditation **DONE**
