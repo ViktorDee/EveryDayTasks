@@ -1,3 +1,10 @@
+- Meditation
+- Dad time
+- Recycling
+- Laundry
+- Groceries
+## 07.04.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Have a walk **FAILED**
