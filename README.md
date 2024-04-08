@@ -1,3 +1,12 @@
+- Meditation
+- Chest and back workout
+- Ironing
+- Laundry
+- Wash head **DONE**
+- Morning routine **DONE**
+- Groceries
+## 08.04.2024
+
 - Meditation **DONE**
 - Dad time **DONE**
 - Ozon **DONE**
