@@ -1,10 +1,11 @@
-- Meditation
-- Chest and back workout
-- Ironing
-- Laundry
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Ironing **DONE**
+- Shave neck **DONE**
+- Laundry **DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
-- Groceries
+- Groceries **DONE**
 ## 08.04.2024
 
 - Meditation **DONE**
