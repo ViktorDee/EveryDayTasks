@@ -1,9 +1,11 @@
-- Meditation
-- Ironing
-- ABS and neck workout
-- Groceries
-- Trim face
-- Ozon
+- Meditation **DONE**
+- Ironing **DONE**
+- Cut nails **DONE**
+- Read a book **DONE**
+- ABS and neck workout **DONE**
+- Groceries **FAILED**
+- Trim face **DONE**
+- Ozon **DONE**
 ## 09.04.2024
 
 - Meditation **DONE**
