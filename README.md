@@ -1,3 +1,11 @@
+- Meditation
+- Ironing
+- ABS and neck workout
+- Groceries
+- Trim face
+- Ozon
+## 09.04.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Ironing **DONE**
