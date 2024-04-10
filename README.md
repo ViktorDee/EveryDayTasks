@@ -1,8 +1,8 @@
-- Meditation
-- Arms and shoulders workout
-- Groceries
-- Read a book
-- Throw out the trash
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Throw out the trash **DONE**
 ## 10.04.2024
 
 - Meditation **DONE**
