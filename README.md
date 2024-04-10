@@ -1,3 +1,10 @@
+- Meditation
+- Arms and shoulders workout
+- Groceries
+- Read a book
+- Throw out the trash
+## 10.04.2024
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Cut nails **DONE**
