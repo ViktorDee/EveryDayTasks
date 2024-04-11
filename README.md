@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Shave armpits **DONE**
 - Armpits dotted line **DONE**
 - Wash head **DONE**
-- Groceries
-- Laser armpits
+- Groceries **DONE**
+- Laser armpits **DONE**
 ## 11.04.2024
 
 - Meditation **DONE**
