@@ -1,3 +1,9 @@
+- Meditation
+- Legs workout
+- Vacuum cleaning
+- Morning routine
+## 12.04.2024
+
 - Meditation **DONE**
 - Shave armpits **DONE**
 - Armpits dotted line **DONE**
