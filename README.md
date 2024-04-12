@@ -1,7 +1,8 @@
-- Meditation
-- Legs workout
-- Vacuum cleaning
-- Morning routine
+- Meditation **DONE**
+- Legs workout **DONE**
+- Clean the mirror **DONE**
+- Vacuum cleaning **DONE**
+- Morning routine **DONE**
 ## 12.04.2024
 
 - Meditation **DONE**
