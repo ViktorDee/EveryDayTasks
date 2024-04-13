@@ -1,9 +1,12 @@
-- Meditation
+- Meditation **DONE**
 - Rinse nose **DONE**
 - Congratulate Masha **DONE**
 - Read a book **DONE**
-- Grip workout
-- Knees conditioning
+- Grip workout **DONE**
+- Groceries **DONE**
+- Shave neck **DONE**
+- Retinol **DONE**
+- Knees conditioning **DONE**
 ## 13.04.2024
 
 - Meditation **DONE**
