@@ -1,3 +1,11 @@
+- Meditation
+- Rinse nose **DONE**
+- Congratulate Masha **DONE**
+- Read a book **DONE**
+- Grip workout
+- Knees conditioning
+## 13.04.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Clean the mirror **DONE**
