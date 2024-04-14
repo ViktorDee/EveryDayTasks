@@ -1,3 +1,11 @@
+- Meditation
+- Morning routine
+- Wash head
+- Read a book
+- Ozon
+- Trim face
+## 14.04.2024
+
 - Meditation **DONE**
 - Rinse nose **DONE**
 - Congratulate Masha **DONE**
