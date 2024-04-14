@@ -1,9 +1,10 @@
-- Meditation
-- Morning routine
-- Wash head
-- Read a book
-- Ozon
-- Trim face
+- Meditation **DONE**
+- Morning routine **DONE**
+- Mezorolling **DONE**
+- Wash head **DONE**
+- Read a book **DONE**
+- Ozon **DONE**
+- Trim face **DONE**
 ## 14.04.2024
 
 - Meditation **DONE**
