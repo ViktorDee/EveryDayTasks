@@ -1,8 +1,8 @@
-- Meditation
-- Chest and back workout
-- Read a book
-- Groceries
-- Ironing
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Read a book **FAILED**
+- Groceries **DONE**
+- Ironing **DONE**
 ## 15.04.2024
 
 - Meditation **DONE**
