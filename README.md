@@ -1,3 +1,10 @@
+- Meditation
+- Chest and back workout
+- Read a book
+- Groceries
+- Ironing
+## 15.04.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Mezorolling **DONE**
