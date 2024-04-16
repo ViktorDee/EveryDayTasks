@@ -1,3 +1,12 @@
+- Meditation
+- ABS and neck + grip workout
+- Trash out
+- Have a walk
+- Groceries
+- Ozon
+- Read a book
+## 16.04.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Read a book **FAILED**
