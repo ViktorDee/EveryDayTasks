@@ -1,10 +1,10 @@
-- Meditation
-- ABS and neck + grip workout
-- Trash out
-- Have a walk
-- Groceries
-- Ozon
-- Read a book
+- Meditation **DONE**
+- ABS and neck + grip workout **DONE**
+- Trash out **DONE**
+- Have a walk **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
+- Read a book **DONE**
 ## 16.04.2024
 
 - Meditation **DONE**
