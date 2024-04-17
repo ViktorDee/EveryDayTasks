@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Read a book
+- Wash head **DONE**
+- Shave groin
+- Ironing
+## 17.04.2024
+
 - Meditation **DONE**
 - ABS and neck + grip workout **DONE**
 - Trash out **DONE**
