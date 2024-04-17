@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Read a book
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **FAILED**
 - Wash head **DONE**
-- Shave groin
-- Ironing
+- Shave groin **DONE**
+- Ironing **DONE**
 ## 17.04.2024
 
 - Meditation **DONE**
