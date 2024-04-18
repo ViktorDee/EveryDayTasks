@@ -1,9 +1,9 @@
-- Meditation
-- Morning routine
-- Groceries
-- Meat store call
-- Read a book
-- Vacuum cleaning
+- Meditation **DONE**
+- Morning routine **DONE**
+- Groceries **DONE**
+- Meat store call **DONE**
+- Read a book **FAILED**
+- Vacuum cleaning **FAILED**
 ## 18.04.2024
 
 - Meditation **DONE**
