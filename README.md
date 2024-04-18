@@ -1,3 +1,11 @@
+- Meditation
+- Morning routine
+- Groceries
+- Meat store call
+- Read a book
+- Vacuum cleaning
+## 18.04.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Read a book **FAILED**
