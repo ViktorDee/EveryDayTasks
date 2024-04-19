@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Groceries
+- Read a book
+- Change bedsheets
+- Shave neck
+## 19.04.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Groceries **DONE**
