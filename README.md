@@ -1,9 +1,20 @@
 - Meditation
-- Legs workout
+- Help Pasha
 - Groceries
-- Read a book
-- Change bedsheets
-- Shave neck
+- Wash head **DONE**
+- Vacuum cleaning
+- Wipe some dust
+- A bit of ABS
+- Grip workout
+- Groceries: cottage cheese
+## 20.04.2024
+
+- Meditation **DONE**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Change bedsheets **DONE**
+- Shave neck **FAILED**
 ## 19.04.2024
 
 - Meditation **DONE**
