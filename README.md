@@ -1,12 +1,12 @@
-- Meditation
-- Help Pasha
-- Groceries
+- Meditation **DONE**
+- Help Pasha **DONE**
+- Ozon **DONE**
 - Wash head **DONE**
-- Vacuum cleaning
-- Wipe some dust
-- A bit of ABS
-- Grip workout
-- Groceries: cottage cheese
+- Vacuum cleaning **TOMORROW**
+- Wipe some dust **DONE**
+- A bit of ABS **TOMORROW**
+- Grip workout **DONE**
+- Groceries: cottage cheese **DONE**
 ## 20.04.2024
 
 - Meditation **DONE**
