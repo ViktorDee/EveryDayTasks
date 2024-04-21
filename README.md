@@ -1,8 +1,8 @@
-- Meditation
-- A bit of ABS
-- Vacuum cleaning
-- Read a book
-- Shave neck and trip face
+- Meditation **DONE**
+- A bit of ABS **DONE**
+- Vacuum cleaning **DONE**
+- Read a book **DONE**
+- Shave neck and trip face **DONE**
 ## 21.04.2024
 
 - Meditation **DONE**
