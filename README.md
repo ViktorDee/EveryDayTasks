@@ -1,3 +1,10 @@
+- Meditation
+- A bit of ABS
+- Vacuum cleaning
+- Read a book
+- Shave neck and trip face
+## 21.04.2024
+
 - Meditation **DONE**
 - Help Pasha **DONE**
 - Ozon **DONE**
