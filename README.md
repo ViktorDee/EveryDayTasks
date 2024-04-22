@@ -1,3 +1,11 @@
+- Meditation
+- Morning routine
+- Chest and back workout
+- Groceries
+- Grip workout
+- Read a book
+## 22.04.2024
+
 - Meditation **DONE**
 - A bit of ABS **DONE**
 - Vacuum cleaning **DONE**
