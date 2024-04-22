@@ -1,9 +1,9 @@
-- Meditation
-- Morning routine
-- Chest and back workout
-- Groceries
-- Grip workout
-- Read a book
+- Meditation **DONE**
+- Morning routine **DONE**
+- Chest and back workout **DONE**
+- Groceries **DONE**
+- Grip workout **DONE**
+- Read a book **DONE**
 ## 22.04.2024
 
 - Meditation **DONE**
