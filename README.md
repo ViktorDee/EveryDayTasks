@@ -1,3 +1,10 @@
+- Meditation
+- ABS and neck workout
+- Wash head **DONE**
+- Help Pasha
+- Read a book
+## 23.04.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Chest and back workout **DONE**
