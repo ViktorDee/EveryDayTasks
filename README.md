@@ -1,8 +1,8 @@
-- Meditation
-- ABS and neck workout
+- Meditation **DONE**
+- ABS and neck workout **DONE**
 - Wash head **DONE**
-- Help Pasha
-- Read a book
+- Help Pasha **FAILED**
+- Read a book **DONE**
 ## 23.04.2024
 
 - Meditation **DONE**
