@@ -1,3 +1,13 @@
+- Meditation
+- No music day
+- Arms and shoulders workout
+- Groceries
+- Morning routine
+- Read a book
+- Shave fingers
+- Laundry
+## 24.04.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Wash head **DONE**
