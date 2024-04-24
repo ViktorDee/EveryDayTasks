@@ -1,11 +1,11 @@
-- Meditation
-- No music day
-- Arms and shoulders workout
-- Groceries
-- Morning routine
-- Read a book
-- Shave fingers
-- Laundry
+- Meditation **DONE**
+- No music day **DONE**
+- Arms and shoulders workout **DONE**
+- Groceries **DONE**
+- Morning routine **DONE**
+- Read a book **FAILED**
+- Shave fingers **DONE**
+- Laundry **DONE**
 ## 24.04.2024
 
 - Meditation **DONE**
