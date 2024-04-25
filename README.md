@@ -1,8 +1,9 @@
-- Meditation
-- Sarana time
-- Ironing
-- Wash head
-- Read a book
+- Meditation **DONE**
+- Sarana time **DONE**
+- Ironing **FAILED**
+- Ozon **DONE**
+- Wash head **DONE**
+- Read a book **FAILED**
 ## 25.04.2024
 
 - Meditation **DONE**
