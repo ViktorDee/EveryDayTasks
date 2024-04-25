@@ -1,3 +1,10 @@
+- Meditation
+- Sarana time
+- Ironing
+- Wash head
+- Read a book
+## 25.04.2024
+
 - Meditation **DONE**
 - No music day **DONE**
 - Arms and shoulders workout **DONE**
