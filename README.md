@@ -1,9 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Groceries
-- Read a book
-- Ironing
-- Hair masks research
+- Groceries **DONE**
+- Legs workout **DONE**
+- Read a book **DONE**
+- Ironing **DONE**
+- Hair masks research **DONE**
 ## 26.04.2024
 
 - Meditation **DONE**
