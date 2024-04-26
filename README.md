@@ -1,3 +1,11 @@
+- Meditation
+- Morning routine **DONE**
+- Groceries
+- Read a book
+- Ironing
+- Hair masks research
+## 26.04.2024
+
 - Meditation **DONE**
 - Sarana time **DONE**
 - Ironing **FAILED**
