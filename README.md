@@ -1,3 +1,13 @@
+- Meditation
+- Change bedsheets
+- Clean the mirror
+- Shave neck
+- Vacuum cleaning
+- Clean the bath
+- Grip workout
+- Time with Rita
+## 27.04.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Groceries **DONE**
