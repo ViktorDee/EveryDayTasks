@@ -1,11 +1,12 @@
-- Meditation
-- Change bedsheets
-- Clean the mirror
-- Shave neck
-- Vacuum cleaning
-- Clean the bath
-- Grip workout
-- Time with Rita
+- Meditation **DONE**
+- Change bedsheets **TOMORROW**
+- Clean some balcony **DONE**
+- Clean the mirror **DONE**
+- Shave neck **DONE**
+- Vacuum cleaning **DONE**
+- Clean the bath **DONE**
+- Grip workout **DONE**
+- Time with Rita **DONE**
 ## 27.04.2024
 
 - Meditation **DONE**
