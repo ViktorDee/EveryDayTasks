@@ -1,13 +1,12 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
 - Morning rotuine **DONE**
-- Groceries
-- Ironing
-- Ozon
+- Groceries **DONE**
+- Ironing **DONE**
 - Shave face **DONE**
-- Change bedsheets 
+- Change bedsheets **DONE**
 - Shave armpits **DONE**
-- Mezorolling
+- Mezorolling **DONE**
 ## 28.04.2024
 
 - Meditation **DONE**
