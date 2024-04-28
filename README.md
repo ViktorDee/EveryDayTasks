@@ -1,3 +1,15 @@
+- Meditation
+- Wash head **DONE**
+- Morning rotuine **DONE**
+- Groceries
+- Ironing
+- Ozon
+- Shave face **DONE**
+- Change bedsheets 
+- Shave armpits **DONE**
+- Mezorolling
+## 28.04.2024
+
 - Meditation **DONE**
 - Change bedsheets **TOMORROW**
 - Clean some balcony **DONE**
