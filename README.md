@@ -1,8 +1,8 @@
-- Meditation
-- Groceries: chicken
-- Chest and back workout
-- Shave armpits
-- Grip workout
+- Meditation **DONE**
+- Groceries: chicken, bananas **DONE**
+- Chest and back workout **DONE**
+- Shave armpits **DONE
+- Grip workout **TOMORROW**
 ## 29.04.2024
 
 - Meditation **DONE**
