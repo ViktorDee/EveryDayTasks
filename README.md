@@ -1,3 +1,10 @@
+- Meditation
+- Groceries: chicken
+- Chest and back workout
+- Shave armpits
+- Grip workout
+## 29.04.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Morning rotuine **DONE**
