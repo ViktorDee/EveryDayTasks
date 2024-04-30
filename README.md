@@ -1,3 +1,12 @@
+- Meditation
+- Morning routine **DONE**
+- Shave armpits
+- ABS and neck workout
+- Grip workout
+- Retinol
+- Read a book
+## 30.04.2024
+
 - Meditation **DONE**
 - Groceries: chicken, bananas **DONE**
 - Chest and back workout **DONE**
