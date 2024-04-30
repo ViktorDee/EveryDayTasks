@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Shave armpits
-- ABS and neck workout
-- Grip workout
-- Retinol
-- Read a book
+- Shave armpits **DONE**
+- ABS and neck workout **DONE**
+- Grip workout **DONE**
+- Retinol **DONE**
+- Read a book **FAILED**
 ## 30.04.2024
 
 - Meditation **DONE**
