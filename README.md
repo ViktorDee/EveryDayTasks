@@ -1,3 +1,9 @@
+- Meditation
+- Arms and shoulders workout
+- Buy sunglasses
+- Wash head **DONE**
+## 01.05.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Shave armpits **DONE**
