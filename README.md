@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Groceries
-- Legs, grip
-- Shave neck
+- Groceries **DONE**
+- Legs, grip **DONE**
+- Shave neck **DONE**
 ## 02.05.2024
 
 - Meditation **DONE**
