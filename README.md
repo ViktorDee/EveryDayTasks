@@ -1,6 +1,13 @@
 - Meditation
-- Arms and shoulders workout
-- Buy sunglasses
+- Morning routine **DONE**
+- Groceries
+- Legs, grip
+- Shave neck
+## 02.05.2024
+
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Buy sunglasses **DONE**
 - Wash head **DONE**
 ## 01.05.2024
 
