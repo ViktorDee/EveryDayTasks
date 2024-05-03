@@ -1,3 +1,9 @@
+- Meditation
+- Wash head **DONE**
+- Time with Pasha
+- Eat well
+## 03.05.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Groceries **DONE**
