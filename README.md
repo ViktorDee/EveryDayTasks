@@ -1,7 +1,14 @@
 - Meditation
+- Laundry
+- Drink more liquid
+- Read a book
+- Ultimate shower wash
+## 04.05.2024
+
+- Meditation **FAILED**
 - Wash head **DONE**
 - Time with Pasha
-- Eat well
+- Eat well **FAILED**
 ## 03.05.2024
 
 - Meditation **DONE**
