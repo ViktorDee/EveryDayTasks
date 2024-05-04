@@ -1,8 +1,11 @@
-- Meditation
-- Laundry
-- Drink more liquid
-- Read a book
-- Ultimate shower wash
+- Meditation **DONE**
+- Laundry **DONE**
+- Delivery **DONE**
+- Groceries **DONE**
+- Cut nails **DONE**
+- Drink more liquid **DONE**
+- Read a book **FAILED**
+- Ultimate shower wash **DONE**
 ## 04.05.2024
 
 - Meditation **FAILED**
