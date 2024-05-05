@@ -1,3 +1,12 @@
+- Meditation
+- Morning routine **DONE**
+- Ironing
+- Haircut appointment
+- Vacuum cleaning
+- Groceries
+- Cut nails
+## 05.05.2024
+
 - Meditation **DONE**
 - Laundry **DONE**
 - Delivery **DONE**
