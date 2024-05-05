@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Ironing
-- Haircut appointment
-- Vacuum cleaning
-- Groceries
-- Cut nails
+- Ironing **DONE**
+- Haircut appointment**DONE**
+- Vacuum cleaning **FAILED**
+- Groceries **DONE**
+- Cut nails **DONE**
 ## 05.05.2024
 
 - Meditation **DONE**
