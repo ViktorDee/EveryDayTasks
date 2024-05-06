@@ -1,3 +1,11 @@
+- Meditation
+- Wash head
+- Change bedsheets
+- Vacuum cleaning
+- Haircut
+- Read a book
+## 06.05.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Ironing **DONE**
