@@ -1,9 +1,11 @@
-- Meditation
-- Wash head
-- Change bedsheets
-- Vacuum cleaning
-- Haircut
-- Read a book
+- Meditation **DONE**
+- Groceries **DONE**
+- Wash head **DONE**
+- Change bedsheets **DONE**
+- Edit pics **DONE**
+- Vacuum cleaning **DONE**
+- Haircut **DONE**
+- Read a book **FAILED**
 ## 06.05.2024
 
 - Meditation **DONE**
