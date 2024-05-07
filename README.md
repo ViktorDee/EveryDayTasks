@@ -1,10 +1,11 @@
-- Meditation
-- ABS and neck
-- Legs conditioning
-- Shave neck
-- Morning routine
-- Read a book
-- Laundry
+- Meditation **DONE**
+- ABS and neck **DONE**
+- Legs conditioning **DONE**
+- Shave neck **DONE**
+- Morning routine **DONE**
+- Read a book **DONE**
+- Laundry **DONE**
+- Ozon **DONE**
 ## 07.05.2024
 
 - Meditation **DONE**
