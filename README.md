@@ -1,3 +1,12 @@
+- Meditation
+- ABS and neck
+- Legs conditioning
+- Shave neck
+- Morning routine
+- Read a book
+- Laundry
+## 07.05.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Wash head **DONE**
