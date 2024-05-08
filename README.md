@@ -1,3 +1,11 @@
+- Meditation
+- Shoulders workout
+- Pasha time
+- Groceries
+- Ironing
+- Nap
+## 08.05.2024
+
 - Meditation **DONE**
 - ABS and neck **DONE**
 - Legs conditioning **DONE**
