@@ -1,9 +1,9 @@
-- Meditation
-- Shoulders workout
-- Pasha time
-- Groceries
-- Ironing
-- Nap
+- Meditation **DONE**
+- Shoulders workout **DONE**
+- Pasha time **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Nap **DONE**
 ## 08.05.2024
 
 - Meditation **DONE**
