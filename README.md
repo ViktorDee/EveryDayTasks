@@ -1,3 +1,12 @@
+- Meditation
+- Wash head
+- Morning routine
+- Have a walk
+- Read a book
+- Legs stretching
+- Groceries
+## 09.05.2024
+
 - Meditation **DONE**
 - Shoulders workout **DONE**
 - Pasha time **DONE**
