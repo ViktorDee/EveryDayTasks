@@ -1,10 +1,10 @@
-- Meditation
-- Wash head
-- Morning routine
-- Have a walk
-- Read a book
-- Legs stretching
-- Groceries
+- Meditation **DONE**
+- Wash head **DONE**
+- Morning routine **DONE**
+- Have a walk **DONE**
+- Read a book **FAILED**
+- Legs stretching **DONE**
+- Groceries **DONE**
 ## 09.05.2024
 
 - Meditation **DONE**
