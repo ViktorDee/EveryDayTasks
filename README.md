@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
-- Read a book
-- Groceries
-- Laundry
-- Change the water filter
+- Meditation **DONE**
+- Legs workout **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Change the water filter **DONE**
 ## 10.05.2024
 
 - Meditation **DONE**
