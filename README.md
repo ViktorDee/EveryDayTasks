@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Read a book
+- Groceries
+- Laundry
+- Change the water filter
+## 10.05.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
