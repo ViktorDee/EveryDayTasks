@@ -1,8 +1,9 @@
-- Meditation
-- Groceries
-- Ironing
-- Have a walk
+- Meditation **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Have a walk **DONE**
 - Wash head **DONE**
+- Grip workout **DONE**
 - Morning routine **DONE**
 ## 11.05.2024
 
