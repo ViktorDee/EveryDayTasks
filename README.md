@@ -1,3 +1,11 @@
+- Meditation
+- Groceries
+- Ironing
+- Have a walk
+- Wash head **DONE**
+- Morning routine **DONE**
+## 11.05.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Read a book **DONE**
