@@ -1,11 +1,12 @@
-- Meditation
-- Groceries
-- Head massage: long
-- Shave fingers
-- Change bedsheets
-- Vietnamese cafe
-- Butt stretch
-- Retinol
+- Meditation **DONE**
+- Groceries **DONE**
+- Head massage: long **DONE**
+- Shave fingers **DONE**
+- Change bedsheets **DONE**
+- Vietnamese cafe **FAILED**
+- Recycling **FAILED**
+- Butt stretch **DONE**
+- Retinol **DONE**
 ## 12.05.2024
 
 - Meditation **DONE**
