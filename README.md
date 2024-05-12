@@ -1,3 +1,13 @@
+- Meditation
+- Groceries
+- Head massage: long
+- Shave fingers
+- Change bedsheets
+- Vietnamese cafe
+- Butt stretch
+- Retinol
+## 12.05.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Ironing **DONE**
