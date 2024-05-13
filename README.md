@@ -1,3 +1,11 @@
+- Meditation
+- Chest and back workout
+- Groceries
+- Morning routine
+- Butt stretch
+- Knees conditioning
+## 13.05.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Head massage: long **DONE**
