@@ -1,9 +1,9 @@
-- Meditation
-- Chest and back workout
-- Groceries
-- Morning routine
-- Butt stretch
-- Knees conditioning
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Groceries **DONE**
+- Morning routine **DONE**
+- Butt stretch **DONE**
+- Knees conditioning **DONE** 
 ## 13.05.2024
 
 - Meditation **DONE**
