@@ -1,3 +1,12 @@
+- Meditation
+- ABS and neck workout
+- Vacuum cleaning
+- Groceries
+- Wash head
+- Ozon
+- Mezorolling
+## 14.05.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Groceries **DONE**
