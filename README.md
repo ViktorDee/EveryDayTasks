@@ -1,10 +1,10 @@
-- Meditation
-- ABS and neck workout
-- Vacuum cleaning
-- Groceries
-- Wash head
-- Ozon
-- Mezorolling
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Vacuum cleaning **DONE**
+- Groceries **DONE**
+- Wash head **DONE**
+- Ozon **DONE**
+- Mezorolling **DONE**
 ## 14.05.2024
 
 - Meditation **DONE**
