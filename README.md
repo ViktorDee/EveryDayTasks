@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Shave neck
-- Read a book
-- Laundry
-- Groceries
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Shave neck **DONE**
+- Read a book **DONE** 
+- Laundry **DONE**
+- Groceries **DONE**
 ## 15.05.2024
 
 - Meditation **DONE**
