@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Shave neck
+- Read a book
+- Laundry
+- Groceries
+## 15.05.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Vacuum cleaning **DONE**
