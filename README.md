@@ -1,3 +1,9 @@
+- Meditation
+- Shave face **DONE**
+- Butt + quads stretch
+- Ironing
+## 16.05.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Shave neck **DONE**
