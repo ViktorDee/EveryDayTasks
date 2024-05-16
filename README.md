@@ -1,7 +1,8 @@
-- Meditation
+- Meditation **DONE**
+- Have a walk **DONE**
 - Shave face **DONE**
-- Butt + quads stretch
-- Ironing
+- Butt + quads stretch **DONE**
+- Ironing **TOMORROW**
 ## 16.05.2024
 
 - Meditation **DONE**
