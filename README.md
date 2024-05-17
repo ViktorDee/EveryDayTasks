@@ -1,7 +1,7 @@
-- Meditation
-- Legs workout
-- Ironing
-- Groceries
+- Meditation **DONE**
+- Legs workout **DONE**
+- Ironing **DONE**
+- Groceries **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
 ## 17.05.2024
