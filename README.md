@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Ironing
+- Groceries
+- Morning routine **DONE**
+- Wash head **DONE**
+## 17.05.2024
+
 - Meditation **DONE**
 - Have a walk **DONE**
 - Shave face **DONE**
