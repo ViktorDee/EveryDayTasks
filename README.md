@@ -1,3 +1,10 @@
+- Meditation
+- Walk with Masha
+- Read a book
+- Clean the mirror
+- Groceries
+## 18.05.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Ironing **DONE**
