@@ -1,8 +1,8 @@
-- Meditation
-- Walk with Masha
-- Read a book
-- Clean the mirror
-- Groceries
+- Meditation **DONE**
+- Walk with Masha **DONE**
+- Read a book **FAILED**
+- Clean the mirror **DONE**
+- Groceries **FAILED**
 ## 18.05.2024
 
 - Meditation **DONE**
