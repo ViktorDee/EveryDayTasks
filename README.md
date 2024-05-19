@@ -1,10 +1,10 @@
-- Meditation
-- Read a book
-- Recycling
-- Pasha time
+- Meditation **DONE**
+- Read a book **FAILED**
+- Recycling **DONE**
+- Pasha time **DONE**
 - Morning routine **DONE**
-- Groceries
-- Grip workout
+- Groceries **DONE**
+- Grip workout **DONE**
 ## 19.05.2024
 
 - Meditation **DONE**
