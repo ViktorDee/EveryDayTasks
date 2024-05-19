@@ -1,3 +1,12 @@
+- Meditation
+- Read a book
+- Recycling
+- Pasha time
+- Morning routine **DONE**
+- Groceries
+- Grip workout
+## 19.05.2024
+
 - Meditation **DONE**
 - Walk with Masha **DONE**
 - Read a book **FAILED**
