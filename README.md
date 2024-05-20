@@ -1,3 +1,10 @@
+- Meditation
+- Wash head **DONE**
+- Chest and back workout
+- Read a book
+- Cut nails
+## 20.05.2024
+
 - Meditation **DONE**
 - Read a book **FAILED**
 - Recycling **DONE**
