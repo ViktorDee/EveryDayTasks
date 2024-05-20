@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Chest and back workout
-- Read a book
-- Cut nails
+- Chest and back workout **DONE**
+- Read a book **DONE**
+- Cut nails **DONE**
 ## 20.05.2024
 
 - Meditation **DONE**
