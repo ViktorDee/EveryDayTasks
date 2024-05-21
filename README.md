@@ -1,3 +1,12 @@
+- Meditation
+- Morning routine **DONE**
+- ABS and neck workout
+- Groceries
+- Change bedsheets
+- Ozon
+- Read a book
+## 21.05.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Chest and back workout **DONE**
