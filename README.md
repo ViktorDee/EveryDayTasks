@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- ABS and neck workout
-- Groceries
-- Change bedsheets
-- Ozon
-- Read a book
+- ABS and neck workout **DONE**
+- Groceries **DONE**
+- Change bedsheets **DONE**
+- Ozon **DONE**
+- Read a book **FAILED**
 ## 21.05.2024
 
 - Meditation **DONE**
