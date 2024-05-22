@@ -1,3 +1,11 @@
+- Meditation
+- Ozon
+- Arms and shoulders workout
+- Read a book
+- Knees conditioning
+- Laundry
+## 22.05.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - ABS and neck workout **DONE**
