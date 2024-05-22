@@ -1,9 +1,11 @@
-- Meditation
-- Ozon
-- Arms and shoulders workout
-- Read a book
-- Knees conditioning
-- Laundry
+- Meditation **DONE**
+- Shave neck **DONE**
+- Ozon **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **DONE**
+- Knees conditioning **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
 ## 22.05.2024
 
 - Meditation **DONE**
