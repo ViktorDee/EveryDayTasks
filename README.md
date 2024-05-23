@@ -1,12 +1,12 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
-- Groceries
-- Vacuum cleaning
-- Ironing
-- Trim face
-- Shave armpits
-- Ozon
+- Groceries **DONE**
+- Vacuum cleaning **DONE**
+- Ironing **DONE**
+- Trim face **DONE**
+- Shave armpits **DONE**
+- Ozon **DONE**
 ## 23.05.2024
 
 - Meditation **DONE**
