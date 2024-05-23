@@ -1,3 +1,14 @@
+- Meditation
+- Morning routine **DONE**
+- Wash head **DONE**
+- Groceries
+- Vacuum cleaning
+- Ironing
+- Trim face
+- Shave armpits
+- Ozon
+## 23.05.2024
+
 - Meditation **DONE**
 - Shave neck **DONE**
 - Ozon **DONE**
