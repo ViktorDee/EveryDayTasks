@@ -1,7 +1,7 @@
-- Meditation
-- Groceries: onions
-- Read a book
-- Legs workout
+- Meditation **DONE**
+- Groceries: onions **FAILED**
+- Read a book **FAILED**
+- Legs workout **DONE**
 ## 24.05.2024
 
 - Meditation **DONE**
