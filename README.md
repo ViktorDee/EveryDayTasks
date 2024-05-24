@@ -1,3 +1,9 @@
+- Meditation
+- Groceries: onions
+- Read a book
+- Legs workout
+## 24.05.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Wash head **DONE**
