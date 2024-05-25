@@ -1,3 +1,10 @@
+- Meditation
+- Wash head **DONE**
+- Groceries
+- Read a book
+- Mezorolling
+## 25.05.2024
+
 - Meditation **DONE**
 - Groceries: onions **FAILED**
 - Read a book **FAILED**
