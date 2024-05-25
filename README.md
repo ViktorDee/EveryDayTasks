@@ -1,8 +1,11 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Groceries
-- Read a book
-- Mezorolling
+- Groceries **DONE**
+- Have a walk **DONE**
+- Ozon **DONE**
+- Buy socks **DONE**
+- Read a book **DONE**
+- Mezorolling **DONE**
 ## 25.05.2024
 
 - Meditation **DONE**
