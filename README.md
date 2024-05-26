@@ -1,3 +1,10 @@
+- Meditation
+- Morning routine
+- Take the book back
+- Grip workout
+- Laundry
+## 26.05.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Groceries **DONE**
