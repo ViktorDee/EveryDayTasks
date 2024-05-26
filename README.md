@@ -1,8 +1,8 @@
-- Meditation
-- Morning routine
-- Take the book back
-- Grip workout
-- Laundry
+- Meditation **DONE**
+- Morning routine **DONE**
+- Take the book back **DONE**
+- Grip workout **DONE**
+- Laundry **DONE**
 ## 26.05.2024
 
 - Meditation **DONE**
