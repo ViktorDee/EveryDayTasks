@@ -1,3 +1,10 @@
+- Meditation
+- Chest and back workout
+- Trim face
+- Read a book
+- Shave neck
+## 27.05.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Take the book back **DONE**
