@@ -1,8 +1,9 @@
-- Meditation
-- Chest and back workout
-- Trim face
-- Read a book
-- Shave neck
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Trim face **FAILED**
+- Read a book **DONE**
+- Shave neck **DONE**
+- Irony **DONE**
 ## 27.05.2024
 
 - Meditation **DONE**
