@@ -1,3 +1,13 @@
+- Meditation
+- Ozon
+- Groceries
+- ABS and neck workout
+- Wash head **DONE**
+- Knees conditioning
+- BHA
+- Trim face
+## 28.05.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Trim face **FAILED**
