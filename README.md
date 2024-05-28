@@ -1,11 +1,11 @@
-- Meditation
-- Ozon
-- Groceries
-- ABS and neck workout
+- Meditation **DONE**
+- Ozon **TOMORROW**
+- Groceries **DONE**
+- ABS and neck workout **DONE**
 - Wash head **DONE**
-- Knees conditioning
-- BHA
-- Trim face
+- Knees conditioning **DONE**
+- BHA **DONE**
+- Trim face **FAILED**
 ## 28.05.2024
 
 - Meditation **DONE**
