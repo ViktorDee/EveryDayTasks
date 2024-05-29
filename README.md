@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Trim face **DONE**
-- Ozon
-- Arms and shoulders workout
-- Shave armpits
-- Grip workout
+- Ozon **DONE**
+- Arms and shoulders workout **DONE**
+- Shave armpits **DONE**
+- Grip workout **FAILED**
 ## 29.05.2024
 
 - Meditation **DONE**
