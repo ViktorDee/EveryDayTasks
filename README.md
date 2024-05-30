@@ -1,3 +1,9 @@
+- Meditation
+- Morning routine
+- Rinse nose
+- Read a book
+## 30.05.2024
+
 - Meditation **DONE**
 - Trim face **DONE**
 - Ozon **DONE**
