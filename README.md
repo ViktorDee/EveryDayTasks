@@ -1,7 +1,10 @@
-- Meditation
-- Morning routine
-- Rinse nose
-- Read a book
+- Meditation **DONE**
+- Ozon **DONE**
+- Rent **DONE**
+- Water/electricity reading **DONE**
+- Morning routine **DONE**
+- Rinse nose **FAILED**
+- Read a book **DONE**
 ## 30.05.2024
 
 - Meditation **DONE**
