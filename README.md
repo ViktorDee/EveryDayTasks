@@ -1,8 +1,8 @@
-- Meditation
-- Legs workout
+- Meditation **DONE**
+- Legs workout **FAILED**
 - Wash head **DONE**
-- Groceries
-- Read a book
+- Groceries **DONE**
+- Read a book **FAILED**
 ## 31.05.2024
 
 - Meditation **DONE**
