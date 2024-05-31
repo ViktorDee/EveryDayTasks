@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Wash head **DONE**
+- Groceries
+- Read a book
+## 31.05.2024
+
 - Meditation **DONE**
 - Ozon **DONE**
 - Rent **DONE**
