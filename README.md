@@ -1,15 +1,19 @@
-- Meditation
-- Stretching
-- Groceries
-- Read a book
-- Change bedsheets
-- Ironing
-- Generolon
+- Meditation **DONE**
+- Stretching **DONE**
+- Groceries **DONE**
+- Cut nails **DONE**
+- Grip workout **DONE**
+- Mezorolling **DONE**
+- Read a book **DONE**
+- Change bedsheets **DONE**
+- Ironing **FAILED**
+- Generolon **DONE**
 ## 01.05.2024
 
 - Meditation **DONE**
 - Legs workout **FAILED**
 - Wash head **DONE**
+- BHA **DONE**
 - Groceries **DONE**
 - Read a book **FAILED**
 ## 31.05.2024
