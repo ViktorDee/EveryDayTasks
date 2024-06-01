@@ -1,3 +1,12 @@
+- Meditation
+- Stretching
+- Groceries
+- Read a book
+- Change bedsheets
+- Ironing
+- Generolon
+## 01.05.2024
+
 - Meditation **DONE**
 - Legs workout **FAILED**
 - Wash head **DONE**
