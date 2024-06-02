@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Clean the mirror **DONE**
-- Vacuum cleaning
-- Shave fingers
-- Read a book
+- Vacuum cleaning **TOMORROW**
+- Shave fingers **DONE**
+- Read a book **FAILED**
 ## 02.05.2024
 
 - Meditation **DONE**
