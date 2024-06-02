@@ -1,3 +1,10 @@
+- Meditation
+- Clean the mirror **DONE**
+- Vacuum cleaning
+- Shave fingers
+- Read a book
+## 02.05.2024
+
 - Meditation **DONE**
 - Stretching **DONE**
 - Groceries **DONE**
