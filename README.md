@@ -1,10 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Ozon
-- Groceries
-- Vacuum cleaning
-- Read a book
-- Clean kitchen sink
+- Ozon **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **DONE**
+- Read a book **FAILED**
+- Clean kitchen sink **DONE**
 ## 03.05.2024
 
 - Meditation **DONE**
