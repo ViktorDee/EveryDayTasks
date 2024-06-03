@@ -1,3 +1,12 @@
+- Meditation
+- Wash head **DONE**
+- Ozon
+- Groceries
+- Vacuum cleaning
+- Read a book
+- Clean kitchen sink
+## 03.05.2024
+
 - Meditation **DONE**
 - Clean the mirror **DONE**
 - Vacuum cleaning **TOMORROW**
