@@ -1,3 +1,11 @@
+- Meditation
+- ABS and neck workout
+- Read a book
+- Groceries
+- Shave neck **DONE**
+- Trim face **DONE**
+## 04.06.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Ozon **DONE**
@@ -5,14 +13,14 @@
 - Vacuum cleaning **DONE**
 - Read a book **FAILED**
 - Clean kitchen sink **DONE**
-## 03.05.2024
+## 03.06.2024
 
 - Meditation **DONE**
 - Clean the mirror **DONE**
 - Vacuum cleaning **TOMORROW**
 - Shave fingers **DONE**
 - Read a book **FAILED**
-## 02.05.2024
+## 02.06.2024
 
 - Meditation **DONE**
 - Stretching **DONE**
@@ -24,7 +32,7 @@
 - Change bedsheets **DONE**
 - Ironing **FAILED**
 - Generolon **DONE**
-## 01.05.2024
+## 01.06.2024
 
 - Meditation **DONE**
 - Legs workout **FAILED**
