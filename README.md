@@ -1,7 +1,7 @@
-- Meditation
-- ABS and neck workout
-- Read a book
-- Groceries
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
 - Shave neck **DONE**
 - Trim face **DONE**
 ## 04.06.2024
