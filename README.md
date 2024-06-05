@@ -1,3 +1,11 @@
+- Meditation
+- Shoulders conditioning
+- Vitamin D3 pick up
+- Shave armpits
+- Find beef mince
+- Read a book
+## 05.06.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Read a book **DONE**
