@@ -1,9 +1,9 @@
-- Meditation
-- Shoulders conditioning
-- Vitamin D3 pick up
-- Shave armpits
-- Find beef mince
-- Read a book
+- Meditation **DONE**
+- Shoulders conditioning **DONE**
+- Vitamin D3 pick up **DONE**
+- Shave armpits **DONE**
+- Find beef mince **FAILED**
+- Read a book **FAILED**
 ## 05.06.2024
 
 - Meditation **DONE**
