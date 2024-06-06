@@ -1,9 +1,9 @@
-- Meditation
-- Groceries
-- Laser armpits appointment
-- Read a book
-- Rinse nose
-- Laundry
+- Meditation **DONE**
+- Groceries **DONE**
+- Laser armpits appointment **DONE**
+- Read a book **DONE**
+- Rinse nose **DONE**
+- Laundry **DONE**
 - Wash head **DONE**
 ## 06.06.2024
 
