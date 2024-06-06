@@ -1,3 +1,12 @@
+- Meditation
+- Groceries
+- Laser armpits appointment
+- Read a book
+- Rinse nose
+- Laundry
+- Wash head **DONE**
+## 06.06.2024
+
 - Meditation **DONE**
 - Shoulders conditioning **DONE**
 - Vitamin D3 pick up **DONE**
