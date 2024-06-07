@@ -1,8 +1,8 @@
-- Meditation
-- Legs workout
-- BHA
-- Rinse nose/throat
-- Read a book
+- Meditation **DONE**
+- Legs workout **DONE**
+- BHA **DONE**
+- Rinse nose/throat **TOMORROW**
+- Read a book **FAILED**
 ## 07.06.2024
 
 - Meditation **DONE**
