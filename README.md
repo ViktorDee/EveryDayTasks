@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- BHA
+- Rinse nose/throat
+- Read a book
+## 07.06.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Laser armpits appointment **DONE**
