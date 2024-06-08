@@ -1,3 +1,9 @@
+- Meditation
+- Demian time
+- Groceries
+- Rinse nose/throat **TOMORROW**
+## 08.06.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - BHA **DONE**
