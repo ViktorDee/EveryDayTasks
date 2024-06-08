@@ -1,6 +1,6 @@
-- Meditation
-- Demian time
-- Groceries
+- Meditation **DONE**
+- Demian time **DONE**
+- Groceries **DONE**
 - Rinse nose/throat **TOMORROW**
 ## 08.06.2024
 
