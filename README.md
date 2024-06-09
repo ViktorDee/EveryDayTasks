@@ -1,3 +1,12 @@
+- Meditation
+- Blood tests
+- Groceries
+- Read a book
+- Wash head
+- Ironing
+- Change bedsheets
+## 09.06.2024
+
 - Meditation **DONE**
 - Demian time **DONE**
 - Groceries **DONE**
