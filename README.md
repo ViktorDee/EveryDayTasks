@@ -1,10 +1,10 @@
-- Meditation
-- Blood tests
-- Groceries
-- Read a book
-- Wash head
-- Ironing
-- Change bedsheets
+- Meditation **DONE**
+- Blood tests **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Wash head **DONE**
+- Ironing **DONE**
+- Change bedsheets **DONE**
 ## 09.06.2024
 
 - Meditation **DONE**
