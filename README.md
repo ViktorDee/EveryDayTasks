@@ -1,3 +1,11 @@
+- Meditation
+- Chest and back workout
+- Laundry
+- Groceries
+- Morning routine **DONE**
+- Read a book
+## 10.06.2024
+
 - Meditation **DONE**
 - Blood tests **DONE**
 - Groceries **DONE**
