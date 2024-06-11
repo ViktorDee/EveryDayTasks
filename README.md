@@ -1,8 +1,8 @@
-- Meditation
-- ABS and neck workout
-- Read a book
-- Groceries
-- Have a walk
+- Meditation **DONE**
+- ABS and neck workout **HALF DONE. NECK TOMORROW**
+- Read a book **FAILED**
+- Groceries **DONE**
+- Have a walk **DONE**
 ## 11.06.2024
 
 - Meditation **DONE**
