@@ -1,3 +1,10 @@
+- Meditation
+- ABS and neck workout
+- Read a book
+- Groceries
+- Have a walk
+## 11.06.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Laundry **DONE**
