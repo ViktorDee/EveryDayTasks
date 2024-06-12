@@ -1,3 +1,12 @@
+- Meditation
+- Arms and shoulders + neck workout
+- Groceries
+- Ironing
+- Microneedling
+- Wash head **DONE**
+- Morning routine **DONE**
+## 12.06.2024
+
 - Meditation **DONE**
 - ABS and neck workout **HALF DONE. NECK TOMORROW**
 - Read a book **FAILED**
