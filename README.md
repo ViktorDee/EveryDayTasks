@@ -1,8 +1,8 @@
-- Meditation
-- Arms and shoulders + neck workout
-- Groceries
-- Ironing
-- Microneedling
+- Meditation **DONE**
+- Arms and shoulders + neck workout **DONE + NECK TOMORROW**
+- Groceries **DONE**
+- Ironing **DONE**
+- Microneedling **DONE**
 - Wash head **DONE**
 - Morning routine **DONE**
 ## 12.06.2024
