@@ -1,7 +1,7 @@
-- Meditation
-- Neck workout
+- Meditation **DONE**
+- Neck workout **DONE**
 - Shave armpits **DONE**
-- Armpits laser
+- Armpits laser **DONE**
 ## 13.06.2024
 
 - Meditation **DONE**
