@@ -1,3 +1,9 @@
+- Meditation
+- Neck workout
+- Shave armpits **DONE**
+- Armpits laser
+## 13.06.2024
+
 - Meditation **DONE**
 - Arms and shoulders + neck workout **DONE + NECK TOMORROW**
 - Groceries **DONE**
