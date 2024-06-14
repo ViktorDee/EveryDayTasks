@@ -1,3 +1,9 @@
+- Meditation
+- Legs workout
+- Buy shashlik
+- Shave neck
+## 14.06.2024
+
 - Meditation **DONE**
 - Neck workout **DONE**
 - Shave armpits **DONE**
