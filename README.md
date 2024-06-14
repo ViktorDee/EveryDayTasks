@@ -1,7 +1,8 @@
-- Meditation
-- Legs workout
-- Buy shashlik
-- Shave neck
+- Meditation **DONE**
+- Legs workout **DONE**
+- Buy shashlik **DONE**
+- Shave neck **DONE**
+- Ozon **DONE**
 ## 14.06.2024
 
 - Meditation **DONE**
