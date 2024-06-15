@@ -1,3 +1,12 @@
+- Meditation
+- Wash head
+- Trim face
+- Pharmacy delivery
+- Laundry
+- Read a book
+- Groceries
+## 15.06.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Buy shashlik **DONE**
