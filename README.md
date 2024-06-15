@@ -1,10 +1,10 @@
-- Meditation
-- Wash head
-- Trim face
-- Pharmacy delivery
-- Laundry
-- Read a book
-- Groceries
+- Meditation **DONE**
+- Wash head **DONE**
+- Trim face **DONE**
+- Pharmacy delivery **DONE**
+- Laundry **DONE**
+- Read a book **FAILED**
+- Groceries **DONE**
 ## 15.06.2024
 
 - Meditation **DONE**
