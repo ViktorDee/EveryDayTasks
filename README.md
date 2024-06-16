@@ -1,3 +1,8 @@
+- Meditation
+- Morning routine **DONE**
+- Prepare stuff for Novokuznetsk
+## 16.06.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Trim face **DONE**
