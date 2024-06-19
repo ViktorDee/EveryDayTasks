@@ -1,6 +1,9 @@
 - Meditation
+## 19.06.2024
+
+- Meditation **FAILED**
 - Morning routine **DONE**
-- Prepare stuff for Novokuznetsk
+- Prepare stuff for Novokuznetsk **DONE**
 ## 16.06.2024
 
 - Meditation **DONE**
