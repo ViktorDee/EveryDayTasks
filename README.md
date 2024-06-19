@@ -1,4 +1,4 @@
-- Meditation
+- Meditation **DONE**
 ## 19.06.2024
 
 - Meditation **FAILED**
