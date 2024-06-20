@@ -1,10 +1,12 @@
-- Meditation
-- Groceries
-- Ozon
-- Morning routine
-- Raiffeisen
-- Shoulders workout
-- Knees conditioning
+- Meditation **DONE**
+- Money withdrawal **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
+- Morning routine **DONE**
+- Raiffeisen **DONE**
+- Shoulders workout **DONE**
+- Knees conditioning **DONE**
+- Retinol **DONE**
 ## 20.06.2024
 
 - Meditation **DONE**
