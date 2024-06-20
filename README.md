@@ -1,3 +1,12 @@
+- Meditation
+- Groceries
+- Ozon
+- Morning routine
+- Raiffeisen
+- Shoulders workout
+- Knees conditioning
+## 20.06.2024
+
 - Meditation **DONE**
 ## 19.06.2024
 
