@@ -1,13 +1,12 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **FAILED**
 - Wash head **DONE**
-- Legs workout
-- Ask Pasha about the trip
-- Legs workout
-- Head pictures
-- Take finasteride
-- Ironing
-- Change bedsheets
+- Legs workout **DONE**
+- Ask Pasha about the trip **DONE**
+- Head pictures **DONE**
+- Take finasteride **DONE**
+- Ironing **DONE**
+- Change bedsheets **DONE**
 - Trim face **DONE**
 ## 20.06.2024
 
