@@ -1,3 +1,16 @@
+- Meditation
+- Morning routine **FAILED**
+- Wash head **DONE**
+- Legs workout
+- Ask Pasha about the trip
+- Legs workout
+- Head pictures
+- Take finasteride
+- Ironing
+- Change bedsheets
+- Trim face **DONE**
+## 20.06.2024
+
 - Meditation **DONE**
 - Money withdrawal **DONE**
 - Groceries **DONE**
