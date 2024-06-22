@@ -1,3 +1,9 @@
+- Meditation
+- Morning routine
+- Take finasteride
+- Have a walk
+## 21.06.2024
+
 - Meditation **DONE**
 - Morning routine **FAILED**
 - Wash head **DONE**
