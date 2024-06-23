@@ -1,7 +1,13 @@
 - Meditation
-- Morning routine
-- Take finasteride
-- Have a walk
+- Blood tests
+- Vacuum cleaning
+- Take fin
+## 22.06.2024
+
+- Meditation **DONE**
+- Morning routine **DONE**
+- Take finasteride **DONE**
+- Have a walk **DONE**
 ## 21.06.2024
 
 - Meditation **DONE**
