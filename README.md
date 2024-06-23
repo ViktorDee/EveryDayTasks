@@ -1,7 +1,8 @@
-- Meditation
-- Blood tests
-- Vacuum cleaning
-- Take fin
+- Meditation **DONE**
+- Blood tests **DONE**
+- Vacuum cleaning **FAILED**
+- Take fin **DONE**
+- Groceries **DONE**
 ## 22.06.2024
 
 - Meditation **DONE**
