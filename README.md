@@ -1,15 +1,23 @@
+- Meditation
+- Chest and back workout
+- Wash head
+- Microneedling
+- Vacuum cleaning
+- Ironing
+## 24.06.2024
+
 - Meditation **DONE**
 - Blood tests **DONE**
 - Vacuum cleaning **FAILED**
 - Take fin **DONE**
 - Groceries **DONE**
-## 22.06.2024
+## 23.06.2024
 
 - Meditation **DONE**
 - Morning routine **DONE**
 - Take finasteride **DONE**
 - Have a walk **DONE**
-## 21.06.2024
+## 22.06.2024
 
 - Meditation **DONE**
 - Morning routine **FAILED**
@@ -21,7 +29,7 @@
 - Ironing **DONE**
 - Change bedsheets **DONE**
 - Trim face **DONE**
-## 20.06.2024
+## 21.06.2024
 
 - Meditation **DONE**
 - Money withdrawal **DONE**
