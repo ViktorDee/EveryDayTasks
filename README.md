@@ -1,9 +1,9 @@
-- Meditation
-- Chest and back workout
-- Wash head
-- Microneedling
-- Vacuum cleaning
-- Ironing
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Wash head **DONE**
+- Microneedling **FAILED**
+- Vacuum cleaning **DONE**
+- Ironing **DONE**
 ## 24.06.2024
 
 - Meditation **DONE**
