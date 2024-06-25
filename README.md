@@ -1,3 +1,10 @@
+- Meditation
+- ABS and neck workout
+- Groceries
+- Ozon
+- Laundry
+## 25.06.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Wash head **DONE**
