@@ -1,8 +1,8 @@
-- Meditation
-- ABS and neck workout
-- Groceries
-- Ozon
-- Laundry
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Groceries **DONE**
+- Ozon **POSTPONED**
+- Laundry **TOMORROW**
 ## 25.06.2024
 
 - Meditation **DONE**
