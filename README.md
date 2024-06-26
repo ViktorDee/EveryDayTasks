@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Laundry
+- Ozon
+- Lisa time
+- Activate card
+## 26.06.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Groceries **DONE**
