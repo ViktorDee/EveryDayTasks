@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Laundry
-- Ozon
-- Lisa time
-- Activate card
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Laundry **DONE**
+- Ozon **DONE**
+- Lisa time **DONE**
+- Activate card **FAILED**
 ## 26.06.2024
 
 - Meditation **DONE**
