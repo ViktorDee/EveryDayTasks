@@ -1,3 +1,10 @@
+- Meditation
+- Wash head **DONE**
+- OTP bank
+- Legs conditioning
+- Lisa time
+## 27.06.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Laundry **DONE**
