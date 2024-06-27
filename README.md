@@ -1,8 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- OTP bank
-- Legs conditioning
-- Lisa time
+- OTP bank **DONE**
+- Ozon **DONE**
+- Take fin **DONE**
+- Legs conditioning **DONE**
+- Lisa time **FAILED**
 ## 27.06.2024
 
 - Meditation **DONE**
