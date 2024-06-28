@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Morning routine **DONE**
+- Shave hands
+- Take fin
+- Laundry
+## 28.06.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - OTP bank **DONE**
