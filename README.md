@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
+- Meditation **DONE**
+- Legs workout **DONE**
 - Morning routine **DONE**
-- Shave hands
-- Take fin
-- Laundry
+- Shave hands **TOMORROW**
+- Take fin **DONE**
+- Laundry **TOMORROW**
 ## 28.06.2024
 
 - Meditation **DONE**
