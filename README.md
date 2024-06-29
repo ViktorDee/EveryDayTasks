@@ -1,10 +1,10 @@
-- Meditation
-- Money withdraw
-- Laundry
-- Shave hands
-- Groceries
-- Cut nails
-- Take fin
+- Meditation **DONE**
+- Money withdraw **DONE**
+- Laundry **DONE**
+- Shave hands **DONE**
+- Groceries **DONE**
+- Cut nails **DONE**
+- Take fin **DONE**
 ## 29.06.2024
 
 - Meditation **DONE**
