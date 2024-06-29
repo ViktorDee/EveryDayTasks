@@ -1,3 +1,12 @@
+- Meditation
+- Money withdraw
+- Laundry
+- Shave hands
+- Groceries
+- Cut nails
+- Take fin
+## 29.06.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Morning routine **DONE**
