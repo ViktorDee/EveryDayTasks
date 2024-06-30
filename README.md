@@ -1,3 +1,12 @@
+- Meditation
+- Wash head
+- Take fin
+- Water and electricity pictures
+- Morning routine
+- Change bedsheets
+- Ironing
+## 30.06.2024
+
 - Meditation **DONE**
 - Money withdraw **DONE**
 - Laundry **DONE**
