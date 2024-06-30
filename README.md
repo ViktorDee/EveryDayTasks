@@ -1,10 +1,10 @@
-- Meditation
-- Wash head
-- Take fin
-- Water and electricity pictures
-- Morning routine
-- Change bedsheets
-- Ironing
+- Meditation **DONE**
+- Wash head **DONE** 
+- Take fin **DONE**
+- Water and electricity pictures **DONE**
+- Morning routine **DONE**
+- Change bedsheets **DONE**
+- Ironing **DONE**
 ## 30.06.2024
 
 - Meditation **DONE**
