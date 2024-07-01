@@ -1,3 +1,9 @@
+- Meditation
+- Chest and back workout
+- Grip workout
+- Wipe dust
+## 01.07.2024
+
 - Meditation **DONE**
 - Wash head **DONE** 
 - Take fin **DONE**
