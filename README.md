@@ -1,7 +1,10 @@
-- Meditation
-- Chest and back workout
-- Grip workout
-- Wipe dust
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Grip workout **DONE**
+- Wipe dust **TOMORROW**
+- Retinol **DONE**
+- Laundry **DONE**
+- Shave neck **DONE**
 ## 01.07.2024
 
 - Meditation **DONE**
