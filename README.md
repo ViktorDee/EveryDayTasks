@@ -1,12 +1,12 @@
-- Meditation
+- Meditation **DONE**
 - Trim face **DONE**
-- Laundry
-- Ironing
-- ABS and neck workout
-- Take fin
-- Groceries
-- Legs conditioning
-- Wipe the dust
+- Laundry **DONE** 
+- Ironing **DONE**
+- ABS and neck workout **DONE**
+- Take fin **DONE**
+- Groceries **DONE**
+- Legs conditioning **DONE**
+- Wipe the dust **DONE**
 - Clean the mirror **DONE**
 ## 02.07.2024
 
