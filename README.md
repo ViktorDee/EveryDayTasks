@@ -1,3 +1,11 @@
+- Meditation
+- Ironing
+- Sarana time
+- Groceries: chicken, eggs, tomatoes
+- Meditation
+- Microneedling
+## 03.07.2024
+
 - Meditation **DONE**
 - Trim face **DONE**
 - Laundry **DONE** 
