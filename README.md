@@ -1,9 +1,10 @@
-- Meditation
-- Ironing
-- Sarana time
-- Groceries: chicken, eggs, tomatoes
-- Meditation
-- Microneedling
+- Meditation **DONE**
+- Ironing **DONE**
+- Sarana time **DONE**
+- Groceries: chicken, eggs, tomatoes **DONE**
+- Wash head **DONE**
+- Arms and shoulders workout **SHOULDERS TOMORROW**
+- Microneedling **DONE**
 ## 03.07.2024
 
 - Meditation **DONE**
