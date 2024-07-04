@@ -1,3 +1,9 @@
+- Meditation
+- Shoulders workout
+- Groceries
+- Withdraw money
+## 04.07.2024
+
 - Meditation **DONE**
 - Ironing **DONE**
 - Sarana time **DONE**
