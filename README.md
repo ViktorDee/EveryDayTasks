@@ -1,7 +1,7 @@
-- Meditation
-- Shoulders workout
-- Groceries
-- Withdraw money
+- Meditation **DONE**
+- Shoulders workout **DONE**
+- Groceries **DONE**
+- Withdraw money **DONE**
 ## 04.07.2024
 
 - Meditation **DONE**
