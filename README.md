@@ -1,3 +1,9 @@
+- Meditation
+- Legs workout
+- Lisa time
+- Groceries
+## 05.07.2024
+
 - Meditation **DONE**
 - Shoulders workout **DONE**
 - Groceries **DONE**
