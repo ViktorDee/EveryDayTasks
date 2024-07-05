@@ -1,7 +1,7 @@
-- Meditation
-- Legs workout
-- Lisa time
-- Groceries
+- Meditation **DONE**
+- Legs workout **DONE**
+- Lisa time **DONE**
+- Groceries **DONE**
 ## 05.07.2024
 
 - Meditation **DONE**
