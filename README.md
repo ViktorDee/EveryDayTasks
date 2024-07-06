@@ -1,3 +1,11 @@
+- Meditation
+- Morning routine **DONE**
+- Groceries
+- Take fin
+- Trim face **DONE**
+- Wash head **DONE**
+## 06.07.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Lisa time **DONE**
