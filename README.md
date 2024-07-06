@@ -1,8 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Groceries
-- Take fin
+- Groceries **TOMORROW**
+- Take fin **DONE**
 - Trim face **DONE**
+- Change bedsheets **DONE**
 - Wash head **DONE**
 ## 06.07.2024
 
