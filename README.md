@@ -1,8 +1,8 @@
-- Meditation
-- Groceries
-- Read a book
-- Take fin
-- Laundry
+- Meditation **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
+- Take fin **DONE**
+- Laundry **DONE**
 ## 07.07.2024
 
 - Meditation **DONE**
