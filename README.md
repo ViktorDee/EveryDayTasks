@@ -1,3 +1,10 @@
+- Meditation
+- Groceries
+- Read a book
+- Take fin
+- Laundry
+## 07.07.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Groceries **TOMORROW**
