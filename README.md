@@ -1,10 +1,10 @@
-- Meditation
-- Chest and back workout
-- Traumatologist
-- Read a book
-- Take fin
-- Trim in nose 
-- Shave groin and fingers
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Traumatologist **DONE**
+- Read a book **FAILED**
+- Take fin **DONE**
+- Trim in nose **DONE**
+- Shave groin and fingers **DONE**
 ## 08.07.2024
 
 - Meditation **DONE**
