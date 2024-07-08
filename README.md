@@ -2,6 +2,7 @@
 - Chest and back workout
 - Traumatologist
 - Read a book
+- Take fin
 - Trim in nose 
 - Shave groin and fingers
 ## 08.07.2024
