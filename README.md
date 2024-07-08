@@ -1,3 +1,11 @@
+- Meditation
+- Chest and back workout
+- Traumatologist
+- Read a book
+- Trim in nose 
+- Shave groin and fingers
+## 08.07.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Read a book **FAILED**
