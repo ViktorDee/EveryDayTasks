@@ -1,11 +1,11 @@
-- Meditation
-- Wash head
-- Take fin
-- Groceries
-- ABS and neck workout
-- Ironing
-- Vacuum cleaning
-- Lisa time
+- Meditation **DONE**
+- Wash head **DONE**
+- Take fin **DONE**
+- Groceries **DONE**
+- ABS and neck workout **DONE**
+- Ironing **DONE**
+- Vacuum cleaning **DONE**
+- Lisa time **CANCELLED**
 
 ## 09.07.2024
 
