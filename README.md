@@ -1,3 +1,14 @@
+- Meditation
+- Wash head
+- Take fin
+- Groceries
+- ABS and neck workout
+- Ironing
+- Vacuum cleaning
+- Lisa time
+
+## 09.07.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Traumatologist **DONE**
