@@ -1,7 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Take fin
-- Arm MRI
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Take fin **CANCELLED**
+- Arm MRI **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
 ## 10.07.2024
 
 - Meditation **DONE**
