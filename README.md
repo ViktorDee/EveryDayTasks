@@ -1,3 +1,9 @@
+- Meditation
+- Arms and shoulders workout
+- Take fin
+- Arm MRI
+## 10.07.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Take fin **DONE**
@@ -6,7 +12,6 @@
 - Ironing **DONE**
 - Vacuum cleaning **DONE**
 - Lisa time **CANCELLED**
-
 ## 09.07.2024
 
 - Meditation **DONE**
