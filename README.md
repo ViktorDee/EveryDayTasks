@@ -1,6 +1,6 @@
-- Meditation
-- Shave neck
-- Morning routine
+- Meditation **DONE**
+- Shave neck **DONE**
+- Morning routine **DONE**
 ## 11.07.2024
 
 - Meditation **DONE**
