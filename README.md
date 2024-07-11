@@ -1,3 +1,8 @@
+- Meditation
+- Shave neck
+- Morning routine
+## 11.07.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Take fin **CANCELLED**
