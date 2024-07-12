@@ -1,3 +1,10 @@
+- Meditation
+- Trim face
+- Wash head
+- Groceries
+- Ozon
+## 12.07.2024
+
 - Meditation **DONE**
 - Shave neck **DONE**
 - Morning routine **DONE**
