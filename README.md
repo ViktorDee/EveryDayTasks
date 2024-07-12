@@ -1,8 +1,9 @@
-- Meditation
-- Trim face
-- Wash head
-- Groceries
-- Ozon
+- Meditation **DONE**
+- Trim face **DONE**
+- Wash head **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
+- Cut nails **DONE**
 ## 12.07.2024
 
 - Meditation **DONE**
