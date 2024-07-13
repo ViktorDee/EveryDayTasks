@@ -1,3 +1,9 @@
+- Meditation
+- Legs workout
+- Groceries
+- Laundry
+## 13.07.2024
+
 - Meditation **DONE**
 - Trim face **DONE**
 - Wash head **DONE**
