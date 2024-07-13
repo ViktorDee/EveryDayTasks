@@ -1,7 +1,7 @@
-- Meditation
-- Legs workout
-- Groceries
-- Laundry
+- Meditation **DONE**
+- Legs workout **DONE**
+- Groceries **DONE**
+- Laundry **TOMORROW**
 ## 13.07.2024
 
 - Meditation **DONE**
