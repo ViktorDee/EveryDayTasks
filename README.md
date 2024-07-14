@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Laundry **DONE**
-- Pharmacy
-- Groceries
-- Retinol
+- Pharmacy **DONE**
+- Groceries **DONE**
+- Retinol **DONE**
 ## 14.07.2024
 
 - Meditation **DONE**
