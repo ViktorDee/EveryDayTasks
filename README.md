@@ -1,3 +1,10 @@
+- Meditation
+- Laundry **DONE**
+- Pharmacy
+- Groceries
+- Retinol
+## 14.07.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Groceries **DONE**
