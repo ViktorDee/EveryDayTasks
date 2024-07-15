@@ -1,3 +1,10 @@
+- Meditation
+- Wash head
+- Change bedsheets
+- Ironing
+- Chest
+## 15.07.2024
+
 - Meditation **DONE**
 - Laundry **DONE**
 - Pharmacy **DONE**
