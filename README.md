@@ -1,8 +1,8 @@
-- Meditation
-- ABS and neck workout
-- Have a walk
-- Legs conditioning
-- Shave neck
+- Meditation **DONE**
+- ABS and neck workout **TOMORROW**
+- Have a walk **DONE**
+- Legs conditioning **TOMORROW**
+- Shave neck **TOMORROW**
 ## 16.07.2024
 
 - Meditation **DONE**
