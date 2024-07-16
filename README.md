@@ -1,8 +1,15 @@
 - Meditation
-- Wash head
-- Change bedsheets
-- Ironing
-- Chest
+- ABS and neck workout
+- Have a walk
+- Legs conditioning
+- Shave neck
+## 16.07.2024
+
+- Meditation **DONE**
+- Wash head **DONE**
+- Change bedsheets **DONE**
+- Ironing **DONE**
+- Chest **DONE**
 ## 15.07.2024
 
 - Meditation **DONE**
