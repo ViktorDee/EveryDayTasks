@@ -1,9 +1,9 @@
-- Meditation
-- Legs conditioning
+- Meditation **DONE**
+- Legs conditioning **DONE**
 - Shave neck **DONE**
-- Clean the mirror
-- ABS and neck workout
-- Groceries
+- Clean the mirror **TOMORROW**
+- ABS and neck workout **DONE**
+- Groceries **DONE**
 - Buy a notebook **DONE**
 ## 17.07.2024
 
