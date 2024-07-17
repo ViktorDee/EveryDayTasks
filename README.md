@@ -1,3 +1,12 @@
+- Meditation
+- Legs conditioning
+- Shave neck **DONE**
+- Clean the mirror
+- ABS and neck workout
+- Groceries
+- Buy a notebook **DONE**
+## 17.07.2024
+
 - Meditation **DONE**
 - ABS and neck workout **TOMORROW**
 - Have a walk **DONE**
