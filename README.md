@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Triceps workout
-- Trim face
-- Clean the mirror
-- Groceries
+- Triceps workout **TOMORROW**
+- Trim face **DONE**
+- Clean the mirror **DONE**
+- Groceries **DONE**
 ## 18.07.2024
 
 - Meditation **DONE**
