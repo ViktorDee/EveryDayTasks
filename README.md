@@ -1,3 +1,11 @@
+- Meditation
+- Wash head **DONE**
+- Triceps workout
+- Trim face
+- Clean the mirror
+- Groceries
+## 18.07.2024
+
 - Meditation **DONE**
 - Legs conditioning **DONE**
 - Shave neck **DONE**
