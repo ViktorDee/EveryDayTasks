@@ -1,9 +1,9 @@
-- Meditation
-- Ozon
-- Groceries
-- Vacuum cleaning
-- Laundry
-- Triceps workout
+- Meditation **DONE**
+- Ozon **DONE** 
+- Groceries **DONE**
+- Vacuum cleaning **DONE**
+- Laundry **DONE**
+- Triceps workout **DONE**
 ## 19.07.2024
 
 - Meditation **DONE**
