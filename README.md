@@ -1,3 +1,11 @@
+- Meditation
+- Ozon
+- Groceries
+- Vacuum cleaning
+- Laundry
+- Triceps workout
+## 19.07.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Triceps workout **TOMORROW**
