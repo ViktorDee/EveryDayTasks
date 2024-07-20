@@ -1,3 +1,10 @@
+- Meditation
+- Have a walk
+- Ozon
+- Legs conditioning
+- Learn 5 new Hiragana
+## 20.07.2024
+
 - Meditation **DONE**
 - Ozon **DONE** 
 - Groceries **DONE**
