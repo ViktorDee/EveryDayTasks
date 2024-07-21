@@ -1,8 +1,17 @@
 - Meditation
 - Have a walk
-- Ozon
-- Legs conditioning
-- Learn 5 new Hiragana
+- Change bedsheets
+- Ironing
+- Haricut **DONE**
+- Microstamping
+- Wash head **DONE**
+## 21.07.2024
+
+- Meditation **DONE**
+- Have a walk **DONE** 
+- Ozon **CANCELLED**
+- Legs conditioning **DONE**
+- Learn 5 new Hiragana **DONE**
 ## 20.07.2024
 
 - Meditation **DONE**
