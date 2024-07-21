@@ -1,9 +1,9 @@
-- Meditation
-- Have a walk
-- Change bedsheets
-- Ironing
+- Meditation **DONE**
+- Have a walk **FAILED**
+- Change bedsheets **DONE**
+- Ironing **DONE**
 - Haricut **DONE**
-- Microstamping
+- Microstamping **DONE** 
 - Wash head **DONE**
 ## 21.07.2024
 
