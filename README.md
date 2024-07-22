@@ -1,3 +1,13 @@
+- Meditation
+- Ozon
+- Groceries
+- Traumatologist
+- Morning routine
+- Ironing
+- Take fin
+- Chest and back workout
+## 22.07.2024
+
 - Meditation **DONE**
 - Have a walk **FAILED**
 - Change bedsheets **DONE**
