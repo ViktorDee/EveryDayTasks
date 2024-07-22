@@ -1,11 +1,11 @@
-- Meditation
-- Ozon
-- Groceries
-- Traumatologist
-- Morning routine
-- Ironing
-- Take fin
-- Chest and back workout
+- Meditation **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Traumatologist **DONE**
+- Morning routine **DONE**
+- Ironing **TOMORROW**
+- Take fin **DONE**
+- Chest and back workout **DONE**
 ## 22.07.2024
 
 - Meditation **DONE**
