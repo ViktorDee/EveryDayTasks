@@ -1,9 +1,9 @@
-- Meditation
-- ABS and neck workout
-- Groceries
-- Shave neck
-- Ironing
-- 5 new hiragana
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Groceries **DONE**
+- Shave neck **DONE**
+- Ironing **DONE**
+- 5 new hiragana **FAILED**
 ## 23.07.2024
 
 - Meditation **DONE**
