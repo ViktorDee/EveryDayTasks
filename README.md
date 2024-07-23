@@ -1,3 +1,11 @@
+- Meditation
+- ABS and neck workout
+- Groceries
+- Shave neck
+- Ironing
+- 5 new hiragana
+## 23.07.2024
+
 - Meditation **DONE**
 - Ozon **DONE**
 - Groceries **DONE**
