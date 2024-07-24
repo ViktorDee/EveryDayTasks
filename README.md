@@ -1,3 +1,9 @@
+- Meditation
+- Take fin
+- Arms and shoulders workout
+- Trim face **DONE**
+## 24.07.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Groceries **DONE**
