@@ -1,6 +1,6 @@
-- Meditation
-- Take fin
-- Arms and shoulders workout
+- Meditation **DONE**
+- Take fin **DONE** 
+- Arms and shoulders workout **DONE**
 - Trim face **DONE**
 ## 24.07.2024
 
