@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
 - Shave armpits **DONE**
-- Laundry
-- Have a walk + extra food
+- Laundry **DONE**
+- Have a walk + extra food **DONE**
 - Morning routine **DONE**
 ## 25.07.2024
 
