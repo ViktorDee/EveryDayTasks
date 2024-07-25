@@ -1,3 +1,11 @@
+- Meditation
+- Wash head **DONE**
+- Shave armpits **DONE**
+- Laundry
+- Have a walk + extra food
+- Morning routine **DONE**
+## 25.07.2024
+
 - Meditation **DONE**
 - Take fin **DONE** 
 - Arms and shoulders workout **DONE**
