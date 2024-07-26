@@ -1,3 +1,8 @@
+- Meditation
+- Legs workout
+- Take fin
+## 26.07.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Shave armpits **DONE**
