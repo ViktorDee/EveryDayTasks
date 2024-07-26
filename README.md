@@ -1,6 +1,6 @@
-- Meditation
-- Legs workout
-- Take fin
+- Meditation **DONE**
+- Legs workout **DONE**
+- Take fin **DONE**
 ## 26.07.2024
 
 - Meditation **DONE**
