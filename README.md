@@ -1,9 +1,9 @@
-- Meditation
-- Groceries
-- Cut nails
-- Groceries
-- Ironing
-- Arm massage
+- Meditation **DONE**
+- Groceries **DONE**
+- Cut nails **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Arm massage **DONE**
 ## 27.07.2024
 
 - Meditation **DONE**
