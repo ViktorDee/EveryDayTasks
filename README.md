@@ -1,3 +1,11 @@
+- Meditation
+- Groceries
+- Cut nails
+- Groceries
+- Ironing
+- Arm massage
+## 27.07.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Take fin **DONE**
