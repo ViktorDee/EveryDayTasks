@@ -1,3 +1,11 @@
+- Meditation
+- Wash head **DONE**
+- Have a walk
+- Learn Japanese
+- Glutes stretch
+- Knees conditioning
+## 28.07.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Cut nails **DONE**
