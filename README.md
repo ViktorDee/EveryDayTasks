@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Have a walk
-- Learn Japanese
-- Glutes stretch
-- Knees conditioning
+- Have a walk **DONE**
+- Learn Japanese **DONE**
+- Glutes stretch **DONE**
+- Knees conditioning **FAILED**
 ## 28.07.2024
 
 - Meditation **DONE**
