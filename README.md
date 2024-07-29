@@ -1,10 +1,10 @@
-- Meditation
-- Take fin
-- Shave groin
-- Shave fingers
-- Chest and back workout
-- Retinol
-- Learn Japanese
+- Meditation **DONE**
+- Take fin **DONE**
+- Shave groin **DONE**
+- Shave fingers **DONE**
+- Chest and back workout **DONE**
+- Retinol **DONE**
+- Learn Japanese **DONE**
 ## 29.07.2024
 
 - Meditation **DONE**
