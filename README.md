@@ -1,3 +1,12 @@
+- Meditation
+- Take fin
+- Shave groin
+- Shave fingers
+- Chest and back workout
+- Retinol
+- Learn Japanese
+## 29.07.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Have a walk **DONE**
