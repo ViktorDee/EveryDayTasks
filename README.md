@@ -1,8 +1,8 @@
-- Meditation
-- Groceries
-- ABS and neck workout
-- Laundry
-- Learn Japanese
+- Meditation **DONE**
+- Groceries **DONE**
+- ABS and neck workout **DONE**
+- Laundry **DONE**
+- Learn Japanese **DONE**
 ## 30.07.2024
 
 - Meditation **DONE**
