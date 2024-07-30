@@ -1,3 +1,10 @@
+- Meditation
+- Groceries
+- ABS and neck workout
+- Laundry
+- Learn Japanese
+## 30.07.2024
+
 - Meditation **DONE**
 - Take fin **DONE**
 - Shave groin **DONE**
