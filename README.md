@@ -1,10 +1,11 @@
-- Meditation
-- Arms and shoulders workout
-- Legs conditioning
-- Groin shave
-- Order radio + eye pencil
-- Ironing
-- Vacuum cleaning
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Legs conditioning **DONE**
+- Groin shave **DONE**
+- Order radio + eye pencil **DONE**
+- Ironing **DONE**
+- Vacuum cleaning **FAILED**
+- Wash head **DONE**
 ## 31.07.2024
 
 - Meditation **DONE**
