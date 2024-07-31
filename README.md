@@ -1,3 +1,12 @@
+- Meditation
+- Arms and shoulders workout
+- Legs conditioning
+- Groin shave
+- Order radio + eye pencil
+- Ironing
+- Vacuum cleaning
+## 31.07.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - ABS and neck workout **DONE**
