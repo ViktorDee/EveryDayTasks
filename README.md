@@ -1,7 +1,7 @@
-- Meditation
-- Vacuum cleaning
-- Learn Japanese
-- Groceries
+- Meditation **DONE**
+- Vacuum cleaning **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
 ## 01.08.2024
 
 - Meditation **DONE**
