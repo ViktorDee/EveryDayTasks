@@ -1,3 +1,9 @@
+- Meditation
+- Vacuum cleaning
+- Learn Japanese
+- Groceries
+## 01.08.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Legs conditioning **DONE**
