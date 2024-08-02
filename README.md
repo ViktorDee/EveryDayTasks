@@ -1,7 +1,8 @@
-- Meditation
-- Legs workout
-- Shave neck
-- Retinol
+- Meditation **DONE**
+- Legs workout **DONE**
+- Shave neck **DONE**
+- Retinol **DONE**
+- Ozon **DONE**
 ## 02.08.2024
 
 - Meditation **DONE**
