@@ -1,3 +1,9 @@
+- Meditation
+- Legs workout
+- Shave neck
+- Retinol
+## 02.08.2024
+
 - Meditation **DONE**
 - Vacuum cleaning **DONE**
 - Learn Japanese **DONE**
