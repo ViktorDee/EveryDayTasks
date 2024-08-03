@@ -1,3 +1,10 @@
+- Meditation
+- Groceries
+- BHA
+- Learn Japanese
+- Ironing
+## 03.08.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Shave neck **DONE**
