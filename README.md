@@ -1,8 +1,8 @@
-- Meditation
-- Groceries
-- BHA
-- Learn Japanese
-- Ironing
+- Meditation **DONE**
+- Groceries **DONE**
+- BHA **DONE**
+- Learn Japanese **DONE**
+- Ironing **DONE**
 ## 03.08.2024
 
 - Meditation **DONE**
