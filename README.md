@@ -1,3 +1,13 @@
+- Meditation
+- Morning routine **DONE**
+- Mop balcony
+- Legs conditioning
+- Change bedsheets
+- Clean the mirror
+- Learn Japanese
+- Groceries
+## 04.08.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - BHA **DONE**
