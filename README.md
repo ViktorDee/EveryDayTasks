@@ -1,11 +1,11 @@
-- Meditation
+- Meditation **DONE**
 - Morning routine **DONE**
-- Mop balcony
-- Legs conditioning
-- Change bedsheets
-- Clean the mirror
-- Learn Japanese
-- Groceries
+- Mop balcony **DONE**
+- Legs conditioning **FAILED**
+- Change bedsheets **DONE**
+- Clean the mirror **DONE**
+- Learn Japanese **DONE**
+- Groceries **FAILED**
 ## 04.08.2024
 
 - Meditation **DONE**
