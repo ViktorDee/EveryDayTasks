@@ -1,3 +1,12 @@
+- Meditation
+- Legs conditioning
+- Chest and back workout
+- Groceries
+- Laundry
+- Throw our the trash
+- Learn Japanese
+## 05.08.2024
+
 - Meditation **DONE**
 - Morning routine **DONE**
 - Mop balcony **DONE**
