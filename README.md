@@ -1,10 +1,10 @@
-- Meditation
-- Legs conditioning
-- Chest and back workout
-- Groceries
-- Laundry
-- Throw our the trash
-- Learn Japanese
+- Meditation **DONE**
+- Legs conditioning **DONE**
+- Chest and back workout **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Throw our the trash **DONE**
+- Learn Japanese **DONE**
 ## 05.08.2024
 
 - Meditation **DONE**
