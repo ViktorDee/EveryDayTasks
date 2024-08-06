@@ -1,3 +1,12 @@
+- Meditation
+- ABS and neck
+- Groceries
+- Wash head **DONE**
+- Ironing
+- Learn Japanese
+- Grip workout
+## 06.08.2024
+
 - Meditation **DONE**
 - Legs conditioning **DONE**
 - Chest and back workout **DONE**
