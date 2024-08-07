@@ -1,8 +1,9 @@
-- Meditation
-- Shave armpits
-- Arms and shoulders workout
-- Read a book
-- Learn Japanese
+- Meditation **DONE**
+- Shave armpits **DONE**
+- Arms and shoulders workout **DONE**
+- Read a book **DONE**
+- Take fin **DONE**
+- Learn Japanese **DONE**
 ## 07.08.2024
 
 - Meditation **DONE**
