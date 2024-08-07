@@ -1,10 +1,17 @@
 - Meditation
-- ABS and neck
-- Groceries
-- Wash head **DONE**
-- Ironing
+- Shave armpits
+- Arms and shoulders workout
+- Read a book
 - Learn Japanese
-- Grip workout
+## 07.08.2024
+
+- Meditation **DONE**
+- ABS and neck **DONE**
+- Groceries **DONE**
+- Wash head **DONE**
+- Ironing **DONE**
+- Learn Japanese **DONE**
+- Grip workout **DONE**
 ## 06.08.2024
 
 - Meditation **DONE**
