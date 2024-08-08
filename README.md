@@ -1,8 +1,8 @@
-- Meditation
-- Groceries
-- Learn Japanese
-- Read a book
-- Ozon
+- Meditation **DONE**
+- Groceries **PARTIALLY**
+- Learn Japanese **DONE**
+- Read a book **FAILED**
+- Ozon **SATURDAY**
 ## 08.08.2024
 
 - Meditation **DONE**
