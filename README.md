@@ -1,3 +1,10 @@
+- Meditation
+- Groceries
+- Learn Japanese
+- Read a book
+- Ozon
+## 08.08.2024
+
 - Meditation **DONE**
 - Shave armpits **DONE**
 - Arms and shoulders workout **DONE**
