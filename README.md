@@ -1,8 +1,9 @@
-- Meditation
-- Legs workout
-- Learn Japanese
+- Meditation **DONE**
+- Legs workout **DONE**
+- Learn Japanese **DONE**
 - Wash head **DONE**
-- Microstamping
+- Microstamping **DONE**
+- Groceries **DONE**
 ## 09.08.2024
 
 - Meditation **DONE**
