@@ -1,3 +1,10 @@
+- Meditation
+- Legs workout
+- Learn Japanese
+- Wash head **DONE**
+- Microstamping
+## 09.08.2024
+
 - Meditation **DONE**
 - Groceries **PARTIALLY**
 - Learn Japanese **DONE**
