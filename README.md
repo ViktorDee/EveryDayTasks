@@ -1,3 +1,12 @@
+- Meditation
+- Shave neck
+- Groceries
+- Ozon
+- Learn Japanese
+- Retinol
+- Laundry
+## 10.08.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Learn Japanese **DONE**
