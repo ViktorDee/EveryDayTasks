@@ -1,10 +1,11 @@
-- Meditation
-- Shave neck
-- Groceries
-- Ozon
-- Learn Japanese
-- Retinol
-- Laundry
+- Meditation **DONE**
+- Shave neck **DONE**
+- Groceries **DONE** 
+- Ozon **DONE**
+- Cut nails **FAILED**
+- Learn Japanese **DONE**
+- Retinol **FAILED**
+- Laundry **DONE**
 ## 10.08.2024
 
 - Meditation **DONE**
