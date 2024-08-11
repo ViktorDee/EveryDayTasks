@@ -1,3 +1,11 @@
+- Meditation
+- Ironing
+- Trim face
+- Retinol
+- Trim torso
+- Groceries
+## 11.08.2024
+
 - Meditation **DONE**
 - Shave neck **DONE**
 - Groceries **DONE** 
