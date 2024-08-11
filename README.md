@@ -1,9 +1,11 @@
-- Meditation
-- Ironing
-- Trim face
-- Retinol
-- Trim torso
-- Groceries
+- Meditation **DONE**
+- Dad time **DONE**
+- Learn Japanese **DONE**
+- Ironing **DONE**
+- Trim face **DONE**
+- Retinol **DONE**
+- Trim torso **DONE**
+- Groceries **DONE**
 ## 11.08.2024
 
 - Meditation **DONE**
