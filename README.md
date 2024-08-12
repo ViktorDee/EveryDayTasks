@@ -1,3 +1,8 @@
+- Morning routine
+- Wash head
+- Get ready for a trip
+## 12.08.2024
+
 - Meditation **DONE**
 - Dad time **DONE**
 - Learn Japanese **DONE**
