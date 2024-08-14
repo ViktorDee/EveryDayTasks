@@ -1,6 +1,15 @@
-- Morning routine
+- Meditation
+- Triceps workout
 - Wash head
-- Get ready for a trip
+- Legs conditioning
+- Groceries
+- Learn Japanese
+- Ironing
+## 15.08.2024
+
+- Morning routine **DONE**
+- Wash head **DONE**
+- Get ready for a trip **DONE**
 ## 12.08.2024
 
 - Meditation **DONE**
