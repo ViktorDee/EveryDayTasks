@@ -1,10 +1,13 @@
-- Meditation
-- Triceps workout
-- Wash head
-- Legs conditioning
-- Groceries
-- Learn Japanese
-- Ironing
+- Meditation **DONE**
+- Triceps, ABS, neck, shoulders workout **DONE**
+- Wash head **DONE**
+- Shave fingers **DONE**
+- Legs conditioning **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Morning routine **DONE**
+- Microstamping **DONE**
+- Learn Japanese **DONE**
 ## 15.08.2024
 
 - Morning routine **DONE**
