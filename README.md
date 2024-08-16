@@ -5,6 +5,7 @@
 - Ironing
 - Wipe the dust
 - Rinse nose
+- Take fin
 ## 16.08.2024
 
 - Meditation **DONE**
