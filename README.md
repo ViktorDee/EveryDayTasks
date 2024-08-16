@@ -1,11 +1,11 @@
-- Meditation
-- Learn Japanese
-- Legs conditioning
-- Retinol
-- Ironing
-- Wipe the dust
-- Rinse nose
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Legs conditioning **DONE**
+- Retinol **DONE**
+- Ironing **DONE**
+- Wipe the dust **DONE**
+- Rinse nose **DONE**
+- Take fin **DONE**
 ## 16.08.2024
 
 - Meditation **DONE**
