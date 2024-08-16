@@ -1,8 +1,18 @@
+- Meditation
+- Learn Japanese
+- Legs conditioning
+- Retinol
+- Ironing
+- Wipe the dust
+- Rinse nose
+## 16.08.2024
+
 - Meditation **DONE**
 - Triceps, ABS, neck, shoulders workout **DONE**
 - Wash head **DONE**
 - Shave fingers **DONE**
 - Legs conditioning **DONE**
+- Shave armpits **DONE**
 - Groceries **DONE**
 - Laundry **DONE**
 - Morning routine **DONE**
