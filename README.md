@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Shave neck **DONE**
 - Rinse nose **DONE**
-- Learn Japanese
-- Vacuum cleaning
-- Chamomile tea
+- Learn Japanese **DONE**
+- Vacuum cleaning **TOMORROW**
+- Chamomile tea **DONE**
 ## 17.08.2024
 
 - Meditation **DONE**
