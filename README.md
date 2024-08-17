@@ -1,3 +1,11 @@
+- Meditation
+- Shave neck **DONE**
+- Rinse nose **DONE**
+- Learn Japanese
+- Vacuum cleaning
+- Chamomile tea
+## 17.08.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Legs conditioning **DONE**
