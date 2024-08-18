@@ -1,3 +1,10 @@
+- Meditation
+- Ozon
+- Vacuum cleaning
+- Learn Japanese
+- Read a book
+## 18.08.2024
+
 - Meditation **DONE**
 - Shave neck **DONE**
 - Rinse nose **DONE**
