@@ -1,8 +1,9 @@
-- Meditation
-- Ozon
-- Vacuum cleaning
-- Learn Japanese
-- Read a book
+- Meditation **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **DONE**
+- Learn Japanese **DONE**
+- Read a book **FAILED**
 ## 18.08.2024
 
 - Meditation **DONE**
