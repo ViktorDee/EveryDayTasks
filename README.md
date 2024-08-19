@@ -1,7 +1,9 @@
-- Meditation
-- Chest and back workout
-- Learn Japanese
-- Groceries
+- Meditation **DONE**
+- Chest and back workout **DONE**
+- Learn Japanese **DONE**
+- Take fin **DONE**
+- Read a book **DONE**
+- Groceries **DONE**
 - Wash head **DONE**
 ## 19.08.2024
 
