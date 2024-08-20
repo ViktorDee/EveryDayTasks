@@ -1,3 +1,12 @@
+- Meditation
+- ABS and neck workout
+- Learn Japanese
+- Groceries
+- Retinol
+- Read a book
+- Ozon
+## 20.08.2024
+
 - Meditation **DONE**
 - Chest and back workout **DONE**
 - Learn Japanese **DONE**
