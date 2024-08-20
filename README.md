@@ -1,10 +1,10 @@
-- Meditation
-- ABS and neck workout
-- Learn Japanese
-- Groceries
-- Retinol
-- Read a book
-- Ozon
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Retinol **DONE**
+- Read a book **FAILED**
+- Ozon **DONE**
 ## 20.08.2024
 
 - Meditation **DONE**
