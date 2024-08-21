@@ -1,3 +1,11 @@
+- Meditation
+- Arms and shoulders workout
+- Nap
+- Read a book
+- Learn Japanese
+- Take fin
+## 21.08.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Learn Japanese **DONE**
