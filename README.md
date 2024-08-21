@@ -1,9 +1,9 @@
-- Meditation
-- Arms and shoulders workout
-- Nap
-- Read a book
-- Learn Japanese
-- Take fin
+- Meditation **DONE**
+- Arms and shoulders workout **DONE**
+- Nap **DONE**
+- Read a book **FAILED**
+- Learn Japanese **DONE**
+- Take fin **DONE**
 ## 21.08.2024
 
 - Meditation **DONE**
