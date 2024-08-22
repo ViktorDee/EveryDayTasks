@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Ironing
-- Laundry
-- Groceries
-- Read a book
+- Ironing **DONE**
+- Laundry **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
 ## 22.08.2024
 
 - Meditation **DONE**
