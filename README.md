@@ -1,3 +1,11 @@
+- Meditation
+- Wash head **DONE**
+- Ironing
+- Laundry
+- Groceries
+- Read a book
+## 22.08.2024
+
 - Meditation **DONE**
 - Arms and shoulders workout **DONE**
 - Nap **DONE**
