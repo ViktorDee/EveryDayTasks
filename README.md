@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
-- Ironing
-- Learn Japanese
-- Take fin
-- Shave groin
+- Meditation **DONE**
+- Legs workout **DONE**
+- Ironing **TOMORROW**
+- Learn Japanese **DONE**
+- Take fin **DONE**
+- Shave groin **DONE**
 ## 23.08.2024
 
 - Meditation **DONE**
