@@ -1,11 +1,12 @@
-- Meditation
-- Learn Japanese
-- Have a walk
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Have a walk **FAILED**
+- Ozon **DONE**
 - Wash head  **DONE**
 - Cut hair **DONE**
-- Ironing
-- Change bedsheets
-- Dermostamping
+- Ironing **DONE**
+- Change bedsheets **DONE**
+- Dermostamping **FAILED**
 ## 24.08.2024
 
 - Meditation **DONE**
