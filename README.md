@@ -1,3 +1,13 @@
+- Meditation
+- Learn Japanese
+- Have a walk
+- Wash head  **DONE**
+- Cut hair **DONE**
+- Ironing
+- Change bedsheets
+- Dermostamping
+## 24.08.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Ironing **TOMORROW**
