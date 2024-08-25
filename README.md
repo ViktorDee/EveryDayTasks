@@ -1,9 +1,9 @@
-- Meditation
-- Have a walk
-- Dermostamping
-- Read a book
-- Learn Japanese
-- Laundry
+- Meditation **DONE**
+- Have a walk **DONE**
+- Dermostamping **DONE**
+- Read a book **FAILED**
+- Learn Japanese **DONE**
+- Laundry **DONE**
 ## 25.08.2024
 
 - Meditation **DONE**
