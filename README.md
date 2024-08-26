@@ -1,3 +1,12 @@
+- Meditation
+- Ozon
+- Learn Japanese
+- Ironing
+- Take fin
+- Rinse nose
+- Vacuum cleaning
+## 26.08.2024
+
 - Meditation **DONE**
 - Have a walk **DONE**
 - Dermostamping **DONE**
