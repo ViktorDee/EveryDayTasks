@@ -1,10 +1,10 @@
-- Meditation
-- Ozon
-- Learn Japanese
-- Ironing
-- Take fin
-- Rinse nose
-- Vacuum cleaning
+- Meditation **DONE**
+- Ozon **FAILED**
+- Learn Japanese **DONE**
+- Ironing **DONE**
+- Take fin **DONE**
+- Rinse nose **DONE**
+- Vacuum cleaning **DONE**
 ## 26.08.2024
 
 - Meditation **DONE**
