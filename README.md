@@ -1,10 +1,10 @@
-- Meditation
-- Wash head
-- ABS and neck workout
-- Groceries
-- Learn Japanese
-- Laundry
-- Grip workout
+- Meditation **DONE**
+- Wash head **DONE**
+- ABS and neck workout **NECK TOMORROW**
+- Groceries **DONE**
+- Learn Japanese **DONE**
+- Laundry **DONE**
+- Grip workout **TOMORROW**
 ## 27.08.2024
 
 - Meditation **DONE**
