@@ -1,3 +1,12 @@
+- Meditation
+- Wash head
+- ABS and neck workout
+- Groceries
+- Learn Japanese
+- Laundry
+- Grip workout
+## 27.08.2024
+
 - Meditation **DONE**
 - Ozon **FAILED**
 - Learn Japanese **DONE**
