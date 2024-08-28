@@ -1,3 +1,12 @@
+- Meditation
+- Grip workout
+- Neck workout
+- Ironing
+- Shave neck
+- Trim face **DONE**
+- Learn Japanese
+## 28.08.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - ABS and neck workout **NECK TOMORROW**
