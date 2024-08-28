@@ -1,10 +1,10 @@
-- Meditation
-- Grip workout
-- Neck workout
-- Ironing
-- Shave neck
+- Meditation **DONE**
+- Grip workout **DONE** 
+- Neck workout **DONE**
+- Ironing **DONE**
+- Shave neck **DONE**
 - Trim face **DONE**
-- Learn Japanese
+- Learn Japanese **DONE**
 ## 28.08.2024
 
 - Meditation **DONE**
