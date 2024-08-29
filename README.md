@@ -1,3 +1,9 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Read a book
+## 29.08.2024
+
 - Meditation **DONE**
 - Grip workout **DONE** 
 - Neck workout **DONE**
