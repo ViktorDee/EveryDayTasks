@@ -1,7 +1,7 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Read a book
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Read a book **FAILED**
 ## 29.08.2024
 
 - Meditation **DONE**
