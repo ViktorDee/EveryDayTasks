@@ -1,7 +1,7 @@
-- Meditation
-- Learn Japanese
-- Read a book
-- Legs workout
+- Meditation **DONE**
+- Learn Japanese**DONE**
+- Read a book **FAILED**
+- Legs workout **DONE**
 - Wash head **DONE**
 ## 30.08.2024
 
