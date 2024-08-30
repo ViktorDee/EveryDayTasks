@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Read a book
+- Legs workout
+- Wash head **DONE**
+## 30.08.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
