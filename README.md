@@ -1,3 +1,13 @@
+- Meditation
+- Legs conditioning
+- Rinse nose **DONE**
+- Groceries
+- Learn Japanese
+- Read a book
+- Withdraw money
+- Call grandma
+## 31.08.2024
+
 - Meditation **DONE**
 - Learn Japanese**DONE**
 - Read a book **FAILED**
