@@ -1,11 +1,11 @@
-- Meditation
-- Legs conditioning
+- Meditation **DONE**
+- Legs conditioning **DONE**
 - Rinse nose **DONE**
-- Groceries
-- Learn Japanese
-- Read a book
-- Withdraw money
-- Call grandma
+- Groceries **DONE**
+- Learn Japanese **DONE**
+- Read a book **FAILED**
+- Withdraw money **DONE**
+- Call grandma **DONE**
 ## 31.08.2024
 
 - Meditation **DONE**
