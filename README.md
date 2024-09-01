@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Read a book
+- Shave neck
+- Wipe the dust
+## 01.09.2024
+
 - Meditation **DONE**
 - Legs conditioning **DONE**
 - Rinse nose **DONE**
