@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Read a book
-- Shave neck
-- Wipe the dust
+- Meditation **DONE**
+- Learn Japanese **DONE** 
+- Read a book **DONE**
+- Shave neck **DONE**
+- Wipe the dust **DONE**
 ## 01.09.2024
 
 - Meditation **DONE**
