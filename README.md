@@ -1,9 +1,9 @@
-- Meditation
-- Groceries
+- Meditation **DONE**
+- Groceries **DONE**
 - Wash head **DONE**
-- Learn Japanese
-- Have a walk
-- Ozon
+- Learn Japanese **DONE**
+- Have a walk **DONE**
+- Ozon **DONE**
 ## 02.09.2024
 
 - Meditation **DONE**
