@@ -1,3 +1,11 @@
+- Meditation
+- Groceries
+- Wash head **DONE**
+- Learn Japanese
+- Have a walk
+- Ozon
+## 02.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE** 
 - Read a book **DONE**
