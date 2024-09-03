@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Read a book
+- ABS and neck workout
+- Change bedsheets
+- Rinse nose and throat
+## 03.09.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Wash head **DONE**
