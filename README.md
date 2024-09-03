@@ -1,9 +1,10 @@
-- Meditation
-- Learn Japanese
-- Read a book
-- ABS and neck workout
-- Change bedsheets
-- Rinse nose and throat
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Read a book **FAILED**
+- Face microneedling **DONE**
+- ABS and neck workout **DONE**
+- Change bedsheets **DONE**
+- Rinse nose and throat **FAILED**
 ## 03.09.2024
 
 - Meditation **DONE**
