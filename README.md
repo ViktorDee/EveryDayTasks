@@ -1,11 +1,11 @@
-- Meditation
-- Learn Japanese
-- Ozon
-- Legs conditioning
-- Rinse nose and throat
-- Laundry
-- Trim torso
-- Read a book
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Ozon **DONE**
+- Legs conditioning **DONE**
+- Rinse nose and throat **DONE**
+- Laundry **DONE**
+- Trim torso **DONE**
+- Read a book **DONE**
 ## 04.09.2024
 
 - Meditation **DONE**
