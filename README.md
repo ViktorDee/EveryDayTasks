@@ -1,3 +1,13 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Legs conditioning
+- Rinse nose and throat
+- Laundry
+- Trim torso
+- Read a book
+## 04.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Read a book **FAILED**
