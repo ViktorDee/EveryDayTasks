@@ -1,12 +1,12 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
 - Shave armpits **DONE**
 - Groceries **DONE**
-- ABS and neck workout
-- Money withdraw
-- Laser armpits
-- Check age of mythology
-- Learn Japanese
+- ABS and neck workout **FAILED**
+- Money withdraw **DONE**
+- Laser armpits **DONE**
+- Check age of mythology **DONE**
+- Learn Japanese **DONE**
 ## 05.09.2024
 
 - Meditation **DONE**
