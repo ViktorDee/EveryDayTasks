@@ -1,3 +1,14 @@
+- Meditation
+- Wash head **DONE**
+- Shave armpits **DONE**
+- Groceries **DONE**
+- ABS and neck workout
+- Money withdraw
+- Laser armpits
+- Check age of mythology
+- Learn Japanese
+## 05.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ozon **DONE**
