@@ -1,11 +1,11 @@
-- Meditation
-- Legs workout
-- Shave neck
-- Ironing
-- Laundry
-- Learn Japanese
-- Clean the air vent
-- Clean shoes
+- Meditation **DONE**
+- Legs workout **DONE**
+- Shave neck **DONE**
+- Ironing **DONE**
+- Laundry **DONE**
+- Learn Japanese **DONE**
+- Clean the air vent **DONE**
+- Clean shoes **DONE**
 ## 06.09.2024
 
 - Meditation **DONE**
