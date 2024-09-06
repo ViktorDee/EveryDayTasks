@@ -1,3 +1,13 @@
+- Meditation
+- Legs workout
+- Shave neck
+- Ironing
+- Laundry
+- Learn Japanese
+- Clean the air vent
+- Clean shoes
+## 06.09.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Shave armpits **DONE**
