@@ -1,9 +1,9 @@
-- Meditation
-- Birthday celebration
-- Groceries
+- Meditation **DONE**
+- Birthday celebration **DONE**
+- Groceries **DONE**
 - Trim face **DONE**
-- Learn Japanese
-- Ironing
+- Learn Japanese **FAILED**
+- Ironing **DONE**
 ## 07.09.2024
 
 - Meditation **DONE**
