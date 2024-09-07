@@ -1,3 +1,11 @@
+- Meditation
+- Birthday celebration
+- Groceries
+- Trim face **DONE**
+- Learn Japanese
+- Ironing
+## 07.09.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Shave neck **DONE**
