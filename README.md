@@ -1,8 +1,8 @@
-- Meditation
-- Change bedsheets
+- Meditation **DONE**
+- Change bedsheets **DONE**
 - Wash head **DONE**
-- Learn Japanese
-- Legs conditionin
+- Learn Japanese **DONE**
+- Legs conditionin **FAILED**
 ## 08.09.2024
 
 - Meditation **DONE**
