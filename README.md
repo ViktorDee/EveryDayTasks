@@ -1,3 +1,10 @@
+- Meditation
+- Change bedsheets
+- Wash head **DONE**
+- Learn Japanese
+- Legs conditionin
+## 08.09.2024
+
 - Meditation **DONE**
 - Birthday celebration **DONE**
 - Groceries **DONE**
