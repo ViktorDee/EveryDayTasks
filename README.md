@@ -1,3 +1,11 @@
+- Meditation
+- Legs conditioning
+- Learn Japanese
+- Ozon
+- Henderson
+- Groceries
+## 09.09.2024
+
 - Meditation **DONE**
 - Change bedsheets **DONE**
 - Wash head **DONE**
