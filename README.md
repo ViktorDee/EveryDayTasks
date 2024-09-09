@@ -1,9 +1,9 @@
-- Meditation
-- Legs conditioning
-- Learn Japanese
-- Ozon
-- Henderson
-- Groceries
+- Meditation **DONE**
+- Legs conditioning **DONE**
+- Learn Japanese **DONE**
+- Ozon **TOMORROW**
+- Henderson **TOMORROW**
+- Groceries **DONE**
 ## 09.09.2024
 
 - Meditation **DONE**
