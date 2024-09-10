@@ -1,3 +1,11 @@
+- Meditation
+- Ozon
+- Groceries
+- Vacuum cleaning
+- ABS and neck workout
+- Learn Japanese
+## 10.09.2024
+
 - Meditation **DONE**
 - Legs conditioning **DONE**
 - Learn Japanese **DONE**
