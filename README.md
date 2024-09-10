@@ -1,9 +1,9 @@
-- Meditation
-- Ozon
-- Groceries
-- Vacuum cleaning
-- ABS and neck workout
-- Learn Japanese
+- Meditation **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **FAILED**
+- ABS and neck workout **DONE**
+- Learn Japanese **DONE**
 ## 10.09.2024
 
 - Meditation **DONE**
