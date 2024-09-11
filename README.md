@@ -1,8 +1,8 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Vacuum cleaning
-- Arm workout
-- Learn Japanese
+- Vacuum cleaning **DONE**
+- Arm workout **DONE**
+- Learn Japanese **FAILED**
 ## 11.09.2024
 
 - Meditation **DONE**
