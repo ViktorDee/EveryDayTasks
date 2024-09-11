@@ -1,3 +1,10 @@
+- Meditation
+- Wash head **DONE**
+- Vacuum cleaning
+- Arm workout
+- Learn Japanese
+## 11.09.2024
+
 - Meditation **DONE**
 - Ozon **DONE**
 - Groceries **DONE**
