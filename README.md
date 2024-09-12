@@ -1,3 +1,13 @@
+- Meditation
+- Legs workout
+- Tricep workout
+- Learn Japanese
+- Shave neck
+- Shave armpits
+- Laundry
+- Groceries
+## 12.09.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Vacuum cleaning **DONE**
