@@ -1,11 +1,11 @@
-- Meditation
-- Legs workout
-- Tricep workout
-- Learn Japanese
-- Shave neck
-- Shave armpits
-- Laundry
-- Groceries
+- Meditation **DONE**
+- Legs workout **DONE** 
+- Tricep workout **DONE**
+- Learn Japanese **DONE**
+- Shave neck **DONE**
+- Shave armpits **DONE**
+- Laundry **DONE**
+- Groceries **DONE**
 ## 12.09.2024
 
 - Meditation **DONE**
