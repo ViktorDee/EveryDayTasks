@@ -1,3 +1,9 @@
+- Meditation
+- Trim face **DONE**
+- Celebrate
+- Take fin
+## 13.09.2024
+
 - Meditation **DONE**
 - Legs workout **DONE** 
 - Tricep workout **DONE**
