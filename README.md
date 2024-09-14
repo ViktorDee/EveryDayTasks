@@ -1,7 +1,15 @@
 - Meditation
+- Wash head
+- Groceries
+- Ironing
+- Learn Japanese
+- Throw out the trash
+## 14.09.2024
+
+- Meditation **DONE**
 - Trim face **DONE**
-- Celebrate
-- Take fin
+- Celebrate **DONE**
+- Take fin **DONE**
 ## 13.09.2024
 
 - Meditation **DONE**
