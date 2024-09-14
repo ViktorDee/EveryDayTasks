@@ -1,9 +1,9 @@
-- Meditation
-- Wash head
-- Groceries
-- Ironing
-- Learn Japanese
-- Throw out the trash
+- Meditation **DONE**
+- Wash head **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Learn Japanese **DONE**
+- Throw out the trash **DONE**
 ## 14.09.2024
 
 - Meditation **DONE**
