@@ -1,8 +1,8 @@
-- Meditation
-- Groceries
-- Learn Japanese
-- Laundry
-- Read a book
+- Meditation **DONE**
+- Groceries **DONE**
+- Learn Japanese **DONE**
+- Laundry **TOMORROW**
+- Read a book **DONE**
 ## 15.09.2024
 
 - Meditation **DONE**
