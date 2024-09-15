@@ -1,3 +1,10 @@
+- Meditation
+- Groceries
+- Learn Japanese
+- Laundry
+- Read a book
+## 15.09.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Groceries **DONE**
