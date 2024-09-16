@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Henderson shirts
-- Shave groin
-- Change bedsheets
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Henderson shirts **DONE**
+- Shave groin **FAILED**
+- Change bedsheets **DONE**
+- Laundry **DONE**
 ## 16.09.2024
 
 - Meditation **DONE**
