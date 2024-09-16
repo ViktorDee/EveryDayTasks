@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Henderson shirts
+- Shave groin
+- Change bedsheets
+- Laundry
+## 16.09.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Learn Japanese **DONE**
