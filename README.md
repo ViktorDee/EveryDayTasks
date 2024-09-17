@@ -1,9 +1,10 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- ABS and neck workout
-- Learn Japanese
-- Shave groin
-- Ironing
+- ABS and neck workout **DONE**
+- Learn Japanese **DONE**
+- Shave groin **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
 ## 17.09.2024
 
 - Meditation **DONE**
