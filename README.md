@@ -1,3 +1,11 @@
+- Meditation
+- Wash head **DONE**
+- ABS and neck workout
+- Learn Japanese
+- Shave groin
+- Ironing
+## 17.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Henderson shirts **DONE**
