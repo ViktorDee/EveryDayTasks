@@ -1,9 +1,10 @@
-- Meditation
-- Learn Japanese
-- Ozon
-- Read a book
-- Arm workout
-- Legs conditioning
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Ozon **DONE**
+- Read a book **FAILED**
+- Face microneedling **DONE**
+- Arm workout **DONE**
+- Legs conditioning **DONE**
 ## 18.09.2024
 
 - Meditation **DONE**
