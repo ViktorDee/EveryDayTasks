@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Read a book
+- Arm workout
+- Legs conditioning
+## 18.09.2024
+
 - Meditation **DONE**
 - Wash head **DONE**
 - ABS and neck workout **DONE**
