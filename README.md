@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Polish on nails
+- Trim face **DONE**
+## 19.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ozon **DONE**
