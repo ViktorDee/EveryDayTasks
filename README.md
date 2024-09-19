@@ -1,7 +1,7 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Polish on nails
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Polish on nails **DONE**
 - Trim face **DONE**
 ## 19.09.2024
 
