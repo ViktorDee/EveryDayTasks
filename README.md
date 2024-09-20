@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
-- Order hangers
-- Learn Japanese
-- Laundry
-- Take fin
+- Meditation **DONE**
+- Legs workout **DONE**
+- Order hangers **DONE**
+- Learn Japanese **DONE**
+- Laundry **DONE**
+- Take fin **DONE**
 ## 20.09.2024
 
 - Meditation **DONE**
