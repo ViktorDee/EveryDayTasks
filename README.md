@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Order hangers
+- Learn Japanese
+- Laundry
+- Take fin
+## 20.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
