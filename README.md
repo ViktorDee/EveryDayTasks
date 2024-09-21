@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Pasha's event
+- Withdraw money
+- Wash head **DONE**
+- Groceries
+- Ironing
+## 21.09.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Order hangers **DONE**
