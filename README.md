@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Pasha's event
-- Withdraw money
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Pasha's event **FAILED**
+- Withdraw money **DONE**
 - Wash head **DONE**
-- Groceries
-- Ironing
+- Groceries **DONE**
+- Ironing **FAILED**
 ## 21.09.2024
 
 - Meditation **DONE**
