@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Trash out
-- Ironing
-- Change bedsheets
-- Wipe some dust
+- Meditation **DONE**
+- Learn Japanese **FAILED**
+- Trash out **DONE**
+- Ironing **DONE**
+- Change bedsheets **DONE**
+- Wipe some dust **DONE**
 ## 22.09.2024
 
 - Meditation **DONE**
