@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Trash out
+- Ironing
+- Change bedsheets
+- Wipe some dust
+## 22.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Pasha's event **FAILED**
