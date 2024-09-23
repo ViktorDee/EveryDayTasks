@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Forearms workout + chest
+- Groceries
+- Laundry
+- Take fin
+## 23.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **FAILED**
 - Trash out **DONE**
