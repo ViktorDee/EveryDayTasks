@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Forearms workout + chest
-- Groceries
-- Laundry
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Forearms workout + chest **DONE**
+- Groceries **TOMORROW**
+- Laundry **TOMORROW**
+- Take fin **DONE**
 ## 23.09.2024
 
 - Meditation **DONE**
