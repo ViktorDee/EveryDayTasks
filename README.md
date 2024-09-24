@@ -1,3 +1,14 @@
+- Meditation
+- ABS and neck workout
+- Learn Japanese
+- Laundry
+- Vacuum cleaning
+- Shave neck
+- Wash head **DONE**
+- Trash out
+- Groceries
+## 24.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Forearms workout + chest **DONE**
