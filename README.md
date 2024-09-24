@@ -1,12 +1,12 @@
-- Meditation
-- ABS and neck workout
-- Learn Japanese
-- Laundry
+- Meditation **DONE**
+- ABS and neck workout **DONE**
+- Learn Japanese **FAILED**
+- Laundry **TOMORROW**
 - Vacuum cleaning
-- Shave neck
+- Shave neck **DONE**
 - Wash head **DONE**
-- Trash out
-- Groceries
+- Trash out **TOMORROW**
+- Groceries **DONE**
 ## 24.09.2024
 
 - Meditation **DONE**
