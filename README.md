@@ -1,3 +1,13 @@
+- Meditation
+- Learn Japanese
+- Vacuum cleaning
+- Groceries
+- Ozon, yandex
+- Trash out
+- Retinol
+- Arm workout
+## 25.09.2024
+
 - Meditation **DONE**
 - ABS and neck workout **DONE**
 - Learn Japanese **FAILED**
