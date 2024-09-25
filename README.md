@@ -1,11 +1,12 @@
-- Meditation
-- Learn Japanese
-- Vacuum cleaning
-- Groceries
-- Ozon, yandex
-- Trash out
-- Retinol
-- Arm workout
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Vacuum cleaning **TOMORROW**
+- Groceries **DONE**
+- Ozon, yandex **DONE**
+- Trash out **DONE**
+- Retinol **DONE**
+- Arm workout **DONE**
+- Laundry **DONE**
 ## 25.09.2024
 
 - Meditation **DONE**
