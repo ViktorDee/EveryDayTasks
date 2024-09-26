@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Ozon
-- Ironing
-- Vacuum cleaning
-- Read a book
+- Meditation **DONE**
+- Learn Japanese **HALF DONE**
+- Ozon **FAILED**
+- Ironing **DONE**
+- Vacuum cleaning **FAILED**
+- Read a book **FAILED**
 ## 26.09.2024
 
 - Meditation **DONE**
