@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Ironing
+- Vacuum cleaning
+- Read a book
+## 26.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Vacuum cleaning **TOMORROW**
