@@ -1,9 +1,10 @@
-- Meditation
-- Ozon
-- Legs workout
-- Wash head
-- Take fin
-- Learn Japanese
+- Meditation **DONE**
+- Ozon **DONE**
+- Vacuum cleaning
+- Legs workout **DONE**
+- Wash head **DONE**
+- Take fin **DONE**
+- Learn Japanese **DONE**
 ## 27.09.2024
 
 - Meditation **DONE**
