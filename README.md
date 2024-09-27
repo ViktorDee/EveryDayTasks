@@ -1,3 +1,11 @@
+- Meditation
+- Ozon
+- Legs workout
+- Wash head
+- Take fin
+- Learn Japanese
+## 27.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **HALF DONE**
 - Ozon **FAILED**
