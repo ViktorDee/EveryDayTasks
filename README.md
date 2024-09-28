@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Withdraw money
-- Throw out the trash
-- Laundry
-- Left arm
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Withdraw money **DONE**
+- Throw out the trash **DONE**
+- Laundry **DONE**
+- Left arm **DONE**
 ## 28.09.2024
 
 - Meditation **DONE**
