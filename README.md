@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Withdraw money
+- Throw out the trash
+- Laundry
+- Left arm
+## 28.09.2024
+
 - Meditation **DONE**
 - Ozon **DONE**
 - Vacuum cleaning
