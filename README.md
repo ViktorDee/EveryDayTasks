@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Ironing
-- Groceries
-- Shave groin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Ironing **DONE**
+- Groceries **DONE**
+- Shave groin **DONE**
 ## 29.09.2024
 
 - Meditation **DONE**
