@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Wash head
+- Cut hair
+- Back + forearms workout
+- Take fin
+## 30.09.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ironing **DONE**
