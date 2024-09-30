@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Wash head
-- Cut hair
-- Back + forearms workout
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Wash head **DONE**
+- Cut hair **DONE**
+- Back + forearms workout **DONE**
+- Take fin **DONE**
 ## 30.09.2024
 
 - Meditation **DONE**
