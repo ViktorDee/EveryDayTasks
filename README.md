@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- ABS and neck workout + forearms
+- Legs conditioning
+- Groceries
+## 01.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Wash head **DONE**
