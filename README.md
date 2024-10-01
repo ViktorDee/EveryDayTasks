@@ -1,8 +1,10 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout + forearms
-- Legs conditioning
-- Groceries
+- Meditation **DONE**
+- Cut nails **DONE**
+- Shave neck **DONE**
+- Learn Japanese **DONE**
+- ABS and neck workout + forearms **DONE**
+- Legs conditioning **DONE**
+- Groceries **DONE**
 ## 01.10.2024
 
 - Meditation **DONE**
