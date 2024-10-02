@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Arms workout
+- Trim face
+- Change bedsheets
+- Take fin
+## 02.10.2024
+
 - Meditation **DONE**
 - Cut nails **DONE**
 - Shave neck **DONE**
