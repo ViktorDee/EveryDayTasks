@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Arms workout
-- Trim face
-- Change bedsheets
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms workout **DONE**
+- Trim face **DONE**
+- Change bedsheets **DONE**
+- Take fin **DONE**
 ## 02.10.2024
 
 - Meditation **DONE**
