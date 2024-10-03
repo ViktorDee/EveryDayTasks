@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Wash head
-- Groceries
-- Laundry
-- Trash out
-- Ozon
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Wash head **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Trash out **DONE**
+- Ozon **DONE**
 ## 03.10.2024
 
 - Meditation **DONE**
