@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Wash head
+- Groceries
+- Laundry
+- Trash out
+- Ozon
+## 03.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms workout **DONE**
