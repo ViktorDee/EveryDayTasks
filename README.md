@@ -1,3 +1,9 @@
+- Meditation
+- Learn Japanese
+- Legs workout
+- Take fin
+## 04.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Wash head **DONE**
