@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Ironing
-- Groceries
-- Clean the mirror
+- Meditation **DONE**
+- Learn Japanese **HALF**
+- Ironing **DONE**
+- Groceries **TOMORROW**
+- Clean the mirror **DONE**
 ## 05.10.2024
 
 - Meditation **DONE**
