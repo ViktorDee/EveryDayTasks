@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Ironing
+- Groceries
+- Clean the mirror
+## 05.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Legs workout **DONE**
