@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Wash head
+- Cut hair
+- Laundry
+## 06.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **HALF**
 - Ironing **DONE**
