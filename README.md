@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Chest and back workout + left arm
-- Ironing
-- Retinol
-- Vacuum cleaning
-- Bath clean
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout + left arm **DONE**
+- Ironing **DONE**
+- Retinol **DONE**
+- Vacuum cleaning **TOMORROW**
+- Bath clean **HALF**
 ## 07.10.2024
 
 - Meditation **DONE**
