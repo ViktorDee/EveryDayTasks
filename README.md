@@ -1,9 +1,18 @@
 - Meditation
 - Learn Japanese
-- Groceries
-- Wash head
-- Cut hair
-- Laundry
+- Chest and back workout + left arm
+- Ironing
+- Retinol
+- Vacuum cleaning
+- Bath clean
+## 07.10.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE** 
+- Groceries **DONE**
+- Wash head **DONE**
+- Cut hair **DONE**
+- Laundry **DONE**
 ## 06.10.2024
 
 - Meditation **DONE**
