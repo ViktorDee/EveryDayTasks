@@ -1,9 +1,10 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout
-- Vacuum cleaning
-- Retinol
-- Buy blood tests
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Trash out **DONE**
+- ABS and neck workout **DONE**
+- Vacuum cleaning **DONE**
+- Retinol **DONE**
+- Buy blood tests **DONE**
 ## 08.10.2024
 
 - Meditation **DONE**
