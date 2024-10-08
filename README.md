@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- ABS and neck workout
+- Vacuum cleaning
+- Retinol
+- Buy blood tests
+## 08.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Chest and back workout + left arm **DONE**
