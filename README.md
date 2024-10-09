@@ -1,12 +1,12 @@
-- Meditation
-- Learn Japanese
-- Arms workout
-- Legs conditioning
-- Groceries
-- Change bedsheets
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms workout **DONE**
+- Legs conditioning **TOMORROW**
+- Groceries **DONE**
+- Change bedsheets **TOMORROW**
 - Wash head **DONE**
-- Take fin
-- Retinol
+- Take fin **DONE**
+- Retinol  **DONE**
 - Trim face **DONE**
 ## 09.10.2024
 
