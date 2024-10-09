@@ -1,9 +1,22 @@
+- Meditation
+- Learn Japanese
+- Arms workout
+- Legs conditioning
+- Groceries
+- Change bedsheets
+- Wash head **DONE**
+- Take fin
+- Retinol
+- Trim face **DONE**
+## 09.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Trash out **DONE**
 - ABS and neck workout **DONE**
 - Vacuum cleaning **DONE**
 - Retinol **DONE**
+- Shave neck **DONE**
 - Buy blood tests **DONE**
 ## 08.10.2024
 
