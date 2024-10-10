@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Change bedsheets
+- Retinol
+- Cut toenails
+- Legs conditioning
+## 10.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms workout **DONE**
