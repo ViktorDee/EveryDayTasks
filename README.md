@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Change bedsheets
-- Retinol
-- Cut toenails
-- Legs conditioning
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Change bedsheets**DONE**
+- Retinol **DONE**
+- Cut toenails **DONE**
+- Legs conditioning **DONE**
 ## 10.10.2024
 
 - Meditation **DONE**
