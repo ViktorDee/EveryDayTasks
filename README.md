@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Legs workout
-- Retinol
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Legs workout **DONE**
+- Retinol **DONE**
+- Take fin **DONE**
 ## 11.10.2024
 
 - Meditation **DONE**
