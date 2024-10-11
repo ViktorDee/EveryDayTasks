@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Legs workout
+- Retinol
+- Take fin
+## 11.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Change bedsheets**DONE**
