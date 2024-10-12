@@ -1,7 +1,7 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
 ## 12.10.2024
 
 - Meditation **DONE**
