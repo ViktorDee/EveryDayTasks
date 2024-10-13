@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Blood tests
+- Take fin
+- Groceries
+- Ironing
+## 13.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
