@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Blood tests
-- Take fin
-- Groceries
-- Ironing
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Blood tests **DONE**
+- Take fin **DONE**
+- Groceries **FAILED**
+- Ironing **DONE**
 ## 13.10.2024
 
 - Meditation **DONE**
