@@ -1,3 +1,14 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout
+- Wash head
+- Shave neck
+- Groceries
+- Trash out
+- Take fin
+- Laundry
+## 14.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Blood tests **DONE**
