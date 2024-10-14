@@ -1,12 +1,12 @@
-- Meditation
-- Learn Japanese
-- Chest and back workout
-- Wash head
-- Shave neck
-- Groceries
-- Trash out
-- Take fin
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout **DONE**
+- Wash head **DONE**
+- Shave neck **DONE**
+- Groceries **DONE**
+- Trash out **DONE**
+- Take fin **DONE**
+- Laundry **TOMORROW**
 ## 14.10.2024
 
 - Meditation **DONE**
