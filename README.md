@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- ABS and neck workout
+- Forearms workout
+- Ozon
+- Groceries: eggs
+- Laundry
+## 15.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Chest and back workout **DONE**
