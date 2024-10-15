@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout
-- Forearms workout
-- Ozon
-- Groceries: eggs
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- ABS and neck workout **DONE**
+- Forearms workout **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
 ## 15.10.2024
 
 - Meditation **DONE**
