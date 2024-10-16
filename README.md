@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Arms workout
+- Retinol
+- Ironing
+## 16.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - ABS and neck workout **DONE**
