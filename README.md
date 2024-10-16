@@ -1,8 +1,9 @@
-- Meditation
-- Learn Japanese
-- Arms workout
-- Retinol
-- Ironing
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms workout **DONE**
+- Retinol **DONE**
+- Take fin **DONE**
+- Ironing **DONE**
 ## 16.10.2024
 
 - Meditation **DONE**
