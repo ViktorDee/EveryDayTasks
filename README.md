@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Change bedsheets
+- Wash head
+- Groceries
+## 17.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms workout **DONE**
