@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Change bedsheets
-- Wash head
-- Groceries
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Change bedsheets **DONE**
+- Wash head **DONE**
+- Groceries **DONE**
 ## 17.10.2024
 
 - Meditation **DONE**
