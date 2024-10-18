@@ -1,7 +1,7 @@
-- Meditation
-- Legs workout
-- Take fin
-- Learn Japanese
+- Meditation **DONE**
+- Legs workout **DONE**
+- Take fin **DONE**
+- Learn Japanese **DONE**
 ## 18.10.2024
 
 - Meditation **DONE**
