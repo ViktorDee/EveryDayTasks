@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Laundry
-- Vacuum cleaning
-- Have a walk
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Vacuum cleaning **DONE**
+- Have a walk **DONE**
 ## 19.10.2024
 
 - Meditation **DONE**
