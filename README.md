@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Laundry
+- Vacuum cleaning
+- Have a walk
+## 19.10.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Take fin **DONE**
