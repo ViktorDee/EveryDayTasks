@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Take fin
+- Wash head **DONE**
+- Ironing
+- Shave neck
+## 20.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
