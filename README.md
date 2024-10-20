@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Take fin **DONE**
 - Wash head **DONE**
-- Ironing
-- Shave neck
+- Ironing **DONE**
+- Shave neck **DONE**
 ## 20.10.2024
 
 - Meditation **DONE**
