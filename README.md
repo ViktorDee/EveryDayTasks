@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Chest and back workout + arm
+- Groceries
+- Take fin
+## 21.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Take fin **DONE**
