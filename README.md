@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Chest and back workout + arm
-- Groceries
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Chest and back workout + arm **DONE**
+- Groceries **DONE**
+- Take fin **DONE**
 ## 21.10.2024
 
 - Meditation **DONE**
