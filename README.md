@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Retinol
+- Groceries
+- Workout
+## 22.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
