@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Arms and shoulders workout
+- Wash head
+- Take fin
+- Retinol
+## 23.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ozon **DONE**
