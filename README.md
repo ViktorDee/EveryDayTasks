@@ -1,3 +1,9 @@
+- Meditation
+- Learn Japanese
+- Legs conditioning
+- Ironing
+## 24.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ozon **DONE**
