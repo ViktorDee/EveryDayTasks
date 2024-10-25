@@ -1,7 +1,17 @@
 - Meditation
 - Learn Japanese
-- Legs conditioning
-- Ironing
+- Legs workout
+- Discord
+- Take fin
+- Retinol
+## 25.10.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Retinol **DONE**
+- Legs conditioning **DONE**
+- Ironing **DONE**
 ## 24.10.2024
 
 - Meditation **DONE**
