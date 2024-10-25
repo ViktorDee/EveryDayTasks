@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Legs workout
-- Discord
-- Take fin
-- Retinol
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Legs workout **FAILED**
+- Discord **FAILED**
+- Take fin **DONE**
+- Retinol **DONE**
 ## 25.10.2024
 
 - Meditation **DONE**
