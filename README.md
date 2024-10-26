@@ -1,3 +1,11 @@
+- Meditation
+- Shave neck
+- Wash head
+- Learn Japanese
+- Ozon
+- Groceries
+## 26.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Legs workout **FAILED**
