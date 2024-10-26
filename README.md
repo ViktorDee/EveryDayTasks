@@ -1,9 +1,9 @@
-- Meditation
-- Shave neck
-- Wash head
-- Learn Japanese
-- Ozon
-- Groceries
+- Meditation **DONE**
+- Shave neck **DONE**
+- Wash head **DONE**
+- Learn Japanese **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
 ## 26.10.2024
 
 - Meditation **DONE**
