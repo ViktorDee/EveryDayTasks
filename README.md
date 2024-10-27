@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Change bedsheets
+- Trim face
+- Take fin
+- Legs conditioning
+## 27.10.2024
+
 - Meditation **DONE**
 - Shave neck **DONE**
 - Wash head **DONE**
