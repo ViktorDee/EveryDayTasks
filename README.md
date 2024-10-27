@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Change bedsheets
-- Trim face
-- Take fin
-- Legs conditioning
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Change bedsheets **DONE**
+- Trim face **DONE**
+- Take fin **DONE**
+- Legs conditioning **FAILED**
 ## 27.10.2024
 
 - Meditation **DONE**
