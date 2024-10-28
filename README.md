@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese 
-- Ironing
-- Vacuum cleaning
-- Take fin
-- Retinol
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Ironing **DONE**
+- Vacuum cleaning **FAILED**
+- Take fin **DONE**
+- Retinol **DONE**
 ## 28.10.2024
 
 - Meditation **DONE**
