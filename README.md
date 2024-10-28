@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Wash head
+- Groceries
+- Shave armpits
+## 29.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ironing **DONE**
