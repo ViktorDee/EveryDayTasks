@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese 
+- Ironing
+- Vacuum cleaning
+- Take fin
+- Retinol
+## 28.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
