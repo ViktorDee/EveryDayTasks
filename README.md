@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Ozon
-- Wash head
-- Groceries
-- Shave armpits
+- Meditation **DONE**
+- Learn Japanese **FAILED**
+- Ozon **DONE**
+- Wash head **DONE**
+- Groceries **DONE**
+- Shave armpits **DONE**
 ## 29.10.2024
 
 - Meditation **DONE**
