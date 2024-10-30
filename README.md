@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Take fin
+- Retinol
+- Vacuum cleaning
+## 30.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **FAILED**
 - Ozon **DONE**
