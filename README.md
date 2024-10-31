@@ -1,3 +1,13 @@
+- Meditation
+- Retinol
+- Ozon
+- Withdraw money
+- Groceries
+- Clean the mirror
+- Learn Japanese
+- Apartment bills
+## 31.10.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Take fin **DONE**
