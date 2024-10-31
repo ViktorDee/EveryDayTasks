@@ -1,11 +1,11 @@
-- Meditation
-- Retinol
-- Ozon
-- Withdraw money
-- Groceries
-- Clean the mirror
-- Learn Japanese
-- Apartment bills
+- Meditation **DONE**
+- Retinol **DONE**
+- Ozon **DONE**
+- Withdraw money **DONE**
+- Groceries **DONE**
+- Clean the mirror **FAILED**
+- Learn Japanese **DONE**
+- Apartment bills **FAILED**
 ## 31.10.2024
 
 - Meditation **DONE**
