@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
-- Wash head
-- Apartment bills
-- Retinol
-- Take fin
+- Meditation **DONE**
+- Legs workout **DONE**
+- Wash head **DONE**
+- Apartment bills **DONE**
+- Retinol **DONE**
+- Take fin **DONE**
 ## 01.11.2024
 
 - Meditation **DONE**
