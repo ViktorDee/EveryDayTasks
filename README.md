@@ -1,9 +1,17 @@
+- Meditation
+- Legs workout
+- Wash head
+- Apartment bills
+- Retinol
+- Take fin
+## 01.11.2024
+
 - Meditation **DONE**
 - Retinol **DONE**
 - Ozon **DONE**
 - Withdraw money **DONE**
 - Groceries **DONE**
-- Clean the mirror **FAILED**
+- Clean the mirror **DONE**
 - Learn Japanese **DONE**
 - Apartment bills **FAILED**
 ## 31.10.2024
