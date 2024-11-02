@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Shave neck
+- 
+## 02.11.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Wash head **DONE**
