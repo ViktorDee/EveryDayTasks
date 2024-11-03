@@ -1,8 +1,16 @@
 - Meditation
 - Learn Japanese
-- Groceries
-- Shave neck
-- 
+- Nap
+- Shave neck **DONE**
+- Trim face **DONE**
+- Laundry
+- Rinse nose
+## 03.11.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Shave neck **TOMORROW**
 ## 02.11.2024
 
 - Meditation **DONE**
