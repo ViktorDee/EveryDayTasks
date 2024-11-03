@@ -1,10 +1,11 @@
-- Meditation
-- Learn Japanese
-- Nap
+- Meditation **DONE**
+- Learn Japanese **FAILED**
+- Nap **FAILED**
+- Groceries **DONE**
 - Shave neck **DONE**
 - Trim face **DONE**
-- Laundry
-- Rinse nose
+- Laundry **DONE**
+- Rinse nose **DONE**
 ## 03.11.2024
 
 - Meditation **DONE**
