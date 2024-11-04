@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Chest and back workout
-- Wash head
-- Take fin
-- Ironing
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout **DONE**
+- Wash head **DONE**
+- Take fin **DONE**
+- Ironing **DONE**
 ## 04.11.2024
 
 - Meditation **DONE**
