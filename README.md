@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout
+- Wash head
+- Take fin
+- Ironing
+## 04.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **FAILED**
 - Nap **FAILED**
