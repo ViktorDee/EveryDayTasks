@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- ABS and neck workout
+- Groceries
+- Shave armpits
+- Retinol
+- Change bedsheets
+## 05.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Chest and back workout **DONE**
