@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout
-- Groceries
-- Shave armpits
-- Retinol
-- Change bedsheets
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- ABS and neck workout **DONE**
+- Groceries **DONE**
+- Shave armpits **TOMORROW**
+- Retinol **DONE**
+- Change bedsheets **DONE**
 ## 05.11.2024
 
 - Meditation **DONE**
