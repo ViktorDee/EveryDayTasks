@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Arms and shoulders workout
+- Shave armpits
+- Take fin
+- Retinol
+- Laundry
+## 06.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - ABS and neck workout **DONE**
