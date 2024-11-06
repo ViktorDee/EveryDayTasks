@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Arms and shoulders workout
-- Shave armpits
-- Take fin
-- Retinol
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms and shoulders workout **DONE**
+- Shave armpits **DONE**
+- Take fin **DONE**
+- Retinol **DONE**
+- Laundry **DONE**
 ## 06.11.2024
 
 - Meditation **DONE**
