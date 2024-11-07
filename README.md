@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Groceries
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
 - Wash head **DONE**
-- Retinol
-- Ironing
+- Retinol **DONE**
+- Ironing **FAILED**
 ## 07.11.2024
 
 - Meditation **DONE**
