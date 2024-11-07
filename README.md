@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Wash head **DONE**
+- Retinol
+- Ironing
+## 07.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms and shoulders workout **DONE**
