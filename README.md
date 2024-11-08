@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Legs workout
+- Retinol
+- Take fin
+- Trash out
+## 08.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
