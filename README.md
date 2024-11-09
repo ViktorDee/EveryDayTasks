@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Shave neck
+- Morning plank video **DONE**
+## 09.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **FAILED**
 - Legs workout **DONE**
