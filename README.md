@@ -1,7 +1,7 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Shave neck
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Shave neck **DONE**
 - Morning plank video **DONE**
 ## 09.11.2024
 
