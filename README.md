@@ -1,3 +1,12 @@
+- Meditation
+- Trim face **DONE**
+- Wash head
+- Groceries
+- Learn Japanese
+- Laundry
+- Cut hair a bit
+## 10.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
