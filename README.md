@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout + arm + forearms
+- Ironing
+- Change bedsheets
+## 11.11.2024
+
 - Meditation **DONE**
 - Trim face **DONE**
 - Wash head **DONE**
