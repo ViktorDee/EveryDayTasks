@@ -1,9 +1,10 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout
-- Ozon
-- Retinol
-- Taxes
+- Meditation **DONE**
+- Groceries **DONE**
+- Learn Japanese **FAILED**
+- ABS and neck workout **TOMORROW**
+- Ozon **TOMORROW**
+- Retinol **DONE**
+- Taxes **DONE**
 ## 12.11.2024
 
 - Meditation **DONE**
