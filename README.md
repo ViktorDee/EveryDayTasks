@@ -1,8 +1,18 @@
 - Meditation
 - Learn Japanese
-- Chest and back workout + arm + forearms
-- Ironing
-- Change bedsheets
+- ABS and neck workout
+- Ozon
+- Retinol
+- Taxes
+## 12.11.2024
+
+- Meditation **DONE**
+- Retinol **DONE**
+- Take fin **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout + arm + forearms **DONE**
+- Ironing **DONE**
+- Change bedsheets **DONE**
 ## 11.11.2024
 
 - Meditation **DONE**
