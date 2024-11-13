@@ -1,3 +1,13 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Groceries
+- Arms and shoulders + neck workout
+- Withdraw money
+- Sort pictures
+- Look for vaseline
+## 13.11.2024
+
 - Meditation **DONE**
 - Groceries **DONE**
 - Learn Japanese **FAILED**
