@@ -1,11 +1,11 @@
-- Meditation
-- Learn Japanese
-- Ozon
-- Groceries
-- Arms and shoulders + neck workout
-- Withdraw money
-- Sort pictures
-- Look for vaseline
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Arms and shoulders + neck workout **DONE**
+- Withdraw money **DONE**
+- Sort pictures **DONE**
+- Look for vaseline **DONE**
 ## 13.11.2024
 
 - Meditation **DONE**
