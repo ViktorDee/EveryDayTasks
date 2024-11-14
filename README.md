@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Wash head
+- Retinol
+- Withdraw money
+## 14.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ozon **DONE**
