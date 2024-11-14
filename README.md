@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Wash head
-- Retinol
-- Withdraw money
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Wash head **DONE**
+- Retinol **DONE**
+- Withdraw money **DONE**
 ## 14.11.2024
 
 - Meditation **DONE**
