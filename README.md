@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Laundry
-- Vacuum cleaning
-- Shave armpits
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Vacuum cleaning **DONE**
+- Shave armpits **FAILED**
 ## 16.11.2024
 
 - Meditation **DONE**
