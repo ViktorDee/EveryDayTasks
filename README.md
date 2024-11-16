@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Laundry
+- Vacuum cleaning
+- Shave armpits
+## 16.11.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Retinol **DONE**
