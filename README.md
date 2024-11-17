@@ -1,3 +1,16 @@
+- Meditation
+- Learn Japanese
+- Wash head **DONE**
+- Shave neck **DONE**
+- Shave armpits **DONE**
+- Shave groin **DONE**
+- Ironing
+- Take fin
+- Microneedling
+- Groceries
+- Ozon
+## 17.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
