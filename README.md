@@ -1,14 +1,14 @@
-- Meditation
-- Learn Japanese
+- Meditation **DONE**
+- Learn Japanese **DONE**
 - Wash head **DONE**
 - Shave neck **DONE**
 - Shave armpits **DONE**
 - Shave groin **DONE**
-- Ironing
-- Take fin
-- Microneedling
-- Groceries
-- Ozon
+- Ironing **DONE**
+- Take fin **DONE**
+- Microneedling **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
 ## 17.11.2024
 
 - Meditation **DONE**
