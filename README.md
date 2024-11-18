@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout
+- Groceries
+- Retinol
+- Take fin
+- Laundry
+## 18.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Wash head **DONE**
