@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Chest and back workout
-- Groceries
-- Retinol
-- Take fin
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout **DONE**
+- Groceries **DONE**
+- Retinol **DONE**
+- Take fin **DONE**
+- Laundry **TOMORROW**
 ## 18.11.2024
 
 - Meditation **DONE**
