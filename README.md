@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout + forearms
-- Groceries
-- Laundry
-- Retinol
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- ABS and neck workout + forearms **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Retinol **DONE**
+- Take fin **DONE**
 ## 19.11.2024
 
 - Meditation **DONE**
