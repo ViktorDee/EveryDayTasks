@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- ABS and neck workout + forearms
+- Groceries
+- Laundry
+- Retinol
+- Take fin
+## 19.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Chest and back workout **DONE**
