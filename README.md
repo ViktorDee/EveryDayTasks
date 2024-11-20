@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Arms and shoulders workout
+- Ironing
+- Take fin
+- Retinol
+## 20.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - ABS and neck workout + forearms **DONE**
