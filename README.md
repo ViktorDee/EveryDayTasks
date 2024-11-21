@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Take fin
+- Retinol
+- Withdraw money
+## 21.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms and shoulders workout **DONE**
