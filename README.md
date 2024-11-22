@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese a bit
-- Legs workout
-- Groceries 
-- Retinol
-- Trash out
-- Take fin
+- Meditation **DONE**
+- Learn Japanese a bit **DONE**
+- Legs workout **DONE** 
+- Groceries **DONE**
+- Retinol **CHANGED MY MIND**
+- Trash out **DONE**
+- Take fin **DONE**
 ## 22.11.2024
 
 - Meditation **DONE**
