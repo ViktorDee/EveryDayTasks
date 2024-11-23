@@ -1,6 +1,6 @@
-- Meditation
-- Learn Japanese
-- Groceries
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **TOMORROW**
 - Shave neck **DONE**
 ## 23.11.2024
 
