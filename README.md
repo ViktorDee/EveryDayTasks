@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Wash head **DONE**
+- Clean the mirror
+- Microneedling
+## 24.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **TOMORROW**
