@@ -1,9 +1,10 @@
-- Meditation
-- Learn Japanese
-- Groceries
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
 - Wash head **DONE**
-- Clean the mirror
-- Microneedling
+- Clean the mirror **DONE**
+- Microneedling **DONE**
 ## 24.11.2024
 
 - Meditation **DONE**
