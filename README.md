@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout + arm
+- BHA
+- Ironing
+- Laundry
+## 25.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
