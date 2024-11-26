@@ -1,9 +1,18 @@
 - Meditation
 - Learn Japanese
-- Chest and back workout + arm
-- BHA
+- ABS and neck workout
 - Ironing
-- Laundry
+- Groceries
+- Nap
+- Take fin
+## 26.11.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout + arm **DONE**
+- BHA **DONE**
+- Ironing **DONE**
+- Laundry **DONE**
 ## 25.11.2024
 
 - Meditation **DONE**
