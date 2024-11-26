@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout
-- Ironing
-- Groceries
-- Nap
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- ABS and neck workout **DONE**
+- Ironing **DONE**
+- Groceries **DONE**
+- Nap **DONE**
+- Take fin **DONE**
 ## 26.11.2024
 
 - Meditation **DONE**
