@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Arms and shoulders workout
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms and shoulders workout **DONE**
 - Wash head **DONE**
-- Groceries
-- Take fin
+- Groceries **DONE**
+- Take fin **DONE**
 ## 27.11.2024
 
 - Meditation **DONE**
