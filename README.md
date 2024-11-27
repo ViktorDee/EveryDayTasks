@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Arms and shoulders workout
+- Wash head **DONE**
+- Groceries
+- Take fin
+## 27.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - ABS and neck workout **DONE**
