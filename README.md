@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Vacuum cleaning
+- Shave neck
+- Take fin
+- Groceries
+- Legs conditioning
+## 28.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms and shoulders workout **DONE**
