@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Vacuum cleaning
-- Shave neck
-- Take fin
-- Groceries
-- Legs conditioning
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Vacuum cleaning **DONE**
+- Shave neck **DONE**
+- Take fin **DONE**
+- Groceries **DONE**
+- Legs conditioning **DONE**
 ## 28.11.2024
 
 - Meditation **DONE**
