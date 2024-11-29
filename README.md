@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Legs workout
-- Throw out the trash
-- Take fin
-- Ozon
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Legs workout **DONE**
+- Throw out the trash **DONE**
+- Take fin **DONE**
+- Ozon **DONE**
 ## 29.11.2024
 
 - Meditation **DONE**
