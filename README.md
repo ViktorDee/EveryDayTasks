@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Legs workout
+- Throw out the trash
+- Take fin
+- Ozon
+## 29.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Vacuum cleaning **DONE**
