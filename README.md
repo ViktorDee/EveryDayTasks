@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Wash head **DONE**
+- Take fin
+- Microneedling
+- Nap
+## 30.11.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Legs workout **DONE**
