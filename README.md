@@ -1,10 +1,17 @@
 - Meditation
 - Learn Japanese
 - Groceries
-- Wash head **DONE**
+- Laundry (twice)
 - Take fin
-- Microneedling
-- Nap
+## 01.12.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Wash head **DONE**
+- Take fin **DONE**
+- Microneedling **DONE**
+- Nap **DONE**
 ## 30.11.2024
 
 - Meditation **DONE**
