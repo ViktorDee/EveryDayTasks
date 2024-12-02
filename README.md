@@ -1,8 +1,20 @@
 - Meditation
 - Learn Japanese
+- Laundry
+- Ironing
 - Groceries
-- Laundry (twice)
 - Take fin
+- Retinol
+- Shave armpits
+- Shave groin
+## 02.12.2024
+
+- Meditation **DONE**
+- Ozon **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Laundry (twice) **HALF DONE**
+- Take fin **DONE**
 ## 01.12.2024
 
 - Meditation **DONE**
