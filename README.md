@@ -1,12 +1,12 @@
-- Meditation
-- Learn Japanese
-- Laundry
-- Ironing
-- Groceries
-- Take fin
-- Retinol
-- Shave armpits
-- Shave groin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Laundry **DONE**
+- Ironing **DONE**
+- Groceries **TOMORROW**
+- Take fin **DONE**
+- Retinol **DONE**
+- Shave armpits **DONE**
+- Shave groin **DONE**
 ## 02.12.2024
 
 - Meditation **DONE**
