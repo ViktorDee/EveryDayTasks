@@ -1,11 +1,11 @@
-- Meditation
-- Learn Japanese
-- Nap
-- Groceries
-- Laundry
-- Change bedsheets
-- Take fin
-- Retinol
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Nap **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Change bedsheets **DONE**
+- Take fin **DONE**
+- Retinol **DONE**
 ## 03.12.2024
 
 - Meditation **DONE**
