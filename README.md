@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Ironing
-- Take fin
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
+- Take fin **DONE**
 ## 04.12.2024
 
 - Meditation **DONE**
