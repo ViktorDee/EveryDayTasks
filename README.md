@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Ironing
+- Take fin
+## 04.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Nap **DONE**
