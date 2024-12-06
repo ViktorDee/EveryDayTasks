@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Retinol
-- Take fin
-- Groceries
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Retinol **DONE**
+- Take fin **DONE**
+- Groceries **DONE**
 - Wash head **DONE**
-- Laundry
+- Laundry **DONE**
 ## 06.12.2024
 
 - Meditation **DONE**
