@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Take fin
+- Take a nap
+- Trash out
+- Ironing
+## 07.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Retinol **DONE**
