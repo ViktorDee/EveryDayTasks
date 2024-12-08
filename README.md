@@ -1,5 +1,12 @@
 - Meditation **DONE**
 - Learn Japanese **DONE**
+- Ozon **DONE**
+- Have a walk **DONE**
+- Groceries **DONE**
+## 08.12.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
 - Groceries **DONE**
 - Take fin **DONE**
 - Take a nap **DONE**
