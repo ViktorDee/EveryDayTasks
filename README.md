@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Wash head **DONE**
+- Cut hair **DONE**
+- Shave armpits
+- Chest and back workout
+- Change bedsheets
+## 09.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ozon **DONE**
