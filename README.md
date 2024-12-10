@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout
-- Nap
-- Laundry
-- Groceries
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- ABS and neck workout **DONE**
+- Nap **FAILER**
+- Laundry **DONE**
+- Groceries **DONE**
 ## 10.12.2024
 
 - Meditation **DONE**
