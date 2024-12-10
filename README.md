@@ -1,10 +1,18 @@
 - Meditation
 - Learn Japanese
+- ABS and neck workout
+- Nap
+- Laundry
+- Groceries
+## 10.12.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
 - Wash head **DONE**
 - Cut hair **DONE**
-- Shave armpits
-- Chest and back workout
-- Change bedsheets
+- Shave armpits **DONE**
+- Chest and back workout **DONE**
+- Change bedsheets **DONE**
 ## 09.12.2024
 
 - Meditation **DONE**
