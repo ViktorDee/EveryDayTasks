@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Arms and shoulders workout
+- Vacuum cleaning
+- Groceries
+- Ironing
+## 11.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - ABS and neck workout **DONE**
