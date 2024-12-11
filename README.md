@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Arms and shoulders workout
-- Vacuum cleaning
-- Groceries
-- Ironing
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms and shoulders workout **DONE**
+- Vacuum cleaning **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
 ## 11.12.2024
 
 - Meditation **DONE**
