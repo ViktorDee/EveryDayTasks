@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Nap
-- Groceries
-- Shave neck
-- Vacuum
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Nap **DONE**
+- Groceries **DONE**
+- Shave neck **DONE**
+- Vacuum **FAILED**
 ## 12.12.2024
 
 - Meditation **DONE**
