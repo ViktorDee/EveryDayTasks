@@ -1,7 +1,7 @@
-- Meditation
-- Legs workout
-- Learn Japanese
-- Retinol
+- Meditation **DONE**
+- Legs workout **DONE**
+- Learn Japanese **DONE**
+- Retinol **DONE**
 ## 13.12.2024
 
 - Meditation **DONE**
