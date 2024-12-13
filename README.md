@@ -1,6 +1,13 @@
+- Meditation
+- Legs workout
+- Learn Japanese
+- Retinol
+## 13.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Nap **DONE**
+- Retinol **DONE**
 - Groceries **DONE**
 - Shave neck **DONE**
 - Vacuum **FAILED**
