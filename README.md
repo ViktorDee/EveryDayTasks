@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Vacuum cleaning
-- Nap
-- Clean the bath
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Vacuum cleaning **DONE**
+- Nap **DONE**
+- Clean the bath **DONE**
 ## 14.12.2024
 
 - Meditation **DONE**
