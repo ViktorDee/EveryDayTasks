@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Vacuum cleaning
+- Nap
+- Clean the bath
+## 14.12.2024
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Learn Japanese **DONE**
