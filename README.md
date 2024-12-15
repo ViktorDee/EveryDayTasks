@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Wash head
+- Shave armpits
+- Dad time
+- Clean the kitchen
+## 15.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
