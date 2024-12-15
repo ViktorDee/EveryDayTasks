@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Wash head
-- Shave armpits
-- Dad time
-- Clean the kitchen
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Wash head **DONE**
+- Shave armpits **DONE**
+- Dad time **DONE**
+- Clean the kitchen **DONE**
 ## 15.12.2024
 
 - Meditation **DONE**
