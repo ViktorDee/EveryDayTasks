@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Chest and back workout + arm
-- Groceries
-- Ozon
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout + arm **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
 ## 16.12.2024
 
 - Meditation **DONE**
