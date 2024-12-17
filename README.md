@@ -1,5 +1,12 @@
 - Meditation **DONE**
 - Learn Japanese **DONE**
+- ABS and neck **DONE**
+- Groceries **DONE**
+- Retinol **DONE**
+## 17.12.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
 - Chest and back workout + arm **DONE**
 - Groceries **DONE**
 - Ozon **DONE**
