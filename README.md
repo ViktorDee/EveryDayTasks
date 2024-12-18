@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Arms and shoulders workout
+- Wash head **DONE**
+- Retinol
+- Laundry
+- Groceries
+## 18.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - ABS and neck **DONE**
