@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Arms and shoulders workout
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms and shoulders workout **DONE**
 - Wash head **DONE**
-- Retinol
-- Laundry
-- Groceries
+- Retinol **DONE**
+- Laundry **DONE**
+- Groceries **DONE**
 ## 18.12.2024
 
 - Meditation **DONE**
