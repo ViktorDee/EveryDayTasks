@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Nap
-- Ironing
-- Change bedsheets
-- Groceries
-- Retinol
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Nap **DONE**
+- Ironing **DONE**
+- Change bedsheets **DONE**
+- Groceries **DONE**
+- Retinol **DONE**
 ## 19.12.2024
 
 - Meditation **DONE**
