@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Nap
+- Ironing
+- Change bedsheets
+- Groceries
+- Retinol
+## 19.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms and shoulders workout **DONE**
