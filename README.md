@@ -1,8 +1,8 @@
-- Meditation
-- Some Japanese
-- Legs workout
-- Retinol
-- Groceries
+- Meditation **DONE**
+- Some Japanese **DONE**
+- Legs workout **DONE**
+- Retinol **DONE**
+- Groceries **DONE**
 ## 20.12.2024
 
 - Meditation **DONE**
