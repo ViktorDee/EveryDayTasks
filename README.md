@@ -1,10 +1,17 @@
+- Meditation
+- Some Japanese
+- Legs workout
+- Retinol
+- Groceries
+## 20.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Nap **DONE**
 - Ironing **DONE**
 - Change bedsheets **DONE**
 - Groceries **DONE**
-- Retinol **DONE**
+- Retinol **FAILED**
 ## 19.12.2024
 
 - Meditation **DONE**
