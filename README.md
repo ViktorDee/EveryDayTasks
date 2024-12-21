@@ -1,10 +1,11 @@
-- Meditation
-- Learn Japanese
-- Post Office
-- Lenta for gifts
-- Groceries
-- Microneedling
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Post Office **MONDAY**
+- Lenta for gifts **DONE**
+- Groceries **TOMORROW**
+- Microneedling **DONE**
+- Laundry **TOMORROW**
+- Wash head **DONE**
 ## 21.12.2024
 
 - Meditation **DONE**
