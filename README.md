@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Post Office
+- Lenta for gifts
+- Groceries
+- Microneedling
+- Laundry
+## 21.12.2024
+
 - Meditation **DONE**
 - Some Japanese **DONE**
 - Legs workout **DONE**
