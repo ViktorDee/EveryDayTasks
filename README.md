@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- 洗濯
+- Shave neck
+## 22.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Post Office **MONDAY**
