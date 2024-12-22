@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- 洗濯
-- Shave neck
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- 洗濯 **DONE**
+- Shave neck **DONE**
 ## 22.12.2024
 
 - Meditation **DONE**
