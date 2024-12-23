@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout
+- Post Office
+- Ironing
+- Ilya code lavka
+## 23.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
