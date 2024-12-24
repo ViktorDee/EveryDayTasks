@@ -1,7 +1,7 @@
-- Meditation
-- ABS and neck
-- Learn Japanese
-- Ilya lavka
+- Meditation **DONE**
+- ABS and neck **DONE**
+- Learn Japanese **DONE**
+- Ilya lavka **FAILED**
 ## 24.12.2024
 
 - Meditation **DONE**
