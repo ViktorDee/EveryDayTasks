@@ -1,9 +1,15 @@
 - Meditation
+- ABS and neck
 - Learn Japanese
-- Chest and back workout
-- Post Office
-- Ironing
-- Ilya code lavka
+- Ilya lavka
+## 24.12.2024
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout **DONE**
+- Post Office **DONE**
+- Ironing **DONE**
+- Ilya code lavka **FAILED**
 ## 23.12.2024
 
 - Meditation **DONE**
