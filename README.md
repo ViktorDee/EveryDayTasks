@@ -1,11 +1,11 @@
-- Meditation
-- Learn Japanese
-- Arms and shoulders workout
-- Vacuum cleaning
-- Groceries
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms and shoulders workout **DONE**
+- Vacuum cleaning **DONE**
+- Groceries **DONE**
+- Laundry **DONE** 
 - Wash head **DONE**
-- Ozon
+- Ozon **DONE**
 ## 25.12.2024
 
 - Meditation **DONE**
