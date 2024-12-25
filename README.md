@@ -1,3 +1,13 @@
+- Meditation
+- Learn Japanese
+- Arms and shoulders workout
+- Vacuum cleaning
+- Groceries
+- Laundry
+- Wash head **DONE**
+- Ozon
+## 25.12.2024
+
 - Meditation **DONE**
 - ABS and neck **DONE**
 - Learn Japanese **DONE**
