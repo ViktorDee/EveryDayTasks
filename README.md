@@ -1,10 +1,11 @@
-- Meditation
-- Learn Japanese
-- Nap
-- Ozon
-- Ironing
-- Change bedsheets
-- Groceries
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Nap **DONE**
+- Ozon **DONE**
+- Trash out **DONE**
+- Ironing **DONE**
+- Change bedsheets **DONE**
+- Groceries **DONE**
 ## 26.12.2024
 
 - Meditation **DONE**
