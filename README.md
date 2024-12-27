@@ -1,7 +1,7 @@
-- Meditation
-- Some Japanese
-- Wildberries
-- Legs workout
+- Meditation **DONE**
+- Some Japanese **DONE**
+- Wildberries **DONE**
+- Legs workout **DONE**
 ## 27.12.2024
 
 - Meditation **DONE**
