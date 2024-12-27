@@ -1,3 +1,9 @@
+- Meditation
+- Some Japanese
+- Wildberries
+- Legs workout
+## 27.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Nap **DONE**
