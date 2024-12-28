@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Groceries
+- Laundry
+- Wash head
+## 28.12.2024
+
 - Meditation **DONE**
 - Some Japanese **DONE**
 - Wildberries **DONE**
