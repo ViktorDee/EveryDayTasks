@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Ozon
-- Groceries
-- Laundry
-- Wash head
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Ozon **DONE**
+- Groceries **DONE**
+- Laundry **DONE**
+- Wash head **DONE**
 ## 28.12.2024
 
 - Meditation **DONE**
