@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Ozon
-- Shave neck
-- Ironing
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Ozon **DONE**
+- Shave neck **FAILED**
+- Ironing **FAILED**
 ## 29.12.2024
 
 - Meditation **DONE**
