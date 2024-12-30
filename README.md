@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Chest and back workout
-- Groceries
-- Shave neck
-- Ironing
-- Bills
+- Meditation **DONE**
+- Learn Japanese **FAILED**
+- Chest and back workout **DONE**
+- Groceries **DONE**
+- Shave neck **DONE**
+- Ironing **DONE**
+- Bills **DONE**
 ## 30.12.2024
 
 - Meditation **DONE**
