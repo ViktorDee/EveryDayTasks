@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout
+- Groceries
+- Shave neck
+- Ironing
+- Bills
+## 30.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ozon **DONE**
