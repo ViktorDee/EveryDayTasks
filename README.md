@@ -1,3 +1,10 @@
+- Learn Japanese
+- Nap
+- Wash head **DONE**
+- ABS and neck
+- Delivery
+## 31.12.2024
+
 - Meditation **DONE**
 - Learn Japanese **FAILED**
 - Chest and back workout **DONE**
