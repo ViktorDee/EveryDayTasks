@@ -1,8 +1,9 @@
-- Learn Japanese
-- Nap
+- Learn Japanese **DONE**
+- Nap **DONE**
+- Trash out **DONE**
 - Wash head **DONE**
-- ABS and neck
-- Delivery
+- ABS and neck **DONE**
+- Delivery **DONE**
 ## 31.12.2024
 
 - Meditation **DONE**
