@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Arms and shoulders workout
-- Shave beard
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Arms and shoulders workout **DONE**
+- Shave beard **DONE**
 ## 01.01.2025
 
 - Learn Japanese **DONE**
