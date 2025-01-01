@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Arms and shoulders workout
+- Shave beard
+## 01.01.2025
+
 - Learn Japanese **DONE**
 - Nap **DONE**
 - Trash out **DONE**
