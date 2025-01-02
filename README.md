@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Post Office
+- Ozon
+- Rinse nose
+## 02.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
