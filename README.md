@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Post Office
-- Ozon
-- Rinse nose
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Groceries **DONE**
+- Post Office **DONE**
+- Ozon **DONE**
+- Rinse nose **DONE**
 ## 02.01.2025
 
 - Meditation **DONE**
