@@ -1,3 +1,11 @@
+- Meditation
+- Legs workout
+- Wash head **DONE**
+- Go get kebab
+- Shave groin
+- Vacuum cleaning
+## 02.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Groceries **DONE**
