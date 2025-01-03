@@ -1,9 +1,9 @@
-- Meditation
-- Legs workout
+- Meditation **DONE**
+- Legs workout **MONDAY**
 - Wash head **DONE**
-- Go get kebab
-- Shave groin
-- Vacuum cleaning
+- Go get kebab **DONE**
+- Shave groin **DONE**
+- Vacuum cleaning **TOMORROW**
 ## 02.01.2025
 
 - Meditation **DONE**
