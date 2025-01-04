@@ -1,9 +1,9 @@
-- Meditation
-- KDL
-- Lavka
-- Vacuum cleaning
-- Have a walk
-- Groceries
+- Meditation **DONE**
+- KDL **DONE**
+- Lavka **DONE**
+- Vacuum cleaning **DONE**
+- Have a walk **FAILED**
+- Groceries **DONE**
 ## 05.01.2025
 
  Meditation **DONE**
