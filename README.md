@@ -1,10 +1,18 @@
-- Meditation **DONE**
+- Meditation
+- KDL
+- Lavka
+- Vacuum cleaning
+- Have a walk
+- Groceries
+## 05.01.2025
+
+ Meditation **DONE**
 - Legs workout **MONDAY**
 - Wash head **DONE**
 - Go get kebab **DONE**
 - Shave groin **DONE**
 - Vacuum cleaning **TOMORROW**
-## 02.01.2025
+## 04.01.2025
 
 - Meditation **DONE**
 - Learn Japanese **DONE**
