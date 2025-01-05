@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Groceries
-- Laundry
-- Shave armpits
-- Legs conditioning
+- Meditation **DONE**
+- Learn Japanese **FAILED**
+- Groceries **DONE**
+- Laundry **FAILED**
+- Shave armpits **DONE**
+- Legs conditioning **FAILED**
 ## 06.01.2025
 
 - Meditation **DONE**
