@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Laundry
+- Shave armpits
+- Legs conditioning
+## 06.01.2025
+
 - Meditation **DONE**
 - KDL **DONE**
 - Lavka **DONE**
