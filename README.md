@@ -1,9 +1,9 @@
-- Meditation
-- A bit of Japanese
-- Legs workout
-- Laundry
+- Meditation **DONE**
+- A bit of Japanese **DONE**
+- Legs workout **DONE**
+- Laundry **DONE**
 - Wash head **DONE**
-- Ozon
+- Ozon **DONE**
 ## 06.01.2025
 
 - Meditation **DONE**
