@@ -1,10 +1,18 @@
+- Meditation
+- A bit of Japanese
+- Legs workout
+- Laundry
+- Wash head **DONE**
+- Ozon
+## 06.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **FAILED**
 - Groceries **DONE**
 - Laundry **FAILED**
 - Shave armpits **DONE**
 - Legs conditioning **FAILED**
-## 06.01.2025
+## 05.01.2025
 
 - Meditation **DONE**
 - KDL **DONE**
@@ -12,7 +20,7 @@
 - Vacuum cleaning **DONE**
 - Have a walk **FAILED**
 - Groceries **DONE**
-## 05.01.2025
+## 04.01.2025
 
  Meditation **DONE**
 - Legs workout **MONDAY**
@@ -20,7 +28,7 @@
 - Go get kebab **DONE**
 - Shave groin **DONE**
 - Vacuum cleaning **TOMORROW**
-## 04.01.2025
+## 03.01.2025
 
 - Meditation **DONE**
 - Learn Japanese **DONE**
