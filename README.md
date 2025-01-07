@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Groceries
+- Ironing
+- Armpits call/message
+- Clean the mirror
+## 07.01.2025
+
 - Meditation **DONE**
 - A bit of Japanese **DONE**
 - Legs workout **DONE**
