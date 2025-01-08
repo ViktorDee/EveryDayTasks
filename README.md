@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Laundry
-- SDEK
-- Clean air vent
-- Push ups, biceps, triceps
+- Meditation **DONE**
+- Learn Japanese **HALF**
+- Laundry **DONE**
+- SDEK **DONE**
+- Clean air vent **DONE**
+- Push ups, biceps, triceps **HALF**
 ## 08.01.2025
 
 - Meditation **DONE**
