@@ -1,9 +1,17 @@
 - Meditation
 - Learn Japanese
-- Groceries
-- Ironing
-- Armpits call/message
-- Clean the mirror
+- Laundry
+- SDEK
+- Clean air vent
+- Push ups, biceps, triceps
+## 08.01.2025
+
+- Meditation **DONE**
+- Learn Japanese **HALF**
+- Groceries **DONE**
+- Ironing **FAILED**
+- Armpits call/message **DONE**
+- Clean the mirror **DONE**
 ## 07.01.2025
 
 - Meditation **DONE**
