@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Biceps and triceps
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Biceps and triceps **DONE**
 - Wash head **DONE**
-- Shave neck
-- Ironing
-- Groceries
+- Shave neck **DONE**
+- Ironing **DONE**
+- Groceries **DONE**
 ## 09.01.2025
 
 - Meditation **DONE**
