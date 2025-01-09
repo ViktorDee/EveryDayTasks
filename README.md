@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Biceps and triceps
+- Wash head **DONE**
+- Shave neck
+- Ironing
+- Groceries
+## 09.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **HALF**
 - Laundry **DONE**
