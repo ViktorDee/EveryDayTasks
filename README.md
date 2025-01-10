@@ -1,7 +1,7 @@
-- Meditation
-- Learn Japanese
-- Have a walk
-- Trim face
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Have a walk **FAILED**
+- Trim face **DONE**
 ## 10.01.2025
 
 - Meditation **DONE**
