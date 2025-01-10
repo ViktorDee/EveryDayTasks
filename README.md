@@ -1,3 +1,9 @@
+- Meditation
+- Learn Japanese
+- Have a walk
+- Trim face
+## 10.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Biceps and triceps **DONE**
