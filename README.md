@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Trash out
+- Groceries
+- Ozon
+- Change bedsheets
+## 11.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Have a walk **FAILED**
