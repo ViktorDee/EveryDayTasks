@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Trash out
-- Groceries
-- Ozon
-- Change bedsheets
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Trash out **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
+- Change bedsheets **TOMORROW**
 ## 11.01.2025
 
 - Meditation **DONE**
