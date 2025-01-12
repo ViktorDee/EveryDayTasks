@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
+- Meditation **DONE**
+- Learn Japanese **DONE**
 - Wash head **DONE**
 - Cut hair **DONE**
-- Change bedsheets
-- Laundry
+- Change bedsheets **DONE**
+- Laundry **DONE**
 ## 12.01.2025
 
 - Meditation **DONE**
