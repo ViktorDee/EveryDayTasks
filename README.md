@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout
+- Ironing
+- BHA
+## 13.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Wash head **DONE**
