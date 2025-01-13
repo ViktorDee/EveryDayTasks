@@ -1,8 +1,9 @@
-- Meditation
-- Learn Japanese
-- Chest and back workout
-- Ironing
-- BHA
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout **DONE**
+- Ironing **DONE**
+- BHA **DONE**
+- Cut nails on toes **DONE**
 ## 13.01.2025
 
 - Meditation **DONE**
