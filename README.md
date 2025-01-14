@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- ABS and neck workout
+- Groceries
+- Shave armpits
+- Armpits
+## 14.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Chest and back workout **DONE**
