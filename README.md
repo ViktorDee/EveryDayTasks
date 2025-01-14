@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- ABS and neck workout
-- Groceries
-- Shave armpits
-- Armpits
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- ABS and neck workout **DONE**
+- Groceries **DONE**
+- Shave armpits  **DONE**
+- Armpits **DONE**
 ## 14.01.2025
 
 - Meditation **DONE**
