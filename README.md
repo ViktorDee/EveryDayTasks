@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Arms and shoulders workout
+- Wash head
+- Legs conditioning
+- Shave neck
+## 15.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - ABS and neck workout **DONE**
