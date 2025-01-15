@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Arms and shoulders workout
-- Wash head
-- Legs conditioning
-- Shave neck
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms and shoulders workout **DONE**
+- Wash head **DONE**
+- Legs conditioning **ONLY STRETCHED**
+- Shave neck 
 ## 15.01.2025
 
 - Meditation **DONE**
