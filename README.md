@@ -1,9 +1,15 @@
+- Meditation
+- Learn Japanese
+- Clean bath
+- Vacuum cleaning
+## 16.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms and shoulders workout **DONE**
 - Wash head **DONE**
 - Legs conditioning **ONLY STRETCHED**
-- Shave neck 
+- Shave neck **DONE**
 ## 15.01.2025
 
 - Meditation **DONE**
