@@ -1,7 +1,8 @@
-- Meditation
-- Learn Japanese
-- Clean bath
-- Vacuum cleaning
+- Meditation **DONE**
+- Learn Japanese **DONE**
+  Groceries **DONE**
+- Clean bath **DONE**
+- Vacuum cleaning **DONE**
 ## 16.01.2025
 
 - Meditation **DONE**
