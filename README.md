@@ -1,3 +1,8 @@
+- Meditation
+- Legs workout
+- Ozon
+## 17.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
   Groceries **DONE**
