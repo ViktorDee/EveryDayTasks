@@ -1,9 +1,9 @@
-- Meditation
+- Meditation **DONE**
 - Wash head **DONE**
-- Delivery
-- Groceries
-- Ozon
-- Have a walk
+- Delivery **DONE**
+- Groceries **DONE**
+- Ozon **DONE**
+- Have a walk **DONE**
 ## 18.01.2025
 
 - Meditation **DONE**
