@@ -1,6 +1,15 @@
 - Meditation
-- Legs workout
+- Wash head **DONE**
+- Delivery
+- Groceries
 - Ozon
+- Have a walk
+## 18.01.2025
+
+- Meditation **DONE**
+- Legs workout **DONE**
+- Ozon **TOMORROW**
+- Trash out **DONE**
 ## 17.01.2025
 
 - Meditation **DONE**
