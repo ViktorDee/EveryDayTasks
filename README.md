@@ -1,8 +1,8 @@
-- Meditation
-- Learn Japanese
-- Have a walk
-- Change bedsheets
-- Laundry
+- Meditation **DONE**
+- Learn Japanese **FAILED**
+- Have a walk **FAILED**
+- Change bedsheets **DONE**
+- Laundry **DONE**
 - Trim face **DONE**
 ## 19.01.2025
 
