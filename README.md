@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Have a walk
+- Change bedsheets
+- Laundry
+- Trim face **DONE**
+## 19.01.2025
+
 - Meditation **DONE**
 - Wash head **DONE**
 - Delivery **DONE**
