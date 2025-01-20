@@ -1,3 +1,10 @@
+- Meditation
+- Learn Japanese
+- Chest and back workout
+- Withdraw money
+- Ironing
+## 20.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **FAILED**
 - Have a walk **FAILED**
