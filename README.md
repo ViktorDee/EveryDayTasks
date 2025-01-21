@@ -1,8 +1,18 @@
 - Meditation
 - Learn Japanese
-- Chest and back workout
-- Withdraw money
-- Ironing
+- Wash head **DONE**
+- ABS and neck workout
+- Laundry
+- Shave neck
+- Wildberries
+- Shave armpits
+## 21.01.2025
+
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Chest and back workout **DONE**
+- Withdraw money **DONE**
+- Ironing **DONE**
 ## 20.01.2025
 
 - Meditation **DONE**
