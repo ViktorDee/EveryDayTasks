@@ -1,11 +1,11 @@
-- Meditation
-- Learn Japanese
+- Meditation **DONE**
+- Learn Japanese **FAILED**
 - Wash head **DONE**
-- ABS and neck workout
-- Laundry
-- Shave neck
-- Wildberries
-- Shave armpits
+- ABS and neck workout **DONE**
+- Laundry **DONE**
+- Shave neck **DONE**
+- Wildberries **DONE**
+- Shave armpits **DONE**
 ## 21.01.2025
 
 - Meditation **DONE**
