@@ -1,3 +1,12 @@
+- Meditation
+- Learn Japanese
+- Arms and shoulders workout
+- Shave neck
+- Monitor pick up
+- Groceries
+- Ironing
+## 22.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **FAILED**
 - Wash head **DONE**
