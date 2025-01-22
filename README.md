@@ -1,10 +1,10 @@
-- Meditation
-- Learn Japanese
-- Arms and shoulders workout
-- Shave neck
-- Monitor pick up
-- Groceries
-- Ironing
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Arms and shoulders workout **DONE**
+- Shave neck **DONE**
+- Monitor pick up **DONE**
+- Groceries **DONE**
+- Ironing **DONE**
 ## 22.01.2025
 
 - Meditation **DONE**
