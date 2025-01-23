@@ -1,3 +1,11 @@
+- Meditation
+- Learn Japanese
+- Ozon
+- Clean the keyboard
+- Screw in the GPU
+- Groceries
+## 23.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Arms and shoulders workout **DONE**
