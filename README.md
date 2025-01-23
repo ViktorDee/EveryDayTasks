@@ -1,9 +1,9 @@
-- Meditation
-- Learn Japanese
-- Ozon
-- Clean the keyboard
-- Screw in the GPU
-- Groceries
+- Meditation **DONE**
+- Learn Japanese **DONE**
+- Ozon **DONE**
+- Clean the keyboard **DONE**
+- Screw in the GPU **DONE**
+- Groceries **DONE**
 ## 23.01.2025
 
 - Meditation **DONE**
