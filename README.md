@@ -1,3 +1,9 @@
+- Meditation
+- Legs workout
+- Ozon
+- Wash head **DONE**
+## 24.01.2025
+
 - Meditation **DONE**
 - Learn Japanese **DONE**
 - Ozon **DONE**
