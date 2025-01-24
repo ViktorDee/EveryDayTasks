@@ -1,6 +1,6 @@
-- Meditation
-- Legs workout
-- Ozon
+- Meditation **DONE**
+- Legs workout **DONE**
+- Ozon **DONE**
 - Wash head **DONE**
 ## 24.01.2025
 
