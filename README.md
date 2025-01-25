@@ -1,3 +1,9 @@
+- Meditation
+- Learn Japanese
+- Finish my PC
+- Groceries
+## 25.01.2025
+
 - Meditation **DONE**
 - Legs workout **DONE**
 - Ozon **DONE**
